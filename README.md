@@ -1,6 +1,6 @@
-# jd-jmdict
+# jmdict
 
-Japanese Data (JD) jmdict data module.
+JPND jmdict data module.
 
 ## License
 
