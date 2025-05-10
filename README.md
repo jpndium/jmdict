@@ -1,6 +1,6 @@
 # jmdict
 
-JPND jmdict data module.
+The jpndium jmdict data module.
 
 ## License
 
