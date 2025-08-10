@@ -4164,7 +4164,7 @@
 {"ent_seq":2865042,"k_ele":[{"keb":"水金地火木土天海"}],"r_ele":[{"reb":"すいきんちかもくどてんかい"},{"reb":"すいきんちかもくどってんかい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"(mnemonic for) Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune"}]}]}
 {"ent_seq":2865043,"k_ele":[{"keb":"記録保持者"}],"r_ele":[{"reb":"きろくほじしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"record holder"}]}]}
 {"ent_seq":2865044,"r_ele":[{"reb":"リングアナウンサー"},{"reb":"リング・アナウンサー"}],"sense":[{"pos":["&n;"],"field":["&sports;"],"gloss":[{"value":"ring announcer (boxing)"}]}]}
-{"ent_seq":2865045,"k_ele":[{"keb":"水金地火木土天海冥"}],"r_ele":[{"reb":"すいきんちかもくどてんかいめい"}],"sense":[{"pos":["&n;"],"xref":["水金地火木土天海"],"gloss":[{"value":"(mnemonic for) Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto"}]}]}
+{"ent_seq":2865045,"k_ele":[{"keb":"水金地火木土天海冥"}],"r_ele":[{"reb":"すいきんちかもくどてんかいめい"},{"reb":"すいきんちかもくどってんかいめい"}],"sense":[{"pos":["&n;"],"xref":["水金地火木土天海"],"gloss":[{"value":"(mnemonic for) Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune and Pluto"}]}]}
 {"ent_seq":2865046,"r_ele":[{"reb":"ナット"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"nat"},{"value":"natural unit of information"}]}]}
 {"ent_seq":2865047,"r_ele":[{"reb":"ランゲージスクール"},{"reb":"ランゲージ・スクール"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"language school"}]}]}
 {"ent_seq":2865048,"k_ele":[{"keb":"卵巣過剰刺激症候群"}],"r_ele":[{"reb":"らんそうかじょうしげきしょうこうぐん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"ovarian hyperstimulation syndrome"},{"value":"OHSS"}]}]}
@@ -5761,11 +5761,162 @@
 {"ent_seq":2866726,"k_ele":[{"keb":"共時"}],"r_ele":[{"reb":"きょうじ"}],"sense":[{"pos":["&n;"],"xref":["通時"],"field":["&ling;"],"gloss":[{"value":"synchrony"}]}]}
 {"ent_seq":2866727,"k_ele":[{"keb":"後頸部"}],"r_ele":[{"reb":"こうけいぶ"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"nape"},{"value":"back of the neck"}]}]}
 {"ent_seq":2866728,"k_ele":[{"keb":"栄養神経"}],"r_ele":[{"reb":"えいようしんけい"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"trophic nerve"}]}]}
+{"ent_seq":2866729,"r_ele":[{"reb":"うゆ"}],"sense":[{"pos":["&int;"],"xref":["うん・1"],"misc":["&sl;"],"gloss":[{"value":"yes"},{"value":"yeah"},{"value":"uh huh"}]}]}
 {"ent_seq":2866730,"k_ele":[{"keb":"潤香"},{"keb":"鱁鮧","ke_inf":["&sK;"]}],"r_ele":[{"reb":"うるか"}],"sense":[{"pos":["&n;"],"field":["&food;"],"misc":["&uk;"],"gloss":[{"value":"fermented sweetfish entrails and roe"}]}]}
 {"ent_seq":2866731,"k_ele":[{"keb":"蒸解"}],"r_ele":[{"reb":"じょうかい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"cooking (of wood to produce pulp in paper production)"},{"value":"digestion"}]}]}
 {"ent_seq":2866732,"r_ele":[{"reb":"ジャンボタクシー"},{"reb":"ジャンボ・タクシー"}],"sense":[{"pos":["&n;"],"lsource":[{"value":"jumbo taxi","ls_wasei":"y"}],"gloss":[{"value":"van taxi (carrying up to nine passengers)"}]}]}
 {"ent_seq":2866733,"k_ele":[{"keb":"薬売り"}],"r_ele":[{"reb":"くすりうり"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"traveling patent-medicine salesman"},{"value":"medicine peddler"}]}]}
-{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2025-08-03"}]}]}
+{"ent_seq":2866735,"r_ele":[{"reb":"バリアート"}],"sense":[{"pos":["&n;"],"s_inf":["from バリカン + アート"],"gloss":[{"value":"shaving an image or design into close-cropped hair"}]}]}
+{"ent_seq":2866736,"r_ele":[{"reb":"ヒュードロドロ"},{"reb":"ひゅーどろどろ"}],"sense":[{"pos":["&adv;","&adv-to;"],"xref":["ヒュー","ドロドロ"],"misc":["&on-mim;"],"gloss":[{"value":"sound made when a ghost appears"}]}]}
+{"ent_seq":2866737,"r_ele":[{"reb":"キサントン"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"xanthone"}]}]}
+{"ent_seq":2866738,"k_ele":[{"keb":"臭木椿象"},{"keb":"臭木亀虫"}],"r_ele":[{"reb":"クサギカメムシ","re_nokanji":true},{"reb":"くさぎかめむし"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"brown marmorated stink bug (Halyomorpha halys)"}]}]}
+{"ent_seq":2866739,"k_ele":[{"keb":"小菜蛾"}],"r_ele":[{"reb":"コナガ","re_nokanji":true},{"reb":"こなが"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"diamondback moth (Plutella xylostella)"},{"value":"cabbage moth"}]}]}
+{"ent_seq":2866740,"k_ele":[{"keb":"里海"}],"r_ele":[{"reb":"さとうみ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"protected undeveloped coastline near populated areas"},{"value":"section of ocean that coexists with a nearby populated area"}]}]}
+{"ent_seq":2866741,"k_ele":[{"keb":"菰樽"},{"keb":"こも樽"},{"keb":"薦樽","ke_inf":["&rK;"]}],"r_ele":[{"reb":"こもだる"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"sake barrel wrapped in straw matting"}]}]}
+{"ent_seq":2866742,"k_ele":[{"keb":"砂抜き"}],"r_ele":[{"reb":"すなぬき"}],"sense":[{"pos":["&n;","&vs;","&vt;"],"field":["&food;"],"gloss":[{"value":"soaking of clams in salt water to remove grit"}]}]}
+{"ent_seq":2866743,"r_ele":[{"reb":"アンスト"}],"sense":[{"pos":["&n;","&vs;","&vt;"],"xref":["アンインストール"],"field":["&comp;"],"misc":["&abbr;","&col;"],"gloss":[{"value":"uninstallation"}]}]}
+{"ent_seq":2866744,"k_ele":[{"keb":"砂金石"}],"r_ele":[{"reb":"さきんせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"aventurine"},{"value":"goldstone"}]}]}
+{"ent_seq":2866745,"k_ele":[{"keb":"展望風呂"}],"r_ele":[{"reb":"てんぼうぶろ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"bath with a view"}]}]}
+{"ent_seq":2866746,"k_ele":[{"keb":"針銀鉱"}],"r_ele":[{"reb":"しんぎんこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"acanthite"}]}]}
+{"ent_seq":2866747,"k_ele":[{"keb":"斧石"}],"r_ele":[{"reb":"おのいし"},{"reb":"ふせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"axinite"}]}]}
+{"ent_seq":2866748,"k_ele":[{"keb":"閃マンガン鉱"}],"r_ele":[{"reb":"せんマンガンこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"alabandite"},{"value":"alabandine"}]}]}
+{"ent_seq":2866749,"k_ele":[{"keb":"テルル鉛鉱"}],"r_ele":[{"reb":"テルルえんこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"altaite"}]}]}
+{"ent_seq":2866750,"k_ele":[{"keb":"アルミノケイ酸塩"}],"r_ele":[{"reb":"アルミノケイさんえん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"aluminosilicate"}]}]}
+{"ent_seq":2866751,"r_ele":[{"reb":"アンブリゴナイト"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"amblygonite"}]}]}
+{"ent_seq":2866752,"r_ele":[{"reb":"アメトリン"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"ametrine"}]}]}
+{"ent_seq":2866753,"k_ele":[{"keb":"方沸石"}],"r_ele":[{"reb":"ほうふつせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"analcite"}]}]}
+{"ent_seq":2866754,"r_ele":[{"reb":"アングレサイト"}],"sense":[{"pos":["&n;"],"xref":["硫酸鉛鉱"],"field":["&min;"],"gloss":[{"value":"anglesite"}]}]}
+{"ent_seq":2866755,"r_ele":[{"reb":"アンダルサイト"},{"reb":"アンダリュサイト"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"andalusite"}]}]}
+{"ent_seq":2866756,"r_ele":[{"reb":"アンデシン"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"andesine"}]}]}
+{"ent_seq":2866757,"r_ele":[{"reb":"アンドラダイト"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"andradite"}]}]}
+{"ent_seq":2866758,"r_ele":[{"reb":"アノーサイト"}],"sense":[{"pos":["&n;"],"xref":["灰長石"],"field":["&min;"],"gloss":[{"value":"anorthite"}]}]}
+{"ent_seq":2866759,"r_ele":[{"reb":"スティブナイト"}],"sense":[{"pos":["&n;"],"xref":["輝安鉱"],"misc":["&rare;"],"gloss":[{"value":"stibnite"}]}]}
+{"ent_seq":2866760,"r_ele":[{"reb":"アンソフィライト"}],"sense":[{"pos":["&n;"],"xref":["直閃石"],"field":["&min;"],"gloss":[{"value":"anthophyllite"}]}]}
+{"ent_seq":2866761,"r_ele":[{"reb":"アポフィライト"}],"sense":[{"pos":["&n;"],"xref":["魚眼石"],"field":["&min;"],"gloss":[{"value":"apophyllite"}]}]}
+{"ent_seq":2866762,"r_ele":[{"reb":"アラゴナイト"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"aragonite"}]}]}
+{"ent_seq":2866763,"k_ele":[{"keb":"アルベゾン閃石"}],"r_ele":[{"reb":"アルベゾンせんせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"arfvedsonite"}]}]}
+{"ent_seq":2866764,"k_ele":[{"keb":"アタカマ鉱"}],"r_ele":[{"reb":"アタカマこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"atacamite"}]}]}
+{"ent_seq":2866765,"r_ele":[{"reb":"アウゲライト"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"augelite"}]}]}
+{"ent_seq":2866766,"k_ele":[{"keb":"水亜鉛銅鉱"}],"r_ele":[{"reb":"すいあえんどうこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"aurichalcite"}]}]}
+{"ent_seq":2866767,"k_ele":[{"keb":"石痳"}],"r_ele":[{"reb":"せきりん"}],"sense":[{"pos":["&n;"],"xref":["尿石症"],"field":["&med;"],"misc":["&rare;"],"gloss":[{"value":"urolithiasis"}]}]}
+{"ent_seq":2866768,"k_ele":[{"keb":"油抜き"},{"keb":"脂抜き","ke_inf":["&sK;"]}],"r_ele":[{"reb":"あぶらぬき"}],"sense":[{"pos":["&n;","&vs;","&vt;"],"field":["&food;"],"gloss":[{"value":"pouring boiling water over fried dishes to remove excess oil"}]},{"pos":["&n;"],"field":["&art;"],"gloss":[{"value":"western resist technique in porcelain painting using turpentine oil"}]},{"pos":["&n;"],"gloss":[{"value":"oil extraction"},{"value":"oil extractor"},{"value":"oil removal"}]}]}
+{"ent_seq":2866769,"k_ele":[{"keb":"豆石"}],"r_ele":[{"reb":"まめいし"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"pisolite"}]}]}
+{"ent_seq":2866772,"k_ele":[{"keb":"黝輝石"}],"r_ele":[{"reb":"ゆうきせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"spodumene"}]}]}
+{"ent_seq":2866773,"k_ele":[{"keb":"上絵付け"},{"keb":"上絵付","ke_inf":["&sK;"]}],"r_ele":[{"reb":"うわえつけ"}],"sense":[{"pos":["&n;"],"field":["&art;"],"gloss":[{"value":"overglaze painting (of ceramics)"},{"value":"overglaze enamelling"},{"value":"overglaze"}]}]}
+{"ent_seq":2866774,"r_ele":[{"reb":"セクストーション"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"sextortion"}]}]}
+{"ent_seq":2866775,"k_ele":[{"keb":"犬牙石"}],"r_ele":[{"reb":"けんがせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"dogtooth spar"}]}]}
+{"ent_seq":2866777,"k_ele":[{"keb":"紙石盤"}],"r_ele":[{"reb":"かみせきばん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"paper slate"}]}]}
+{"ent_seq":2866778,"k_ele":[{"keb":"光鹵石"}],"r_ele":[{"reb":"こうろせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"carnallite"}]}]}
+{"ent_seq":2866779,"k_ele":[{"keb":"陽起石"}],"r_ele":[{"reb":"ようきせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"actinolite"}]}]}
+{"ent_seq":2866780,"k_ele":[{"keb":"鉄石英"}],"r_ele":[{"reb":"てつせきえい"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"ferruginous quartz"}]}]}
+{"ent_seq":2866781,"k_ele":[{"keb":"馬蹄石"}],"r_ele":[{"reb":"ばていせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"obsidian"}]}]}
+{"ent_seq":2866782,"k_ele":[{"keb":"暗号解"}],"r_ele":[{"reb":"あんごうかい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"cipher-key"},{"value":"key to a code"}]}]}
+{"ent_seq":2866783,"k_ele":[{"keb":"珊瑚石"}],"r_ele":[{"reb":"さんごいし"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"corallite"}]}]}
+{"ent_seq":2866784,"k_ele":[{"keb":"吐酒石"}],"r_ele":[{"reb":"としゅせき"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"tartar emetic"},{"value":"antimony potassium tartrate"}]}]}
+{"ent_seq":2866785,"k_ele":[{"keb":"魚卵石"}],"r_ele":[{"reb":"ぎょらんいし"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"oolite"},{"value":"oolith"}]}]}
+{"ent_seq":2866786,"r_ele":[{"reb":"みゃー"},{"reb":"ミャー"}],"sense":[{"pos":["&n;"],"misc":["&on-mim;"],"gloss":[{"value":"meow"},{"value":"mew"}]}]}
+{"ent_seq":2866787,"k_ele":[{"keb":"天藍石"}],"r_ele":[{"reb":"てんらんせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"lazulite"}]}]}
+{"ent_seq":2866788,"k_ele":[{"keb":"燐礬石"}],"r_ele":[{"reb":"りんばんせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"amblygonite"}]}]}
+{"ent_seq":2866789,"r_ele":[{"reb":"ライスセンター"},{"reb":"ライス・センター"}],"sense":[{"pos":["&n;"],"lsource":[{"value":"rice center","ls_wasei":"y"}],"gloss":[{"value":"rice processing facility"}]}]}
+{"ent_seq":2866790,"k_ele":[{"keb":"影踏み"},{"keb":"影踏","ke_inf":["&sK;"]}],"r_ele":[{"reb":"かげふみ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"shadow tag (children's game)"},{"value":"game of stepping on each others' shadows"}]}]}
+{"ent_seq":2866791,"k_ele":[{"keb":"手つなぎ鬼"},{"keb":"手繋ぎ鬼","ke_inf":["&rK;"]},{"keb":"てつなぎ鬼","ke_inf":["&sK;"]}],"r_ele":[{"reb":"てつなぎおに"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"chain tag (tag variant in which caught players hold hands with the tagger)"}]}]}
+{"ent_seq":2866792,"k_ele":[{"keb":"高鬼"},{"keb":"たか鬼","ke_inf":["&sK;"]}],"r_ele":[{"reb":"たかおに"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"tag game variant in which a player cannot be tagged if above the ground"}]}]}
+{"ent_seq":2866793,"k_ele":[{"keb":"日向水木"}],"r_ele":[{"reb":"ヒュウガミズキ","re_nokanji":true},{"reb":"ひゅうがみずき"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"buttercup witch hazel (Corylopsis pauciflora)"},{"value":"winter hazel"}]}]}
+{"ent_seq":2866794,"k_ele":[{"keb":"ぬる燗"},{"keb":"温燗"}],"r_ele":[{"reb":"ぬるかん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"warmed sake (to around forty degrees Celsius)"}]}]}
+{"ent_seq":2866795,"k_ele":[{"keb":"上燗"}],"r_ele":[{"reb":"じょうかん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"moderately heated sake"}]}]}
+{"ent_seq":2866796,"k_ele":[{"keb":"未来図"}],"r_ele":[{"reb":"みらいず"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"future vision"},{"value":"plan for the future"}]}]}
+{"ent_seq":2866797,"k_ele":[{"keb":"ＶＵＣＡ"}],"r_ele":[{"reb":"ブーカ"},{"reb":"ブカ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"volatility, uncertainty, complexity and ambiguity"},{"value":"VUCA"}]}]}
+{"ent_seq":2866798,"r_ele":[{"reb":"ヘッドアップディスプレイ"},{"reb":"ヘッドアップ・ディスプレイ"},{"reb":"ヘッドアップディスプレー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"gloss":[{"value":"head-up display"},{"value":"heads-up display"},{"value":"HUD"}]}]}
+{"ent_seq":2866799,"k_ele":[{"keb":"ＨＵＤ"}],"r_ele":[{"reb":"ハッド"}],"sense":[{"pos":["&n;"],"xref":["ヘッドアップディスプレイ"],"gloss":[{"value":"head-up display"},{"value":"heads-up display"},{"value":"HUD"}]}]}
+{"ent_seq":2866801,"k_ele":[{"keb":"尿石症"}],"r_ele":[{"reb":"にょうせきしょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"urolithiasis"}]}]}
+{"ent_seq":2866802,"k_ele":[{"keb":"茶毒蛾"}],"r_ele":[{"reb":"チャドクガ","re_nokanji":true},{"reb":"ちゃどくが"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"tea tussock moth (Arna pseudoconspersa)"},{"value":"Japanese browntail moth"}]}]}
+{"ent_seq":2866803,"k_ele":[{"keb":"菜刀"}],"r_ele":[{"reb":"ながたな"}],"sense":[{"pos":["&n;"],"xref":["菜切り包丁"],"gloss":[{"value":"vegetable knife"}]}]}
+{"ent_seq":2866804,"k_ele":[{"keb":"追いがつお"},{"keb":"追い鰹"}],"r_ele":[{"reb":"おいがつお"}],"sense":[{"pos":["&n;"],"field":["&food;"],"gloss":[{"value":"rich bonito broth"}]}]}
+{"ent_seq":2866805,"k_ele":[{"keb":"敷網"},{"keb":"敷き網"}],"r_ele":[{"reb":"しきあみ"}],"sense":[{"pos":["&n;"],"field":["&fish;"],"gloss":[{"value":"lift net"},{"value":"lever net"},{"value":"blanket net"}]}]}
+{"ent_seq":2866806,"k_ele":[{"keb":"曹白魚"}],"r_ele":[{"reb":"ヒラ","re_nokanji":true},{"reb":"ひら","re_inf":["&gikun;"]}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"elongate ilisha (Ilisha elongata)"},{"value":"Chinese herring"}]}]}
+{"ent_seq":2866807,"k_ele":[{"keb":"餃子の皮"},{"keb":"ぎょうざの皮","ke_inf":["&sK;"]},{"keb":"ギョーザの皮","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ぎょうざのかわ"}],"sense":[{"pos":["&exp;","&n;"],"xref":["餃子"],"field":["&food;"],"gloss":[{"value":"gyōza wrapper"}]}]}
+{"ent_seq":2866808,"k_ele":[{"keb":"粉引"},{"keb":"粉引き"}],"r_ele":[{"reb":"こひき"}],"sense":[{"pos":["&n;"],"field":["&art;"],"gloss":[{"value":"ceramics technique using white clay underneath a transparent glaze"}]}]}
+{"ent_seq":2866809,"r_ele":[{"reb":"アンダードッグ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"underdog"}]}]}
+{"ent_seq":2866812,"k_ele":[{"keb":"十字石"}],"r_ele":[{"reb":"じゅうじせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"staurolite"}]}]}
+{"ent_seq":2866813,"k_ele":[{"keb":"褐簾石"},{"keb":"褐レン石"},{"keb":"かつれん石","ke_inf":["&sK;"]},{"keb":"褐れん石","ke_inf":["&sK;"]}],"r_ele":[{"reb":"かつれんせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"allanite"}]}]}
+{"ent_seq":2866814,"k_ele":[{"keb":"焼石膏"},{"keb":"焼き石膏"},{"keb":"焼石こう","ke_inf":["&sK;"]},{"keb":"焼せっこう","ke_inf":["&sK;"]},{"keb":"焼きせっこう","ke_inf":["&sK;"]},{"keb":"焼きセッコウ","ke_inf":["&sK;"]},{"keb":"焼セッコウ","ke_inf":["&sK;"]},{"keb":"焼き石こう","ke_inf":["&sK;"]}],"r_ele":[{"reb":"しょうせっこう","re_restr":["焼石膏"]},{"reb":"やきせっこう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"calcined gypsum"},{"value":"plaster of Paris"}]}]}
+{"ent_seq":2866815,"k_ele":[{"keb":"緑石鹸"}],"r_ele":[{"reb":"りょくせっけん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"green soap"},{"value":"medicinal soft soap"}]}]}
+{"ent_seq":2866816,"k_ele":[{"keb":"方ホウ石"},{"keb":"方硼石"},{"keb":"方ほう石","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ほうほうせき"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"boracite"}]}]}
+{"ent_seq":2866817,"k_ele":[{"keb":"代赭石"}],"r_ele":[{"reb":"たいしゃせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"red ochre"},{"value":"raddle"}]}]}
+{"ent_seq":2866818,"k_ele":[{"keb":"束沸石"}],"r_ele":[{"reb":"そくふっせき"},{"reb":"たばふっせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"stilbite"},{"value":"desmine"}]}]}
+{"ent_seq":2866819,"k_ele":[{"keb":"玉滴石"}],"r_ele":[{"reb":"ぎょくてきせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"hyalite"},{"value":"water opal"},{"value":"Müller's glass"}]}]}
+{"ent_seq":2866820,"k_ele":[{"keb":"日長石"}],"r_ele":[{"reb":"にっちょうせき"}],"sense":[{"pos":["&n;"],"xref":["サンストーン"],"field":["&min;"],"gloss":[{"value":"sunstone"}]}]}
+{"ent_seq":2866822,"k_ele":[{"keb":"氷堆石"}],"r_ele":[{"reb":"ひょうたいせき"}],"sense":[{"pos":["&n;"],"xref":["モレーン"],"field":["&geol;"],"gloss":[{"value":"moraine"}]}]}
+{"ent_seq":2866823,"k_ele":[{"keb":"氷州石"}],"r_ele":[{"reb":"ひょうしゅうせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"Iceland spar"}]}]}
+{"ent_seq":2866824,"k_ele":[{"keb":"石油業者"}],"r_ele":[{"reb":"せきゆぎょうしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"oilman"},{"value":"oil company owner"}]}]}
+{"ent_seq":2866825,"k_ele":[{"keb":"蟹足腫"}],"r_ele":[{"reb":"かいそくしゅ"}],"sense":[{"pos":["&n;"],"xref":["ケロイド"],"field":["&med;"],"misc":["&rare;"],"gloss":[{"value":"keloid"}]}]}
+{"ent_seq":2866826,"k_ele":[{"keb":"源氏蛍"},{"keb":"源氏ボタル","ke_inf":["&sK;"]},{"keb":"ゲンジ蛍","ke_inf":["&sK;"]},{"keb":"源氏ぼたる","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ゲンジボタル","re_nokanji":true},{"reb":"げんじぼたる"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Genji firefly (Nipponoluciola cruciata)"}]}]}
+{"ent_seq":2866827,"k_ele":[{"keb":"紅電気石"}],"r_ele":[{"reb":"こうでんきせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"rubellite"}]}]}
+{"ent_seq":2866828,"k_ele":[{"keb":"風信子石"}],"r_ele":[{"reb":"ふうしんしせき"}],"sense":[{"pos":["&n;"],"xref":["ジルコン"],"field":["&min;"],"gloss":[{"value":"zircon"}]}]}
+{"ent_seq":2866833,"k_ele":[{"keb":"平家蛍"}],"r_ele":[{"reb":"ヘイケボタル","re_nokanji":true},{"reb":"へいけぼたる"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Aquatica lateralis (firefly species)"}]}]}
+{"ent_seq":2866834,"k_ele":[{"keb":"外製化"}],"r_ele":[{"reb":"がいせいか"}],"sense":[{"pos":["&n;"],"xref":["外注"],"ant":["内製化"],"misc":["&rare;"],"gloss":[{"value":"outsourcing"}]}]}
+{"ent_seq":2866835,"k_ele":[{"keb":"点耳"}],"r_ele":[{"reb":"てんじ"}],"sense":[{"pos":["&n;","&vs;","&vt;"],"field":["&med;"],"gloss":[{"value":"administration of ear drops"},{"value":"ear dripping"}]}]}
+{"ent_seq":2866836,"k_ele":[{"keb":"昼盲症"}],"r_ele":[{"reb":"ちゅうもうしょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"hemeralopia"},{"value":"day blindness"}]}]}
+{"ent_seq":2866837,"r_ele":[{"reb":"ごまだし"}],"sense":[{"pos":["&n;"],"field":["&food;"],"gloss":[{"value":"paste made from grilled fish (esp. lizardfish) and sesame (specialty of Ōita Prefecture)"}]}]}
+{"ent_seq":2866838,"k_ele":[{"keb":"水糸"}],"r_ele":[{"reb":"みずいと"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"leveling line (establishing horizontality during construction)"},{"value":"level string line"},{"value":"leveling string"}]}]}
+{"ent_seq":2866839,"k_ele":[{"keb":"卯杖"}],"r_ele":[{"reb":"うづえ"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"tree branch used as a charm against evil"}]}]}
+{"ent_seq":2866840,"k_ele":[{"keb":"ＡＰＡＣ"}],"r_ele":[{"reb":"エイパック"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Asia-Pacific (region)"}]}]}
+{"ent_seq":2866842,"k_ele":[{"keb":"恐独病"}],"r_ele":[{"reb":"きょうどくびょう"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"Germanophobia"}]}]}
+{"ent_seq":2866843,"k_ele":[{"keb":"恐日病"}],"r_ele":[{"reb":"きょうにちびょう"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"Japanophobia"}]}]}
+{"ent_seq":2866844,"k_ele":[{"keb":"恐米病"}],"r_ele":[{"reb":"きょうべいびょう"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"Americanophobia"}]}]}
+{"ent_seq":2866845,"k_ele":[{"keb":"病院車"}],"r_ele":[{"reb":"びょういんしゃ"}],"sense":[{"pos":["&n;"],"xref":["救急車"],"misc":["&rare;"],"gloss":[{"value":"ambulance"}]}]}
+{"ent_seq":2866846,"k_ele":[{"keb":"産科病院"}],"r_ele":[{"reb":"さんかびょういん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"maternity hospital"}]}]}
+{"ent_seq":2866847,"k_ele":[{"keb":"病菌保有者"}],"r_ele":[{"reb":"びょうきんほゆうしゃ"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"germ carrier"}]}]}
+{"ent_seq":2866848,"k_ele":[{"keb":"瘋癲病院"}],"r_ele":[{"reb":"ふうてんびょういん"}],"sense":[{"pos":["&n;"],"xref":["精神科病院"],"misc":["&obs;"],"gloss":[{"value":"madhouse"},{"value":"lunatic asylum"},{"value":"mental hospital"}]}]}
+{"ent_seq":2866849,"k_ele":[{"keb":"後送病院"}],"r_ele":[{"reb":"こうそうびょういん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"evacuation hospital"},{"value":"clearing hospital"}]}]}
+{"ent_seq":2866850,"k_ele":[{"keb":"ぶらぶら病"}],"r_ele":[{"reb":"ぶらぶらやまい"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"lingering illness"},{"value":"chronic ill health"},{"value":"long-term malaise of uncertain origin"}]}]}
+{"ent_seq":2866851,"k_ele":[{"keb":"ケイソン病"}],"r_ele":[{"reb":"ケイソンびょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"the bends"},{"value":"compressed-air illness"},{"value":"caisson disease"}]}]}
+{"ent_seq":2866852,"k_ele":[{"keb":"マネージャー病"}],"r_ele":[{"reb":"マネージャーびょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"manager's disease"}]}]}
+{"ent_seq":2866853,"k_ele":[{"keb":"伝染病流行地"}],"r_ele":[{"reb":"でんせんびょうりゅうこうち"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"infected area"},{"value":"infected district"}]}]}
+{"ent_seq":2866854,"k_ele":[{"keb":"空気浄化機"}],"r_ele":[{"reb":"くうきじょうかき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"air purifier"},{"value":"air filter"}]}]}
+{"ent_seq":2866856,"k_ele":[{"keb":"航空機操縦術"}],"r_ele":[{"reb":"こうくうきそうじゅうじゅつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"(aircraft) pilotage"},{"value":"airmanship"}]}]}
+{"ent_seq":2866857,"k_ele":[{"keb":"更衣所"}],"r_ele":[{"reb":"こういしょ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"changing room"}]}]}
+{"ent_seq":2866859,"r_ele":[{"reb":"おパンツ"}],"sense":[{"pos":["&n;"],"misc":["&chn;"],"gloss":[{"value":"pants"}]}]}
+{"ent_seq":2866861,"r_ele":[{"reb":"ちゃぽん"},{"reb":"チャポン"}],"sense":[{"pos":["&adv;","&adv-to;"],"misc":["&on-mim;"],"gloss":[{"value":"(with a) splash"},{"value":"slosh"}]}]}
+{"ent_seq":2866864,"k_ele":[{"keb":"離婚式"}],"r_ele":[{"reb":"りこんしき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"divorce ceremony"}]}]}
+{"ent_seq":2866866,"k_ele":[{"keb":"石棒"}],"r_ele":[{"reb":"せきぼう"}],"sense":[{"pos":["&n;"],"field":["&archeol;"],"gloss":[{"value":"phallus-shaped stone rod (from the Jōmon period)"}]}]}
+{"ent_seq":2866867,"k_ele":[{"keb":"だだちゃ豆"}],"r_ele":[{"reb":"だだちゃまめ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"green soybean variety used for edamame (esp. from Yamagata Prefecture)"}]}]}
+{"ent_seq":2866870,"k_ele":[{"keb":"産霊の神"}],"r_ele":[{"reb":"むすびのかみ"},{"reb":"むすひのかみ"}],"sense":[{"pos":["&n;"],"misc":["&arch;"],"gloss":[{"value":"the Creator"},{"value":"god who gives birth to all existence"}]}]}
+{"ent_seq":2866871,"k_ele":[{"keb":"角壔"}],"r_ele":[{"reb":"かくとう"}],"sense":[{"pos":["&n;"],"xref":["角柱・1"],"gloss":[{"value":"prism"}]}]}
+{"ent_seq":2866872,"k_ele":[{"keb":"山駕籠"}],"r_ele":[{"reb":"やまかご"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"mountain palanquin"}]}]}
+{"ent_seq":2866873,"k_ele":[{"keb":"親分風"}],"r_ele":[{"reb":"おやぶんかぜ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"bossy manner"}]}]}
+{"ent_seq":2866874,"k_ele":[{"keb":"通貨改革"}],"r_ele":[{"reb":"つうかかいかく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"currency reform"},{"value":"monetary reform"}]}]}
+{"ent_seq":2866875,"k_ele":[{"keb":"通貨縮小"}],"r_ele":[{"reb":"つうかしゅくしょう"}],"sense":[{"pos":["&n;"],"field":["&finc;"],"gloss":[{"value":"deflation"},{"value":"contraction of currency"}]}]}
+{"ent_seq":2866877,"k_ele":[{"keb":"肉交"}],"r_ele":[{"reb":"にくこう"},{"reb":"にっこう"}],"sense":[{"pos":["&n;"],"xref":["性交"],"gloss":[{"value":"sexual intercourse"}]}]}
+{"ent_seq":2866878,"k_ele":[{"keb":"核分裂物質"}],"r_ele":[{"reb":"かくぶんれつぶっしつ"}],"sense":[{"pos":["&n;"],"field":["&physics;"],"gloss":[{"value":"fissionable materials"}]}]}
+{"ent_seq":2866879,"k_ele":[{"keb":"勝手連"}],"r_ele":[{"reb":"かってれん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"grassroots group"},{"value":"spontaneous assembly of ordinary people"}]}]}
+{"ent_seq":2866880,"r_ele":[{"reb":"プチヴェール"}],"sense":[{"pos":["&n;"],"field":["&tradem;"],"lsource":[{"value":"petit vert","lang":"fre","ls_wasei":"y"}],"gloss":[{"value":"Brussels sprout and kale hybrid vegetable"}]}]}
+{"ent_seq":2866881,"k_ele":[{"keb":"停止液"}],"r_ele":[{"reb":"ていしえき"}],"sense":[{"pos":["&n;"],"field":["&photo;"],"gloss":[{"value":"stop solution"},{"value":"stop bath"}]}]}
+{"ent_seq":2866884,"k_ele":[{"keb":"高巣"}],"r_ele":[{"reb":"たかす"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"aerie"},{"value":"aery"},{"value":"eyrie"},{"value":"eyry"}]}]}
+{"ent_seq":2866885,"k_ele":[{"keb":"高這い"}],"r_ele":[{"reb":"たかばい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"crawling on all fours (usu. with the buttocks raised)"}]}]}
+{"ent_seq":2866886,"k_ele":[{"keb":"高張"}],"r_ele":[{"reb":"たかはり"}],"sense":[{"pos":["&n;"],"xref":["高張提灯"],"misc":["&abbr;"],"gloss":[{"value":"large paper lantern on a pole"}]}]}
+{"ent_seq":2866887,"k_ele":[{"keb":"指南所"}],"r_ele":[{"reb":"しなんじょ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"school"},{"value":"institute"}]}]}
+{"ent_seq":2866890,"k_ele":[{"keb":"渡渉場"},{"keb":"徒渉場"}],"r_ele":[{"reb":"としょうじょう"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"ford"}]}]}
+{"ent_seq":2866891,"k_ele":[{"keb":"らい患者"},{"keb":"癩患者"}],"r_ele":[{"reb":"らいがんしゃ"}],"sense":[{"pos":["&n;"],"xref":["ハンセン病患者"],"field":["&med;"],"gloss":[{"value":"leper"},{"value":"leprosy sufferer"}]}]}
+{"ent_seq":2866892,"k_ele":[{"keb":"戦車長"}],"r_ele":[{"reb":"せんしゃちょう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"tank commander"}]}]}
+{"ent_seq":2866893,"k_ele":[{"keb":"食器室"}],"r_ele":[{"reb":"しょっきしつ"}],"sense":[{"pos":["&n;"],"xref":["食料貯蔵室"],"gloss":[{"value":"pantry"}]}]}
+{"ent_seq":2866895,"k_ele":[{"keb":"戦敗国"}],"r_ele":[{"reb":"せんぱいこく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"defeated country"}]}]}
+{"ent_seq":2866896,"r_ele":[{"reb":"ローレグ"},{"reb":"ロー・レグ"},{"reb":"ローレッグ","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"lsource":[{"value":"low leg","ls_wasei":"y"}],"gloss":[{"value":"low leg cut (leotard, swimsuit)"}]}]}
+{"ent_seq":2866897,"k_ele":[{"keb":"月状骨"}],"r_ele":[{"reb":"げつじょうこつ"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"lunate bone"},{"value":"semilunar bone"}]}]}
+{"ent_seq":2866898,"k_ele":[{"keb":"球春"}],"r_ele":[{"reb":"きゅうしゅん"}],"sense":[{"pos":["&n;"],"field":["&baseb;"],"gloss":[{"value":"spring training"}]}]}
+{"ent_seq":2866899,"k_ele":[{"keb":"有鉤骨"}],"r_ele":[{"reb":"ゆうこうこつ"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"hamate bone"},{"value":"unciform bone"},{"value":"hooked bone"}]}]}
+{"ent_seq":2866900,"k_ele":[{"keb":"三角骨"}],"r_ele":[{"reb":"さんかくこつ"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"triquetral bone"}]}]}
+{"ent_seq":2866901,"k_ele":[{"keb":"豆状骨"}],"r_ele":[{"reb":"とうじょうこつ"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"pisiform bone"}]}]}
+{"ent_seq":2866902,"k_ele":[{"keb":"追星"},{"keb":"追い星"}],"r_ele":[{"reb":"おいぼし"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"nuptial tubercles"},{"value":"breeding tubercles"},{"value":"white bumps that appear on a fish during mating season"}]}]}
+{"ent_seq":2866903,"k_ele":[{"keb":"箒目"}],"r_ele":[{"reb":"ほうきめ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"broom marks (on swept ground)"}]}]}
+{"ent_seq":2866904,"k_ele":[{"keb":"職場放棄"}],"r_ele":[{"reb":"しょくばほうき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"walkout"},{"value":"strike"},{"value":"desertion"}]}]}
+{"ent_seq":2866905,"k_ele":[{"keb":"労働法規"}],"r_ele":[{"reb":"ろうどうほうき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"labor laws"},{"value":"industrial laws"}]}]}
+{"ent_seq":2866906,"k_ele":[{"keb":"遡及法"}],"r_ele":[{"reb":"そきゅうほう"}],"sense":[{"pos":["&n;"],"field":["&law;"],"gloss":[{"value":"retroactive law"},{"value":"retrospective law"}]}]}
+{"ent_seq":2866907,"k_ele":[{"keb":"坊舎"}],"r_ele":[{"reb":"ぼうしゃ"},{"reb":"ぼうじゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"monk's quarters"}]}]}
+{"ent_seq":2866908,"k_ele":[{"keb":"暴食家"}],"r_ele":[{"reb":"ぼうしょくか"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"ravenous eater"},{"value":"glutton"}]}]}
+{"ent_seq":2866909,"k_ele":[{"keb":"脂肪種子"}],"r_ele":[{"reb":"しぼうしゅし"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"oil seed"}]}]}
+{"ent_seq":2866910,"k_ele":[{"keb":"無遺言死亡者"}],"r_ele":[{"reb":"むゆいごんしぼうしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"intestate person"}]}]}
+{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2025-08-10"}]}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる"}],"r_ele":[{"reb":"にちゃんねる"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"2channel (online forum)"}]}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ"}],"r_ele":[{"reb":"スリーエム"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"3M"}]}]}
 {"ent_seq":5000016,"k_ele":[{"keb":"Ｅテレ"}],"r_ele":[{"reb":"イーテレ"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"NHK Educational TV"}]}]}
