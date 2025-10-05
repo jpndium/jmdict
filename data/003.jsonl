@@ -1,5 +1,3 @@
-{"ent_seq":2860593,"k_ele":[{"keb":"粉っぽい"}],"r_ele":[{"reb":"こなっぽい"}],"sense":[{"pos":["&adj-i;"],"gloss":[{"value":"powdery"},{"value":"floury"}]}]}
-{"ent_seq":2860594,"r_ele":[{"reb":"アゾール"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"azole"}]}]}
 {"ent_seq":2860595,"r_ele":[{"reb":"ピラゾール"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"pyrazole"}]}]}
 {"ent_seq":2860596,"r_ele":[{"reb":"オキサゾール"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"oxazole"}]}]}
 {"ent_seq":2860597,"r_ele":[{"reb":"イソオキサゾール"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"isoxazole"}]}]}
@@ -5638,6 +5636,7 @@
 {"ent_seq":2866602,"k_ele":[{"keb":"混和剤"}],"r_ele":[{"reb":"こんわざい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"additive"}]}]}
 {"ent_seq":2866606,"k_ele":[{"keb":"彫漆"}],"r_ele":[{"reb":"ちょうしつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"carved lacquer technique"}]}]}
 {"ent_seq":2866607,"k_ele":[{"keb":"堆錦"}],"r_ele":[{"reb":"ついきん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Ryūkyūan lacquerware technique (using a pigmented lacquer design pasted onto the lacquered surface)"}]}]}
+{"ent_seq":2866608,"k_ele":[{"keb":"飯マズ"}],"r_ele":[{"reb":"メシマズ","re_nokanji":true},{"reb":"めしまず"}],"sense":[{"pos":["&exp;","&n;"],"misc":["&net-sl;","&abbr;","&uk;"],"s_inf":["from 飯がまずい"],"gloss":[{"value":"bad cooking"},{"value":"bad food"}]},{"pos":["&exp;","&n;"],"xref":["メシウマ"],"misc":["&net-sl;","&abbr;","&uk;"],"s_inf":["short for 他人の幸せで飯がまずい"],"gloss":[{"value":"sadness at seeing the happiness of others"}]}]}
 {"ent_seq":2866609,"k_ele":[{"keb":"先体"}],"r_ele":[{"reb":"せんたい"}],"sense":[{"pos":["&n;"],"field":["&biol;"],"gloss":[{"value":"acrosome"}]}]}
 {"ent_seq":2866610,"r_ele":[{"reb":"テルハ"},{"reb":"テルファー"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"telpher"}]}]}
 {"ent_seq":2866611,"k_ele":[{"keb":"大御位"}],"r_ele":[{"reb":"おおみくらい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"imperial throne"}]}]}
@@ -6171,6 +6170,7 @@
 {"ent_seq":2867154,"k_ele":[{"keb":"気湿"}],"r_ele":[{"reb":"きしつ"}],"sense":[{"pos":["&n;"],"xref":["湿度"],"misc":["&rare;"],"gloss":[{"value":"humidity"}]}]}
 {"ent_seq":2867155,"k_ele":[{"keb":"蛇結茨"}],"r_ele":[{"reb":"ジャケツイバラ","re_nokanji":true},{"reb":"じゃけついばら"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Caesalpinia decapetala var. japonica"}]}]}
 {"ent_seq":2867156,"k_ele":[{"keb":"油油"},{"keb":"油々","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ゆうゆう"}],"sense":[{"pos":["&adj-t;","&adv-to;"],"misc":["&obs;"],"gloss":[{"value":"shiny"},{"value":"glossy"},{"value":"bright"},{"value":"sleek"}]}]}
+{"ent_seq":2867157,"k_ele":[{"keb":"二拠点"}],"r_ele":[{"reb":"にきょてん"}],"sense":[{"pos":["&n;","&adj-no;"],"xref":["二地域居住"],"gloss":[{"value":"having two residences or bases"}]}]}
 {"ent_seq":2867158,"r_ele":[{"reb":"ソムリエナイフ"},{"reb":"ソムリエ・ナイフ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"waiter's friend"},{"value":"sommelier's knife"},{"value":"waiter's corkscrew"},{"value":"waiter's knife"}]}]}
 {"ent_seq":2867159,"k_ele":[{"keb":"被譲渡人"}],"r_ele":[{"reb":"ひじょうとにん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"transferee"},{"value":"assignee"}]}]}
 {"ent_seq":2867160,"k_ele":[{"keb":"現場百遍"}],"r_ele":[{"reb":"げんばひゃっぺん"}],"sense":[{"pos":["&exp;"],"s_inf":["police saying"],"gloss":[{"value":"a crime scene is best visited 100 times"}]}]}
@@ -6186,6 +6186,7 @@
 {"ent_seq":2867170,"k_ele":[{"keb":"パラ水素"}],"r_ele":[{"reb":"パラすいそ"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"para-hydrogen"}]}]}
 {"ent_seq":2867171,"k_ele":[{"keb":"ペニシリン酸"}],"r_ele":[{"reb":"ペニシリンさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"penicillic acid"}]}]}
 {"ent_seq":2867172,"k_ele":[{"keb":"貨客車"}],"r_ele":[{"reb":"かきゃくしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"passenger-freight vehicle"},{"value":"rolling stock"}]}]}
+{"ent_seq":2867173,"k_ele":[{"keb":"二拠点生活"}],"r_ele":[{"reb":"にきょてんせいかつ"}],"sense":[{"pos":["&exp;","&n;"],"gloss":[{"value":"dual-residence lifestyle (e.g. one in the city and one in the countryside)"},{"value":"having a second residence separate from one's workplace"}]}]}
 {"ent_seq":2867174,"k_ele":[{"keb":"頭蓋学"}],"r_ele":[{"reb":"ずがいがく"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"craniology"}]}]}
 {"ent_seq":2867175,"k_ele":[{"keb":"速弁"}],"r_ele":[{"reb":"はやべん"}],"sense":[{"pos":["&n;"],"xref":["駅弁・1"],"field":["&tradem;"],"gloss":[{"value":"boxed lunch sold at highway rest areas"}]}]}
 {"ent_seq":2867176,"k_ele":[{"keb":"核融合発電"}],"r_ele":[{"reb":"かくゆうごうはつでん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"nuclear fusion electricity generation"}]}]}
@@ -6294,6 +6295,8 @@
 {"ent_seq":2867283,"r_ele":[{"reb":"キャプティブ"}],"sense":[{"pos":["&adj-no;","&n;"],"gloss":[{"value":"captive"}]}]}
 {"ent_seq":2867284,"r_ele":[{"reb":"ジャバジャバ"},{"reb":"じゃばじゃば"}],"sense":[{"pos":["&adv-to;"],"misc":["&on-mim;"],"gloss":[{"value":"splashing"},{"value":"sloshing"}]}]}
 {"ent_seq":2867285,"k_ele":[{"keb":"白根葵"}],"r_ele":[{"reb":"シラネアオイ","re_nokanji":true},{"reb":"しらねあおい"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese wood poppy (Glaucidium palmatum)"}]}]}
+{"ent_seq":2867286,"k_ele":[{"keb":"稚児車"}],"r_ele":[{"reb":"チングルマ","re_nokanji":true},{"reb":"ちんぐるま"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Sieversia pentapetala (yellow and white rose species)"}]}]}
+{"ent_seq":2867287,"k_ele":[{"keb":"磯菊"}],"r_ele":[{"reb":"イソギク","re_nokanji":true},{"reb":"いそぎく"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"gold and silver chrysanthemum (Ajania pacifica)"}]}]}
 {"ent_seq":2867288,"k_ele":[{"keb":"燕万年青"}],"r_ele":[{"reb":"ツバメオモト","re_nokanji":true},{"reb":"つばめおもと"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"bead lily (Clintonia udensis)"}]}]}
 {"ent_seq":2867289,"k_ele":[{"keb":"柿蘭"}],"r_ele":[{"reb":"カキラン","re_nokanji":true},{"reb":"かきらん"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese stream orchid (Epipactis thunbergii)"}]}]}
 {"ent_seq":2867290,"k_ele":[{"keb":"麓菫"}],"r_ele":[{"reb":"フモトスミレ","re_nokanji":true},{"reb":"ふもとすみれ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Viola sieboldii (violet species)"}]}]}
@@ -6311,6 +6314,9 @@
 {"ent_seq":2867302,"k_ele":[{"keb":"栗茸"}],"r_ele":[{"reb":"クリタケ","re_nokanji":true},{"reb":"くりたけ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"brick cap (Hypholoma lateritium)"},{"value":"chestnut mushroom"}]}]}
 {"ent_seq":2867303,"k_ele":[{"keb":"網茸"}],"r_ele":[{"reb":"アミタケ","re_nokanji":true},{"reb":"あみたけ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Jersey cow mushroom (Suillus bovinus)"},{"value":"bovine bolete"}]}]}
 {"ent_seq":2867304,"k_ele":[{"keb":"田芋"}],"r_ele":[{"reb":"たいも"},{"reb":"タイモ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"taro variety cultivated in paddy fields"}]}]}
+{"ent_seq":2867305,"k_ele":[{"keb":"蔓菜"}],"r_ele":[{"reb":"ツルナ","re_nokanji":true},{"reb":"つるな"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"New Zealand spinach (Tetragonia tetragonioides)"}]}]}
+{"ent_seq":2867306,"k_ele":[{"keb":"浜朴"},{"keb":"黄槿"}],"r_ele":[{"reb":"ハマボウ","re_nokanji":true},{"reb":"はまぼう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"hardy yellow hibiscus (Hibiscus hamabo)"}]}]}
+{"ent_seq":2867307,"k_ele":[{"keb":"竹似草"},{"keb":"竹煮草"}],"r_ele":[{"reb":"タケニグサ","re_nokanji":true},{"reb":"たけにぐさ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"plume poppy (Macleaya cordata)"},{"value":"tree celandine"}]}]}
 {"ent_seq":2867308,"k_ele":[{"keb":"土師器"}],"r_ele":[{"reb":"はじき"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"Haji ware"},{"value":"Haji pottery"},{"value":"unglazed red-brown pottery made from the Kofun period through the Heian period","g_type":"expl"}]}]}
 {"ent_seq":2867310,"k_ele":[{"keb":"大コロンビア"}],"r_ele":[{"reb":"だいコロンビア"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"Gran Colombia (1819-1831)"},{"value":"Greater Columbia"}]}]}
 {"ent_seq":2867311,"k_ele":[{"keb":"悪うございました"},{"keb":"悪う御座いました","ke_inf":["&sK;"]}],"r_ele":[{"reb":"わるうございました"},{"reb":"わるーございました","re_inf":["&sk;"]}],"sense":[{"pos":["&exp;"],"misc":["&col;"],"s_inf":["oft. used sarcastically or defiantly"],"gloss":[{"value":"it was my bad"},{"value":"(yeah yeah) it was my fault"}]}]}
@@ -6321,9 +6327,73 @@
 {"ent_seq":2867316,"k_ele":[{"keb":"生徒指導室"}],"r_ele":[{"reb":"せいとしどうしつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"student guidance office"},{"value":"student counseling room"}]}]}
 {"ent_seq":2867317,"k_ele":[{"keb":"抜け荷"}],"r_ele":[{"reb":"ぬけに"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"smuggling (during the Edo period)"},{"value":"contraband"}]}]}
 {"ent_seq":2867318,"k_ele":[{"keb":"ガチャ切り"},{"keb":"がちゃ切り","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ガチャぎり"}],"sense":[{"pos":["&n;"],"misc":["&col;"],"gloss":[{"value":"abruptly hanging up the phone while the other person is still talking"}]}]}
+{"ent_seq":2867320,"k_ele":[{"keb":"麻薬戦争"}],"r_ele":[{"reb":"まやくせんそう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"war on drugs"}]}]}
+{"ent_seq":2867321,"k_ele":[{"keb":"薬物密売"}],"r_ele":[{"reb":"やくぶつみつばい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"drug trafficking"}]}]}
+{"ent_seq":2867323,"k_ele":[{"keb":"町弁"},{"keb":"まち弁"},{"keb":"街弁","ke_inf":["&sK;"]},{"keb":"マチ弁","ke_inf":["&sK;"]}],"r_ele":[{"reb":"まちべん"}],"sense":[{"pos":["&n;"],"misc":["&col;"],"gloss":[{"value":"town lawyer"},{"value":"community lawyer"},{"value":"local lawyer"}]}]}
 {"ent_seq":2867324,"k_ele":[{"keb":"逆柱"}],"r_ele":[{"reb":"さかばしら"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"wooden pillar placed with its base pointing up (believed to cause ominous phenomena)"},{"value":"inverted pillar"}]},{"pos":["&n;"],"gloss":[{"value":"having one pillar of a building inverted (so as to not strive for perfection)"}]}]}
+{"ent_seq":2867327,"k_ele":[{"keb":"労せずして"}],"r_ele":[{"reb":"ろうせずして"}],"sense":[{"pos":["&exp;","&adv;"],"gloss":[{"value":"without labor"},{"value":"without effort"},{"value":"easily"}]}]}
+{"ent_seq":2867328,"k_ele":[{"keb":"屋根馬"}],"r_ele":[{"reb":"やねうま"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"TV antenna roof mount"}]}]}
+{"ent_seq":2867329,"k_ele":[{"keb":"石斛"}],"r_ele":[{"reb":"セッコク","re_nokanji":true},{"reb":"せっこく"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese stone orchid (Dendrobium moniliforme)"},{"value":"dendrobium"}]}]}
+{"ent_seq":2867330,"k_ele":[{"keb":"姥百合"}],"r_ele":[{"reb":"ウバユリ","re_nokanji":true},{"reb":"うばゆり"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"uba lily (Cardiocrinum cordatum)"}]}]}
+{"ent_seq":2867331,"k_ele":[{"keb":"風蘭"}],"r_ele":[{"reb":"フウラン","re_nokanji":true},{"reb":"ふうらん"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"wind orchid (Vanda falcata)"},{"value":"samurai orchid"}]}]}
+{"ent_seq":2867332,"k_ele":[{"keb":"富貴草"}],"r_ele":[{"reb":"フッキソウ","re_nokanji":true},{"reb":"ふっきそう"},{"reb":"ふうきぐさ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese pachysandra (Pachysandra terminalis)"},{"value":"carpet box"},{"value":"Japanese spurge"}]}]}
+{"ent_seq":2867333,"k_ele":[{"keb":"生活の本拠"}],"r_ele":[{"reb":"せいかつのほんきょ"}],"sense":[{"pos":["&exp;","&n;"],"field":["&law;"],"gloss":[{"value":"primary residence"}]}]}
+{"ent_seq":2867334,"k_ele":[{"keb":"年層"}],"r_ele":[{"reb":"ねんそう"}],"sense":[{"pos":["&n;"],"xref":["年齢層"],"misc":["&abbr;"],"gloss":[{"value":"age range"},{"value":"age-group"},{"value":"age bracket"}]}]}
+{"ent_seq":2867336,"k_ele":[{"keb":"玉簾"},{"keb":"珠簾","ke_inf":["&rK;"]}],"r_ele":[{"reb":"たますだれ"},{"reb":"タマスダレ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"autumn zephyrlily (Zephyranthes candida)"},{"value":"white rain lily"}]},{"pos":["&n;"],"gloss":[{"value":"strings of beads hanging across a doorway"},{"value":"bead screen"}]}]}
+{"ent_seq":2867338,"k_ele":[{"keb":"静けし"}],"r_ele":[{"reb":"しずけし"}],"sense":[{"pos":["&adj-ku;"],"misc":["&poet;"],"gloss":[{"value":"quiet"},{"value":"silent"}]}]}
+{"ent_seq":2867339,"k_ele":[{"keb":"逆さ柱"}],"r_ele":[{"reb":"さかさばしら"}],"sense":[{"pos":["&n;"],"xref":["逆柱・1"],"gloss":[{"value":"wooden pillar placed with its base pointing up (believed to cause ominous phenomena)"},{"value":"inverted pillar"}]}]}
 {"ent_seq":2867340,"k_ele":[{"keb":"夏芽"}],"r_ele":[{"reb":"かが"},{"reb":"なつめ"}],"sense":[{"pos":["&n;"],"xref":["冬芽"],"field":["&bot;"],"gloss":[{"value":"summer bud"}]}]}
-{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2025-09-28"}]}]}
+{"ent_seq":2867342,"k_ele":[{"keb":"食す"}],"r_ele":[{"reb":"しょくす"}],"sense":[{"pos":["&v5s;","&vs-c;","&vt;"],"xref":["食する・1"],"gloss":[{"value":"to eat"}]}]}
+{"ent_seq":2867344,"k_ele":[{"keb":"八坂刀売神"}],"r_ele":[{"reb":"やさかとめのかみ"}],"sense":[{"pos":["&n;"],"field":["&jpmyth;"],"gloss":[{"value":"Yasakatome"},{"value":"deity worshipped at various (lower) Suwa shrines, and consort of Takeminakata","g_type":"expl"}]}]}
+{"ent_seq":2867345,"k_ele":[{"keb":"諏訪大明神"}],"r_ele":[{"reb":"すわだいみょうじん"}],"sense":[{"pos":["&n;"],"xref":["八坂刀売神"],"field":["&Shinto;"],"gloss":[{"value":"Suwa deities (esp. Takeminakata and his consort Yasakatome)"},{"value":"Suwa Daimyōjin"}]}]}
+{"ent_seq":2867346,"k_ele":[{"keb":"諏訪八幡も照覧あれ"}],"r_ele":[{"reb":"すわはちまんもしょうらんあれ"}],"sense":[{"pos":["&exp;"],"xref":["八幡神","諏訪大明神"],"misc":["&hist;"],"gloss":[{"value":"may Takeminakata (Suwa) and Hachiman bear witness"},{"value":"samurai vow of truthfulness","g_type":"expl"}]}]}
+{"ent_seq":2867347,"k_ele":[{"keb":"止めネジ"},{"keb":"止めねじ"},{"keb":"留めネジ"},{"keb":"留めねじ","ke_inf":["&sK;"]},{"keb":"止め螺子","ke_inf":["&rK;"]},{"keb":"留め螺子","ke_inf":["&rK;"]},{"keb":"止め螺旋","ke_inf":["&sK;"]}],"r_ele":[{"reb":"とめねじ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"set screw"}]}]}
+{"ent_seq":2867348,"k_ele":[{"keb":"無リン"},{"keb":"無りん"},{"keb":"無燐"}],"r_ele":[{"reb":"むりん"}],"sense":[{"pos":["&pref;"],"gloss":[{"value":"phosphate-free"}]}]}
+{"ent_seq":2867349,"k_ele":[{"keb":"酒面雁"}],"r_ele":[{"reb":"サカツラガン","re_nokanji":true},{"reb":"さかつらがん"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"swan goose (Anser cygnoides)"},{"value":"Chinese goose"}]}]}
+{"ent_seq":2867350,"k_ele":[{"keb":"小白鳥"}],"r_ele":[{"reb":"コハクチョウ","re_nokanji":true},{"reb":"こはくちょう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"tundra swan (Cygnus columbianus)"},{"value":"Bewick's swan"},{"value":"whistling swan"}]}]}
+{"ent_seq":2867353,"k_ele":[{"keb":"善知鳥"}],"r_ele":[{"reb":"ウトウ","re_nokanji":true},{"reb":"うとう"},{"reb":"ぜんちちょう","re_inf":["&rk;"]}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"rhinoceros auklet (Cerorhinca monocerata)"},{"value":"hornbilled puffin"}]}]}
+{"ent_seq":2867354,"k_ele":[{"keb":"無事カエル"}],"r_ele":[{"reb":"ぶじカエル"}],"sense":[{"pos":["&n;"],"s_inf":["pun on 無事帰る"],"gloss":[{"value":"safety frog (good luck charm, often in the form of a small frog figure or keychain)"}]}]}
+{"ent_seq":2867355,"k_ele":[{"keb":"稚児百合"}],"r_ele":[{"reb":"チゴユリ","re_nokanji":true},{"reb":"ちごゆり"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese fairy bells (Disporum smilacinum)"}]}]}
+{"ent_seq":2867356,"k_ele":[{"keb":"黄連雀"}],"r_ele":[{"reb":"キレンジャク","re_nokanji":true},{"reb":"きれんじゃく"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Bohemian waxwing (Bombycilla garrulus)"}]}]}
+{"ent_seq":2867357,"k_ele":[{"keb":"唐綿"}],"r_ele":[{"reb":"とうわた"},{"reb":"トウワタ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"tropical milkweed (Asclepias curassavica)"},{"value":"bloodflower"}]}]}
+{"ent_seq":2867358,"k_ele":[{"keb":"小鮫鶲"}],"r_ele":[{"reb":"コサメビタキ","re_nokanji":true},{"reb":"こさめびたき"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Asian brown flycatcher (Muscicapa dauurica)"}]}]}
+{"ent_seq":2867359,"k_ele":[{"keb":"庚申草"}],"r_ele":[{"reb":"コウシンソウ","re_nokanji":true},{"reb":"こうしんそう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Pinguicula ramosa (butterwort species)"}]}]}
+{"ent_seq":2867360,"k_ele":[{"keb":"相思樹"}],"r_ele":[{"reb":"ソウシジュ","re_nokanji":true},{"reb":"そうしじゅ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"small Philippine acacia (Acacia confusa)"},{"value":"Taiwan acacia"}]}]}
+{"ent_seq":2867361,"k_ele":[{"keb":"志野焼"}],"r_ele":[{"reb":"しのやき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Shino ware"},{"value":"Azuchi-Momoyama period pottery style using a thick white glaze","g_type":"expl"}]}]}
+{"ent_seq":2867362,"k_ele":[{"keb":"指揮隊車"}],"r_ele":[{"reb":"しきたいしゃ"}],"sense":[{"pos":["&n;"],"xref":["指揮車"],"gloss":[{"value":"fire command vehicle"},{"value":"fire chief car"}]}]}
+{"ent_seq":2867363,"r_ele":[{"reb":"イッピ"},{"reb":"イッピー"}],"sense":[{"pos":["&n;"],"xref":["一般ピープル"],"misc":["&abbr;","&sl;","&derog;"],"gloss":[{"value":"regular people"},{"value":"ordinary people"}]}]}
+{"ent_seq":2867364,"r_ele":[{"reb":"サチュレーション"},{"reb":"サテュレーション","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"gloss":[{"value":"saturation"}]}]}
+{"ent_seq":2867365,"k_ele":[{"keb":"心マ"}],"r_ele":[{"reb":"しんマ"}],"sense":[{"pos":["&n;"],"xref":["心臓マッサージ"],"field":["&med;"],"misc":["&abbr;"],"gloss":[{"value":"cardiac massage"},{"value":"heart massage"},{"value":"cardiac compression"}]}]}
+{"ent_seq":2867366,"k_ele":[{"keb":"巴草"}],"r_ele":[{"reb":"トモエソウ","re_nokanji":true},{"reb":"ともえそう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"great St. Johns wort (Hypericum ascyron)"},{"value":"giant St. John's wort"}]}]}
+{"ent_seq":2867367,"k_ele":[{"keb":"小水葱"},{"keb":"小菜葱"}],"r_ele":[{"reb":"コナギ","re_nokanji":true},{"reb":"こなぎ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"heartshape false pickerelweed (Monochoria vaginalis)"}]}]}
+{"ent_seq":2867368,"k_ele":[{"keb":"韃靼そば"},{"keb":"韃靼蕎麦"}],"r_ele":[{"reb":"だったんそば"},{"reb":"ダッタンソバ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Tartary buckwheat (Fagopyrum tataricum)"},{"value":"green buckwheat"}]}]}
+{"ent_seq":2867369,"r_ele":[{"reb":"ジャニヲタ"},{"reb":"ジャニオタ"}],"sense":[{"pos":["&n;"],"misc":["&sl;","&abbr;"],"s_inf":["from ジャニーズオタク"],"gloss":[{"value":"fan obsessed with male idols from the Johnny &amp; Associates agency"}]}]}
+{"ent_seq":2867370,"r_ele":[{"reb":"オリキ"},{"reb":"おりき"}],"sense":[{"pos":["&exp;","&n;"],"misc":["&sl;"],"s_inf":["from 追っかけに力(リキ)を入れる"],"gloss":[{"value":"full-time obsessing (over an idol)"},{"value":"restless idol fan"}]}]}
+{"ent_seq":2867371,"k_ele":[{"keb":"周圏"}],"r_ele":[{"reb":"しゅうけん"}],"sense":[{"pos":["&n;"],"misc":["&dated;"],"gloss":[{"value":"surroundings"},{"value":"vicinity"},{"value":"periphery"}]}]}
+{"ent_seq":2867372,"r_ele":[{"reb":"たる"},{"reb":"だる"}],"sense":[{"pos":["&exp;","&aux-v;","&v5r;"],"xref":["やる・15"],"s_inf":["after the -masu stem of a verb; contraction of (て/で)やる; sometimes with negative nuance"],"dial":["&ksb;"],"gloss":[{"value":"to do ... for (someone of equal or lower status)"},{"value":"to do ... to"}]},{"pos":["&exp;","&aux-v;","&v5r;"],"xref":["あげる・23"],"s_inf":["after the -masu stem of a verb; contraction of(て/で)あげる"],"dial":["&ksb;"],"gloss":[{"value":"to do ... for (the sake of someone else)"}]}]}
+{"ent_seq":2867373,"k_ele":[{"keb":"犬山椒"}],"r_ele":[{"reb":"イヌザンショウ","re_nokanji":true},{"reb":"いぬざんしょう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"mastic-leaf prickly ash (Zanthoxylum schinifolium)"},{"value":"Japanese prickly ash"},{"value":"Japanese pepper"}]}]}
+{"ent_seq":2867374,"k_ele":[{"keb":"小臭木"}],"r_ele":[{"reb":"コクサギ","re_nokanji":true},{"reb":"こくさぎ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"East Asian orixa (Orixa japonica)"},{"value":"Japanese orixa"}]}]}
+{"ent_seq":2867375,"k_ele":[{"keb":"烏山椒"}],"r_ele":[{"reb":"カラスザンショウ","re_nokanji":true},{"reb":"からすざんしょう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"ailanthus-like prickly ash (Zanthoxylum ailanthoides)"}]}]}
+{"ent_seq":2867376,"k_ele":[{"keb":"梅笠草"}],"r_ele":[{"reb":"ウメガサソウ","re_nokanji":true},{"reb":"うめがさそう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese wintergreen (Chimaphila japonica)"}]}]}
+{"ent_seq":2867377,"k_ele":[{"keb":"五味子"}],"r_ele":[{"reb":"ごみし"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"five flavor fruit (Schisandra chinensis)"},{"value":"magnolia berry"},{"value":"schisandra fruit"}]}]}
+{"ent_seq":2867378,"k_ele":[{"keb":"松房"}],"r_ele":[{"reb":"マツブサ","re_nokanji":true},{"reb":"まつぶさ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Schisandra repanda (climbing vine species)"}]}]}
+{"ent_seq":2867379,"r_ele":[{"reb":"ランチマット"},{"reb":"ランチ・マット"}],"sense":[{"pos":["&n;"],"xref":["ランチョンマット"],"lsource":[{"value":"lunch mat","ls_wasei":"y"}],"gloss":[{"value":"place mat"}]}]}
+{"ent_seq":2867380,"k_ele":[{"keb":"ＬＢＯ"}],"r_ele":[{"reb":"エル・ビー・オー"},{"reb":"エルビーオー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["レバレッジドバイアウト"],"gloss":[{"value":"leveraged buyout"},{"value":"LBO"}]}]}
+{"ent_seq":2867382,"k_ele":[{"keb":"ＩＰＯ"}],"r_ele":[{"reb":"アイ・ピー・オー"},{"reb":"アイピーオー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["新規株式公開"],"gloss":[{"value":"initial public offering"},{"value":"IPO"}]},{"pos":["&n;"],"gloss":[{"value":"interdecadal pacific oscillation"},{"value":"IPO"}]}]}
+{"ent_seq":2867383,"k_ele":[{"keb":"青鷸"}],"r_ele":[{"reb":"アオシギ","re_nokanji":true},{"reb":"あおしぎ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"solitary snipe (Gallinago solitaria)"}]}]}
+{"ent_seq":2867384,"k_ele":[{"keb":"頬赤"}],"r_ele":[{"reb":"ホオアカ","re_nokanji":true},{"reb":"ほおあか"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"chestnut-eared bunting (Emberiza fucata)"},{"value":"grey-headed bunting"}]}]}
+{"ent_seq":2867385,"k_ele":[{"keb":"胡錦鳥"}],"r_ele":[{"reb":"コキンチョウ","re_nokanji":true},{"reb":"こきんちょう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Gouldian finch (Chloebia gouldiae)"},{"value":"rainbow finch"}]}]}
+{"ent_seq":2867386,"k_ele":[{"keb":"組織開発"}],"r_ele":[{"reb":"そしきかいはつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"organization development"},{"value":"organizational development"},{"value":"OD"}]}]}
+{"ent_seq":2867387,"k_ele":[{"keb":"ＯＤ"}],"r_ele":[{"reb":"オー・ディー"},{"reb":"オーディー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["オーバードーズ"],"gloss":[{"value":"overdose"},{"value":"OD"}]},{"pos":["&n;"],"xref":["起立性調節障害"],"field":["&med;"],"gloss":[{"value":"orthostatic intolerance"},{"value":"orthostatic dysregulation"},{"value":"orthostatic disturbance"},{"value":"OD"}]},{"pos":["&n;"],"xref":["当座貸越"],"gloss":[{"value":"overdraft"},{"value":"OD"}]},{"pos":["&n;"],"xref":["組織開発"],"gloss":[{"value":"organization development"},{"value":"organizational development"},{"value":"OD"}]}]}
+{"ent_seq":2867388,"r_ele":[{"reb":"レイヤーケーキ"},{"reb":"レイヤー・ケーキ"}],"sense":[{"pos":["&n;"],"field":["&food;"],"gloss":[{"value":"layer cake"}]}]}
+{"ent_seq":2867389,"k_ele":[{"keb":"生物岩"}],"r_ele":[{"reb":"せいぶつがん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"biolith"}]}]}
+{"ent_seq":2867390,"k_ele":[{"keb":"鱗雲母"}],"r_ele":[{"reb":"りんうんも"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"lepidolite"}]}]}
+{"ent_seq":2867391,"k_ele":[{"keb":"褐鉛鉱"}],"r_ele":[{"reb":"かつえんこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"vanadinite"}]}]}
+{"ent_seq":2867392,"k_ele":[{"keb":"紅安鉱"}],"r_ele":[{"reb":"こうあんこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"kermesite"}]}]}
+{"ent_seq":2867393,"r_ele":[{"reb":"パヤパヤ"},{"reb":"ぱやぱや"}],"sense":[{"pos":["&adv;","&adv-to;"],"misc":["&on-mim;","&net-sl;"],"s_inf":["usu. of hair or fur"],"gloss":[{"value":"fuzzy"},{"value":"fluffy"}]}]}
+{"ent_seq":2867394,"k_ele":[{"keb":"塊芋"}],"r_ele":[{"reb":"ホドイモ","re_nokanji":true},{"reb":"ほどいも"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"groundnut (Apios fortunei)"},{"value":"hodo"},{"value":"potatobean"}]}]}
+{"ent_seq":2867395,"k_ele":[{"keb":"野生型"}],"r_ele":[{"reb":"やせいがた"}],"sense":[{"pos":["&n;","&adj-no;"],"field":["&genet;"],"gloss":[{"value":"wild type"}]}]}
+{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2025-10-05"}]}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる"}],"r_ele":[{"reb":"にちゃんねる"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"2channel (online forum)"}]}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ"}],"r_ele":[{"reb":"スリーエム"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"3M"}]}]}
 {"ent_seq":5000016,"k_ele":[{"keb":"Ｅテレ"}],"r_ele":[{"reb":"イーテレ"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"NHK Educational TV"}]}]}
@@ -10747,7 +10817,7 @@
 {"ent_seq":5617424,"k_ele":[{"keb":"富士銀行"}],"r_ele":[{"reb":"ふじぎんこう"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Fuji Bank, Limited"}]}]}
 {"ent_seq":5617456,"k_ele":[{"keb":"富士見書房"}],"r_ele":[{"reb":"ふじみしょぼう"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Fujimi Shobo (publisher)"}]}]}
 {"ent_seq":5617532,"k_ele":[{"keb":"富士写真フィルム"}],"r_ele":[{"reb":"ふじしゃしんフィルム"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Fuji Photo Film (Japanese camera &amp; film company)"}]}]}
-{"ent_seq":5617539,"k_ele":[{"keb":"富士重工"}],"r_ele":[{"reb":"ふじじゅうこう"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Fuji Heavy Industries"}]}]}
+{"ent_seq":5617539,"k_ele":[{"keb":"富士重工"}],"r_ele":[{"reb":"ふじじゅうこう"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Fuji Heavy Industries (former name of Subaru Corporation)"}]}]}
 {"ent_seq":5617579,"k_ele":[{"keb":"富士総合研究所"}],"r_ele":[{"reb":"ふじそうごうけんきゅうじょ"}],"sense":[{"pos":["&n;"],"misc":["&organization;"],"gloss":[{"value":"Fuji Research Institute Corporation"}]}]}
 {"ent_seq":5617588,"k_ele":[{"keb":"富士大学"}],"r_ele":[{"reb":"ふじだいがく"}],"sense":[{"pos":["&n;"],"misc":["&organization;"],"gloss":[{"value":"Fuji University"}]}]}
 {"ent_seq":5617602,"k_ele":[{"keb":"富士通ゼネラル"}],"r_ele":[{"reb":"ふじつうゼネラル"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Fujitsu General Limited"}]}]}
@@ -13549,3 +13619,6 @@
 {"ent_seq":5747400,"k_ele":[{"keb":"ダートマス大学"}],"r_ele":[{"reb":"ダートマスだいがく"}],"sense":[{"pos":["&n;"],"misc":["&organization;"],"gloss":[{"value":"Dartmouth College"}]}]}
 {"ent_seq":5747401,"r_ele":[{"reb":"キャメル"}],"sense":[{"pos":["&n;"],"misc":["&product;"],"gloss":[{"value":"Camel (cigarette)"}]}]}
 {"ent_seq":5747402,"k_ele":[{"keb":"椿姫"}],"r_ele":[{"reb":"つばきひめ"}],"sense":[{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"The Lady of the Camellias (1848 novel by Alexandre Dumas fils)"},{"value":"Camille"}]},{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"La Traviata (1853 opera by Giuseppe Verdi)"}]}]}
+{"ent_seq":5747419,"k_ele":[{"keb":"沼河姫命"}],"r_ele":[{"reb":"ぬなかわひめのみこと"}],"sense":[{"pos":["&n;"],"misc":["&dei;"],"gloss":[{"value":"Nunakawahime no Mikoto"}]}]}
+{"ent_seq":5747420,"k_ele":[{"keb":"野狐囲碁"}],"r_ele":[{"reb":"のぎつねいご"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"Fox Weiqi (Chinese online go server)"}]}]}
+{"ent_seq":5747421,"k_ele":[{"keb":"野狐"}],"r_ele":[{"reb":"のぎつね"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"Fox Weiqi (Chinese online go server) (abbr)"}]}]}
