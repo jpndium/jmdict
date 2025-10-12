@@ -6318,6 +6318,7 @@
 {"ent_seq":2867306,"k_ele":[{"keb":"浜朴"},{"keb":"黄槿"}],"r_ele":[{"reb":"ハマボウ","re_nokanji":true},{"reb":"はまぼう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"hardy yellow hibiscus (Hibiscus hamabo)"}]}]}
 {"ent_seq":2867307,"k_ele":[{"keb":"竹似草"},{"keb":"竹煮草"}],"r_ele":[{"reb":"タケニグサ","re_nokanji":true},{"reb":"たけにぐさ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"plume poppy (Macleaya cordata)"},{"value":"tree celandine"}]}]}
 {"ent_seq":2867308,"k_ele":[{"keb":"土師器"}],"r_ele":[{"reb":"はじき"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"Haji ware"},{"value":"Haji pottery"},{"value":"unglazed red-brown pottery made from the Kofun period through the Heian period","g_type":"expl"}]}]}
+{"ent_seq":2867309,"k_ele":[{"keb":"いいね返し"}],"r_ele":[{"reb":"いいねかえし"},{"reb":"いいねがえし"}],"sense":[{"pos":["&n;"],"misc":["&net-sl;"],"gloss":[{"value":"reciprocating a like (on social media)"},{"value":"like for like"}]}]}
 {"ent_seq":2867310,"k_ele":[{"keb":"大コロンビア"}],"r_ele":[{"reb":"だいコロンビア"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"Gran Colombia (1819-1831)"},{"value":"Greater Columbia"}]}]}
 {"ent_seq":2867311,"k_ele":[{"keb":"悪うございました"},{"keb":"悪う御座いました","ke_inf":["&sK;"]}],"r_ele":[{"reb":"わるうございました"},{"reb":"わるーございました","re_inf":["&sk;"]}],"sense":[{"pos":["&exp;"],"misc":["&col;"],"s_inf":["oft. used sarcastically or defiantly"],"gloss":[{"value":"it was my bad"},{"value":"(yeah yeah) it was my fault"}]}]}
 {"ent_seq":2867312,"k_ele":[{"keb":"麻薬国家"}],"r_ele":[{"reb":"まやくこっか"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"narco-state"}]}]}
@@ -6331,6 +6332,8 @@
 {"ent_seq":2867321,"k_ele":[{"keb":"薬物密売"}],"r_ele":[{"reb":"やくぶつみつばい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"drug trafficking"}]}]}
 {"ent_seq":2867323,"k_ele":[{"keb":"町弁"},{"keb":"まち弁"},{"keb":"街弁","ke_inf":["&sK;"]},{"keb":"マチ弁","ke_inf":["&sK;"]}],"r_ele":[{"reb":"まちべん"}],"sense":[{"pos":["&n;"],"misc":["&col;"],"gloss":[{"value":"town lawyer"},{"value":"community lawyer"},{"value":"local lawyer"}]}]}
 {"ent_seq":2867324,"k_ele":[{"keb":"逆柱"}],"r_ele":[{"reb":"さかばしら"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"wooden pillar placed with its base pointing up (believed to cause ominous phenomena)"},{"value":"inverted pillar"}]},{"pos":["&n;"],"gloss":[{"value":"having one pillar of a building inverted (so as to not strive for perfection)"}]}]}
+{"ent_seq":2867325,"r_ele":[{"reb":"ファンミーティング"},{"reb":"ファン・ミーティング"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"fan meeting"},{"value":"fan meet"},{"value":"meet-and-greet"}]}]}
+{"ent_seq":2867326,"r_ele":[{"reb":"ファンミ"}],"sense":[{"pos":["&n;"],"xref":["ファンミーティング"],"misc":["&abbr;","&sl;"],"gloss":[{"value":"fan meeting"},{"value":"fan meet"},{"value":"meet-and-greet"}]}]}
 {"ent_seq":2867327,"k_ele":[{"keb":"労せずして"}],"r_ele":[{"reb":"ろうせずして"}],"sense":[{"pos":["&exp;","&adv;"],"gloss":[{"value":"without labor"},{"value":"without effort"},{"value":"easily"}]}]}
 {"ent_seq":2867328,"k_ele":[{"keb":"屋根馬"}],"r_ele":[{"reb":"やねうま"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"TV antenna roof mount"}]}]}
 {"ent_seq":2867329,"k_ele":[{"keb":"石斛"}],"r_ele":[{"reb":"セッコク","re_nokanji":true},{"reb":"せっこく"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese stone orchid (Dendrobium moniliforme)"},{"value":"dendrobium"}]}]}
@@ -6339,14 +6342,16 @@
 {"ent_seq":2867332,"k_ele":[{"keb":"富貴草"}],"r_ele":[{"reb":"フッキソウ","re_nokanji":true},{"reb":"ふっきそう"},{"reb":"ふうきぐさ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese pachysandra (Pachysandra terminalis)"},{"value":"carpet box"},{"value":"Japanese spurge"}]}]}
 {"ent_seq":2867333,"k_ele":[{"keb":"生活の本拠"}],"r_ele":[{"reb":"せいかつのほんきょ"}],"sense":[{"pos":["&exp;","&n;"],"field":["&law;"],"gloss":[{"value":"primary residence"}]}]}
 {"ent_seq":2867334,"k_ele":[{"keb":"年層"}],"r_ele":[{"reb":"ねんそう"}],"sense":[{"pos":["&n;"],"xref":["年齢層"],"misc":["&abbr;"],"gloss":[{"value":"age range"},{"value":"age-group"},{"value":"age bracket"}]}]}
+{"ent_seq":2867335,"k_ele":[{"keb":"ヌル艶"}],"r_ele":[{"reb":"ぬるつや"}],"sense":[{"pos":["&adj-na;","&n;"],"misc":["&rare;"],"gloss":[{"value":"glossy"},{"value":"sleek"},{"value":"glistening"},{"value":"slick"},{"value":"shiny"}]}]}
 {"ent_seq":2867336,"k_ele":[{"keb":"玉簾"},{"keb":"珠簾","ke_inf":["&rK;"]}],"r_ele":[{"reb":"たますだれ"},{"reb":"タマスダレ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"autumn zephyrlily (Zephyranthes candida)"},{"value":"white rain lily"}]},{"pos":["&n;"],"gloss":[{"value":"strings of beads hanging across a doorway"},{"value":"bead screen"}]}]}
 {"ent_seq":2867338,"k_ele":[{"keb":"静けし"}],"r_ele":[{"reb":"しずけし"}],"sense":[{"pos":["&adj-ku;"],"misc":["&poet;"],"gloss":[{"value":"quiet"},{"value":"silent"}]}]}
 {"ent_seq":2867339,"k_ele":[{"keb":"逆さ柱"}],"r_ele":[{"reb":"さかさばしら"}],"sense":[{"pos":["&n;"],"xref":["逆柱・1"],"gloss":[{"value":"wooden pillar placed with its base pointing up (believed to cause ominous phenomena)"},{"value":"inverted pillar"}]}]}
 {"ent_seq":2867340,"k_ele":[{"keb":"夏芽"}],"r_ele":[{"reb":"かが"},{"reb":"なつめ"}],"sense":[{"pos":["&n;"],"xref":["冬芽"],"field":["&bot;"],"gloss":[{"value":"summer bud"}]}]}
 {"ent_seq":2867342,"k_ele":[{"keb":"食す"}],"r_ele":[{"reb":"しょくす"}],"sense":[{"pos":["&v5s;","&vs-c;","&vt;"],"xref":["食する・1"],"gloss":[{"value":"to eat"}]}]}
-{"ent_seq":2867344,"k_ele":[{"keb":"八坂刀売神"}],"r_ele":[{"reb":"やさかとめのかみ"}],"sense":[{"pos":["&n;"],"field":["&jpmyth;"],"gloss":[{"value":"Yasakatome"},{"value":"deity worshipped at various (lower) Suwa shrines, and consort of Takeminakata","g_type":"expl"}]}]}
-{"ent_seq":2867345,"k_ele":[{"keb":"諏訪大明神"}],"r_ele":[{"reb":"すわだいみょうじん"}],"sense":[{"pos":["&n;"],"xref":["八坂刀売神"],"field":["&Shinto;"],"gloss":[{"value":"Suwa deities (esp. Takeminakata and his consort Yasakatome)"},{"value":"Suwa Daimyōjin"}]}]}
-{"ent_seq":2867346,"k_ele":[{"keb":"諏訪八幡も照覧あれ"}],"r_ele":[{"reb":"すわはちまんもしょうらんあれ"}],"sense":[{"pos":["&exp;"],"xref":["八幡神","諏訪大明神"],"misc":["&hist;"],"gloss":[{"value":"may Takeminakata (Suwa) and Hachiman bear witness"},{"value":"samurai vow of truthfulness","g_type":"expl"}]}]}
+{"ent_seq":2867343,"k_ele":[{"keb":"建御名方神"}],"r_ele":[{"reb":"たけみなかたのかみ"},{"reb":"タケミナカタノカミ","re_nokanji":true}],"sense":[{"pos":["&n;"],"xref":["大国主命"],"field":["&jpmyth;"],"gloss":[{"value":"Takeminakata"},{"value":"Minakatatomi"},{"value":"Takeminakatatomi"},{"value":"deity of military arts and agriculture, son of Ōkuninushi and worshipped at Suwa Grand Shrine","g_type":"expl"}]}]}
+{"ent_seq":2867344,"k_ele":[{"keb":"八坂刀売神"}],"r_ele":[{"reb":"やさかとめのかみ"}],"sense":[{"pos":["&n;"],"xref":["建御名方神"],"field":["&jpmyth;"],"gloss":[{"value":"Yasakatome"},{"value":"deity worshipped at various (lower) Suwa shrines, and consort of Takeminakata","g_type":"expl"}]}]}
+{"ent_seq":2867345,"k_ele":[{"keb":"諏訪大明神"}],"r_ele":[{"reb":"すわだいみょうじん"}],"sense":[{"pos":["&n;"],"xref":["建御名方神","八坂刀売神"],"field":["&Shinto;"],"gloss":[{"value":"Suwa deities (esp. Takeminakata and his consort Yasakatome)"},{"value":"Suwa Daimyōjin"}]}]}
+{"ent_seq":2867346,"k_ele":[{"keb":"諏訪八幡も照覧あれ"}],"r_ele":[{"reb":"すわはちまんもしょうらんあれ"}],"sense":[{"pos":["&exp;"],"xref":["建御名方神","八幡神","諏訪大明神"],"misc":["&hist;"],"gloss":[{"value":"may Takeminakata (Suwa) and Hachiman bear witness"},{"value":"samurai vow of truthfulness","g_type":"expl"}]}]}
 {"ent_seq":2867347,"k_ele":[{"keb":"止めネジ"},{"keb":"止めねじ"},{"keb":"留めネジ"},{"keb":"留めねじ","ke_inf":["&sK;"]},{"keb":"止め螺子","ke_inf":["&rK;"]},{"keb":"留め螺子","ke_inf":["&rK;"]},{"keb":"止め螺旋","ke_inf":["&sK;"]}],"r_ele":[{"reb":"とめねじ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"set screw"}]}]}
 {"ent_seq":2867348,"k_ele":[{"keb":"無リン"},{"keb":"無りん"},{"keb":"無燐"}],"r_ele":[{"reb":"むりん"}],"sense":[{"pos":["&pref;"],"gloss":[{"value":"phosphate-free"}]}]}
 {"ent_seq":2867349,"k_ele":[{"keb":"酒面雁"}],"r_ele":[{"reb":"サカツラガン","re_nokanji":true},{"reb":"さかつらがん"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"swan goose (Anser cygnoides)"},{"value":"Chinese goose"}]}]}
@@ -6379,6 +6384,7 @@
 {"ent_seq":2867378,"k_ele":[{"keb":"松房"}],"r_ele":[{"reb":"マツブサ","re_nokanji":true},{"reb":"まつぶさ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Schisandra repanda (climbing vine species)"}]}]}
 {"ent_seq":2867379,"r_ele":[{"reb":"ランチマット"},{"reb":"ランチ・マット"}],"sense":[{"pos":["&n;"],"xref":["ランチョンマット"],"lsource":[{"value":"lunch mat","ls_wasei":"y"}],"gloss":[{"value":"place mat"}]}]}
 {"ent_seq":2867380,"k_ele":[{"keb":"ＬＢＯ"}],"r_ele":[{"reb":"エル・ビー・オー"},{"reb":"エルビーオー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["レバレッジドバイアウト"],"gloss":[{"value":"leveraged buyout"},{"value":"LBO"}]}]}
+{"ent_seq":2867381,"r_ele":[{"reb":"カルチャーウォー"},{"reb":"カルチャー・ウォー"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"culture war"}]}]}
 {"ent_seq":2867382,"k_ele":[{"keb":"ＩＰＯ"}],"r_ele":[{"reb":"アイ・ピー・オー"},{"reb":"アイピーオー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["新規株式公開"],"gloss":[{"value":"initial public offering"},{"value":"IPO"}]},{"pos":["&n;"],"gloss":[{"value":"interdecadal pacific oscillation"},{"value":"IPO"}]}]}
 {"ent_seq":2867383,"k_ele":[{"keb":"青鷸"}],"r_ele":[{"reb":"アオシギ","re_nokanji":true},{"reb":"あおしぎ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"solitary snipe (Gallinago solitaria)"}]}]}
 {"ent_seq":2867384,"k_ele":[{"keb":"頬赤"}],"r_ele":[{"reb":"ホオアカ","re_nokanji":true},{"reb":"ほおあか"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"chestnut-eared bunting (Emberiza fucata)"},{"value":"grey-headed bunting"}]}]}
@@ -6393,7 +6399,102 @@
 {"ent_seq":2867393,"r_ele":[{"reb":"パヤパヤ"},{"reb":"ぱやぱや"}],"sense":[{"pos":["&adv;","&adv-to;"],"misc":["&on-mim;","&net-sl;"],"s_inf":["usu. of hair or fur"],"gloss":[{"value":"fuzzy"},{"value":"fluffy"}]}]}
 {"ent_seq":2867394,"k_ele":[{"keb":"塊芋"}],"r_ele":[{"reb":"ホドイモ","re_nokanji":true},{"reb":"ほどいも"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"groundnut (Apios fortunei)"},{"value":"hodo"},{"value":"potatobean"}]}]}
 {"ent_seq":2867395,"k_ele":[{"keb":"野生型"}],"r_ele":[{"reb":"やせいがた"}],"sense":[{"pos":["&n;","&adj-no;"],"field":["&genet;"],"gloss":[{"value":"wild type"}]}]}
-{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2025-10-05"}]}]}
+{"ent_seq":2867396,"r_ele":[{"reb":"ネオリベ"}],"sense":[{"pos":["&n;"],"xref":["ネオリベラリズム"],"misc":["&abbr;"],"gloss":[{"value":"neoliberalism"}]}]}
+{"ent_seq":2867397,"k_ele":[{"keb":"尺斤法"}],"r_ele":[{"reb":"しゃくきんほう"}],"sense":[{"pos":["&n;"],"xref":["尺貫法"],"misc":["&hist;"],"gloss":[{"value":"Chinese system of weights and measures"}]}]}
+{"ent_seq":2867398,"k_ele":[{"keb":"輝コバルト鉱"}],"r_ele":[{"reb":"きコバルトこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"cobaltine"}]}]}
+{"ent_seq":2867399,"k_ele":[{"keb":"亜鉛尖晶石"}],"r_ele":[{"reb":"あえんせんしょうせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"gahnite"}]}]}
+{"ent_seq":2867400,"k_ele":[{"keb":"微晶"}],"r_ele":[{"reb":"びしょう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"microlite"}]}]}
+{"ent_seq":2867401,"k_ele":[{"keb":"緑岩"}],"r_ele":[{"reb":"りょくがん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"greenstone"}]}]}
+{"ent_seq":2867402,"k_ele":[{"keb":"紫石英"}],"r_ele":[{"reb":"しせきえい"},{"reb":"むらさきせきえい"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"amethyst"}]}]}
+{"ent_seq":2867403,"k_ele":[{"keb":"地瀝青"}],"r_ele":[{"reb":"じれきせい"},{"reb":"ちれきせい"}],"sense":[{"pos":["&n;"],"xref":["アスファルト"],"misc":["&rare;"],"gloss":[{"value":"asphalt"}]}]}
+{"ent_seq":2867404,"k_ele":[{"keb":"模樹石"}],"r_ele":[{"reb":"もじゅせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"dendrite"}]}]}
+{"ent_seq":2867405,"k_ele":[{"keb":"千枚岩"}],"r_ele":[{"reb":"せんまいがん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"phyllite"}]}]}
+{"ent_seq":2867406,"k_ele":[{"keb":"灰沸石"}],"r_ele":[{"reb":"かいふっせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"scolecite"}]}]}
+{"ent_seq":2867407,"k_ele":[{"keb":"青鉛鉱"}],"r_ele":[{"reb":"せいえんこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"linarite"}]}]}
+{"ent_seq":2867408,"k_ele":[{"keb":"安銀鉱"}],"r_ele":[{"reb":"あんぎんこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"dyscrasite"}]}]}
+{"ent_seq":2867409,"k_ele":[{"keb":"灰硼鉱"}],"r_ele":[{"reb":"かいほうこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"colemanite"}]}]}
+{"ent_seq":2867410,"k_ele":[{"keb":"貴柘榴石"}],"r_ele":[{"reb":"きざくろいし"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"almandine"}]}]}
+{"ent_seq":2867411,"k_ele":[{"keb":"鉛重石"}],"r_ele":[{"reb":"えんじゅうせき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"stolzite"}]}]}
+{"ent_seq":2867412,"k_ele":[{"keb":"臭銀鉱"}],"r_ele":[{"reb":"しゅうぎんこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"bromyrite"}]}]}
+{"ent_seq":2867413,"k_ele":[{"keb":"硫銀鉱"}],"r_ele":[{"reb":"りゅうぎんこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"argentite"}]}]}
+{"ent_seq":2867414,"k_ele":[{"keb":"蓚酸鉄"}],"r_ele":[{"reb":"しゅうさんてつ"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"iron oxalate"}]}]}
+{"ent_seq":2867415,"k_ele":[{"keb":"雲母鉄鉱"}],"r_ele":[{"reb":"うんもてっこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"micaceous hematite"}]}]}
+{"ent_seq":2867416,"k_ele":[{"keb":"苦土明礬"}],"r_ele":[{"reb":"くどみょうばん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"pickeringite"}]}]}
+{"ent_seq":2867417,"r_ele":[{"reb":"ハイアロクラスタイト"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"hyaloclastite"}]}]}
+{"ent_seq":2867418,"k_ele":[{"keb":"苔瑪瑙"}],"r_ele":[{"reb":"こけめのう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"moss agate"}]}]}
+{"ent_seq":2867419,"k_ele":[{"keb":"硅板岩"}],"r_ele":[{"reb":"けいばんがん"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"Lydian stone"}]}]}
+{"ent_seq":2867420,"k_ele":[{"keb":"白榴石"}],"r_ele":[{"reb":"はくりゅうせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"leucite"}]}]}
+{"ent_seq":2867421,"k_ele":[{"keb":"水赤鉄鉱"}],"r_ele":[{"reb":"すいせきてっこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"turgite"}]}]}
+{"ent_seq":2867422,"k_ele":[{"keb":"雲母片岩"}],"r_ele":[{"reb":"うんもへんがん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"micaceous schist"}]}]}
+{"ent_seq":2867423,"k_ele":[{"keb":"角閃安山岩"}],"r_ele":[{"reb":"かくせんあんざんがん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"hornblende andesite"}]}]}
+{"ent_seq":2867425,"k_ele":[{"keb":"庇面"}],"r_ele":[{"reb":"ひめん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"dome"}]}]}
+{"ent_seq":2867426,"k_ele":[{"keb":"珪華"},{"keb":"硅華"}],"r_ele":[{"reb":"けいか"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"geyserite"}]}]}
+{"ent_seq":2867427,"k_ele":[{"keb":"藍鉄土"}],"r_ele":[{"reb":"らんてつど"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"blue iron earth"}]}]}
+{"ent_seq":2867428,"k_ele":[{"keb":"輝鉄鉱"}],"r_ele":[{"reb":"きてっこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"specular iron"}]}]}
+{"ent_seq":2867429,"k_ele":[{"keb":"臭石"}],"r_ele":[{"reb":"しゅうせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"stinkstone"}]}]}
+{"ent_seq":2867430,"k_ele":[{"keb":"石盤石"}],"r_ele":[{"reb":"せきばんせき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"slate"}]}]}
+{"ent_seq":2867431,"k_ele":[{"keb":"黝銅鉱"}],"r_ele":[{"reb":"ゆうどうこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"tetrahedrite"}]}]}
+{"ent_seq":2867432,"k_ele":[{"keb":"沼鉄鉱"}],"r_ele":[{"reb":"しょうてっこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"bog iron"}]}]}
+{"ent_seq":2867433,"k_ele":[{"keb":"角閃片岩"}],"r_ele":[{"reb":"かくせんへんがん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"hornblende schist"}]}]}
+{"ent_seq":2867434,"k_ele":[{"keb":"紅榴石"}],"r_ele":[{"reb":"こうりゅうせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"almandine"}]}]}
+{"ent_seq":2867435,"k_ele":[{"keb":"硫銅鉱"}],"r_ele":[{"reb":"りゅうどうこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"chalcocite"}]}]}
+{"ent_seq":2867436,"k_ele":[{"keb":"紅亜鉛鉱"}],"r_ele":[{"reb":"こうあえんこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"zincite"}]}]}
+{"ent_seq":2867437,"k_ele":[{"keb":"コルンブ石"}],"r_ele":[{"reb":"コルンブせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"columbite"}]}]}
+{"ent_seq":2867438,"k_ele":[{"keb":"モリブデン鉱"}],"r_ele":[{"reb":"モリブデンこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"molybdenite"}]}]}
+{"ent_seq":2867439,"k_ele":[{"keb":"雲母銅鉱"}],"r_ele":[{"reb":"うんもどうこう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"chalcophyllite"}]}]}
+{"ent_seq":2867440,"k_ele":[{"keb":"ＷＬＢ"}],"r_ele":[{"reb":"ダブリュー・エル・ビー"},{"reb":"ダブリューエルビー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["ワークライフバランス"],"gloss":[{"value":"work-life balance"},{"value":"WLB"}]}]}
+{"ent_seq":2867442,"r_ele":[{"reb":"インパクタイト"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"Impactite"}]}]}
+{"ent_seq":2867443,"r_ele":[{"reb":"マイロナイト"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"mylonite"}]}]}
+{"ent_seq":2867444,"r_ele":[{"reb":"ヌーマイト"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"nuummite"}]}]}
+{"ent_seq":2867445,"r_ele":[{"reb":"スカルン"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"skarn"}]}]}
+{"ent_seq":2867447,"k_ele":[{"keb":"超苦鉄質岩"}],"r_ele":[{"reb":"ちょうくてつしつがん"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"ultramafic rock"}]}]}
+{"ent_seq":2867448,"r_ele":[{"reb":"マッシー"},{"reb":"マシー"}],"sense":[{"pos":["&n;"],"field":["&golf;"],"gloss":[{"value":"mashie"}]}]}
+{"ent_seq":2867450,"r_ele":[{"reb":"ワンライナー"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"one-liner (program)"}]}]}
+{"ent_seq":2867451,"k_ele":[{"keb":"苦木"}],"r_ele":[{"reb":"ニガキ","re_nokanji":true},{"reb":"にがき"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Indian quassia (Picrasma quassioides)"},{"value":"quassia wood"},{"value":"picrasma wood"}]}]}
+{"ent_seq":2867452,"k_ele":[{"keb":"三葉空木"}],"r_ele":[{"reb":"ミツバウツギ","re_nokanji":true},{"reb":"みつばうつぎ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Bumald bladdernut (Staphylea bumalda)"},{"value":"Japanese bladdernut"}]}]}
+{"ent_seq":2867453,"k_ele":[{"keb":"山荷葉"}],"r_ele":[{"reb":"サンカヨウ","re_nokanji":true},{"reb":"さんかよう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"skeleton flower (Diphylleia grayi)"}]}]}
+{"ent_seq":2867454,"k_ele":[{"keb":"梅蕙草"}],"r_ele":[{"reb":"バイケイソウ","re_nokanji":true},{"reb":"ばいけいそう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"white false hellebore (Veratrum oxysepalum)"}]}]}
+{"ent_seq":2867455,"k_ele":[{"keb":"小梅蕙草"}],"r_ele":[{"reb":"コバイケイソウ","re_nokanji":true},{"reb":"こばいけいそう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"white hellebore (Veratrum stamineum)"},{"value":"false hellebore"}]}]}
+{"ent_seq":2867456,"k_ele":[{"keb":"三葉黄蓮"}],"r_ele":[{"reb":"ミツバオウレン","re_nokanji":true},{"reb":"みつばおうれん"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"threeleaf goldthread (Coptis trifolia)"},{"value":"savoyane"}]}]}
+{"ent_seq":2867457,"r_ele":[{"reb":"ツー"}],"sense":[{"pos":["&n;"],"xref":["長点","トン"],"misc":["&col;"],"gloss":[{"value":"dash (in Morse code)"}]}]}
+{"ent_seq":2867458,"k_ele":[{"keb":"謫流"}],"r_ele":[{"reb":"たくりゅう"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"exile"},{"value":"banishment"}]}]}
+{"ent_seq":2867459,"k_ele":[{"keb":"造り主"}],"r_ele":[{"reb":"つくりぬし"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"maker"},{"value":"creator"}]}]}
+{"ent_seq":2867460,"k_ele":[{"keb":"浴療学"}],"r_ele":[{"reb":"よくりょうがく"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"balneology"}]}]}
+{"ent_seq":2867462,"k_ele":[{"keb":"菊咲一華"}],"r_ele":[{"reb":"キクザキイチゲ","re_nokanji":true},{"reb":"きくざきいちげ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Anemone pseudoaltaica (anemone species)"}]}]}
+{"ent_seq":2867463,"k_ele":[{"keb":"白山一華"},{"keb":"白山一花"}],"r_ele":[{"reb":"ハクサンイチゲ","re_nokanji":true},{"reb":"はくさんいちげ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"narcissus anemone (Anemone narcissiflora)"},{"value":"narcissus-flowered anemone"}]}]}
+{"ent_seq":2867464,"k_ele":[{"keb":"先占権者"}],"r_ele":[{"reb":"せんせんけんしゃ"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"occupant (of unclaimed territory)"}]}]}
+{"ent_seq":2867465,"k_ele":[{"keb":"計り知る"},{"keb":"はかり知る"},{"keb":"測り知る"}],"r_ele":[{"reb":"はかりしる"}],"sense":[{"pos":["&v5r;","&vt;"],"xref":["計り知れない"],"s_inf":["usu. adjectivally as 計り知れない"],"gloss":[{"value":"to conjecture"},{"value":"to comprehend"},{"value":"to surmise"},{"value":"to understand"},{"value":"to estimate"}]}]}
+{"ent_seq":2867466,"k_ele":[{"keb":"鉄刀木"}],"r_ele":[{"reb":"たがやさん"},{"reb":"てっとうぼく"},{"reb":"タガヤサン","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Siamese cassia (Senna siamea)"},{"value":"Bombay blackwood"},{"value":"kassod tree"},{"value":"cassia tree"}]}]}
+{"ent_seq":2867467,"r_ele":[{"reb":"ちゃうくない"}],"sense":[{"pos":["&exp;"],"xref":["ちゃう・1"],"s_inf":["conjugation of ちゃう"],"dial":["&ksb;"],"gloss":[{"value":"isn't it (that) different (from usual, from what one could expect, etc.)?"},{"value":"isn't that wrong?"}]},{"pos":["&exp;"],"xref":["ちゃう・1"],"s_inf":["as a response to a question containing ちゃう"],"dial":["&ksb;"],"gloss":[{"value":"no, that's wrong"},{"value":"it's not like that"},{"value":"that's not the case"}]}]}
+{"ent_seq":2867468,"k_ele":[{"keb":"オヴァートンの窓"}],"r_ele":[{"reb":"オヴァートンのまど"}],"sense":[{"pos":["&exp;","&n;"],"field":["&psych;"],"gloss":[{"value":"Overton window"}]}]}
+{"ent_seq":2867469,"k_ele":[{"keb":"生き如来"}],"r_ele":[{"reb":"いきにょらい"}],"sense":[{"pos":["&n;"],"xref":["生き仏・1"],"misc":["&rare;"],"gloss":[{"value":"living Buddha"},{"value":"saintly Buddhist monk"}]}]}
+{"ent_seq":2867470,"k_ele":[{"keb":"宮師"}],"r_ele":[{"reb":"みやし"}],"sense":[{"pos":["&n;"],"field":["&Shinto;"],"gloss":[{"value":"miniature-shrine maker"}]}]}
+{"ent_seq":2867472,"k_ele":[{"keb":"網子"}],"r_ele":[{"reb":"あみこ"},{"reb":"あご"}],"sense":[{"pos":["&n;"],"xref":["網元・1"],"misc":["&hist;"],"gloss":[{"value":"traditional fisherman (provided labor to a master in exchange for equipment and sometimes lodging)"},{"value":"employed fisherman"}]}]}
+{"ent_seq":2867473,"k_ele":[{"keb":"精進袱紗"}],"r_ele":[{"reb":"しょうじんぶくさ"}],"sense":[{"pos":["&n;"],"field":["&Buddh;"],"gloss":[{"value":"cloth used as a gift for ceremonies"}]}]}
+{"ent_seq":2867474,"r_ele":[{"reb":"スパイスコーナー"},{"reb":"スパイス・コーナー"}],"sense":[{"pos":["&n;"],"lsource":[{"value":"spice corner","ls_wasei":"y"}],"gloss":[{"value":"spice section (supermarket, grocery)"}]}]}
+{"ent_seq":2867475,"k_ele":[{"keb":"初茸"}],"r_ele":[{"reb":"ハツタケ","re_nokanji":true},{"reb":"はつたけ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"red milk mushroom (Lactarius hatsudake)"},{"value":"hatsutake mushroom"}]}]}
+{"ent_seq":2867476,"k_ele":[{"keb":"金露梅"}],"r_ele":[{"reb":"キンロバイ","re_nokanji":true},{"reb":"きんろばい"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"shrubby cinquefoil (Dasiphora fruticosa)"},{"value":"golden hardhack"}]}]}
+{"ent_seq":2867477,"k_ele":[{"keb":"伶人草"}],"r_ele":[{"reb":"レイジンソウ","re_nokanji":true},{"reb":"れいじんそう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Aconitum loczyanum (monkshood species)"}]}]}
+{"ent_seq":2867478,"k_ele":[{"keb":"温白色"}],"r_ele":[{"reb":"おんぱくしょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"warm white colour"}]}]}
+{"ent_seq":2867479,"k_ele":[{"keb":"昼白色"}],"r_ele":[{"reb":"ちょうはくしょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"cool white colour"}]}]}
+{"ent_seq":2867480,"r_ele":[{"reb":"リオゲル"}],"sense":[{"pos":["&n;"],"field":["&pharm;"],"gloss":[{"value":"lyogel"}]}]}
+{"ent_seq":2867481,"r_ele":[{"reb":"リオゾル"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"lyosol"}]}]}
+{"ent_seq":2867482,"k_ele":[{"keb":"タイム油"},{"keb":"サイム油","ke_inf":["&sK;"]}],"r_ele":[{"reb":"タイムゆ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"thyme oil"}]}]}
+{"ent_seq":2867483,"k_ele":[{"keb":"酸分"}],"r_ele":[{"reb":"さんぶん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"acid content"}]}]}
+{"ent_seq":2867484,"k_ele":[{"keb":"サントン酸"}],"r_ele":[{"reb":"サントンさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"santonic acid"}]}]}
+{"ent_seq":2867485,"k_ele":[{"keb":"システイン酸"}],"r_ele":[{"reb":"システインさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"cysteic acid"}]}]}
+{"ent_seq":2867486,"k_ele":[{"keb":"樟脳酸"}],"r_ele":[{"reb":"しょうのうさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"camphoric acid"}]}]}
+{"ent_seq":2867487,"r_ele":[{"reb":"ウェアレベリング"},{"reb":"ウェア・レベリング"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"wear leveling"}]}]}
+{"ent_seq":2867488,"r_ele":[{"reb":"デフラグツール"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"lsource":[{"value":"defrag tool"}],"gloss":[{"value":"defragmentation software"}]}]}
+{"ent_seq":2867490,"k_ele":[{"keb":"王道進行"}],"r_ele":[{"reb":"おうどうしんこう"}],"sense":[{"pos":["&n;"],"field":["&music;"],"s_inf":["in contemporary Japanese pop music"],"gloss":[{"value":"royal road progression"},{"value":"koakuma chord progression"}]}]}
+{"ent_seq":2867491,"k_ele":[{"keb":"小悪魔コード進行"}],"r_ele":[{"reb":"こあくまコードしんこう"}],"sense":[{"pos":["&n;"],"field":["&music;"],"s_inf":["in contemporary Japanese pop music"],"gloss":[{"value":"koakuma chord progression"}]}]}
+{"ent_seq":2867492,"k_ele":[{"keb":"無用の用"}],"r_ele":[{"reb":"むようのよう"}],"sense":[{"pos":["&exp;","&n;"],"field":["&phil;"],"gloss":[{"value":"usefulness for the (seemingly) useless"}]}]}
+{"ent_seq":2867493,"k_ele":[{"keb":"発熱者"}],"r_ele":[{"reb":"はつねつしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"person with fever"}]}]}
+{"ent_seq":2867494,"k_ele":[{"keb":"総総分離"}],"r_ele":[{"reb":"そうそうぶんり"}],"sense":[{"pos":["&n;"],"field":["&politics;"],"gloss":[{"value":"view that the LDP President and the Prime Minister should be different people"}]}]}
+{"ent_seq":2867495,"r_ele":[{"reb":"シネオール"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"cineole"}]}]}
+{"ent_seq":2867499,"k_ele":[{"keb":"放置子"}],"r_ele":[{"reb":"ほうちご"}],"sense":[{"pos":["&n;"],"xref":["放置"],"gloss":[{"value":"child left to their own devices (i.e. by neglectful parents)"},{"value":"child allowed to run free"}]}]}
+{"ent_seq":2867500,"k_ele":[{"keb":"孟買","ke_inf":["&ateji;","&rK;"]}],"r_ele":[{"reb":"ボンベイ"}],"sense":[{"pos":["&n;"],"xref":["ムンバイ"],"misc":["&uk;"],"gloss":[{"value":"Bombay (old name for Mumbai)"}]}]}
+{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2025-10-12"}]}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる"}],"r_ele":[{"reb":"にちゃんねる"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"2channel (online forum)"}]}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ"}],"r_ele":[{"reb":"スリーエム"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"3M"}]}]}
 {"ent_seq":5000016,"k_ele":[{"keb":"Ｅテレ"}],"r_ele":[{"reb":"イーテレ"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"NHK Educational TV"}]}]}
@@ -7571,6 +7672,7 @@
 {"ent_seq":5091258,"r_ele":[{"reb":"リップス"}],"sense":[{"pos":["&n;"],"misc":["&surname;"],"gloss":[{"value":"Lipps"},{"value":"Lips"}]},{"pos":["&n;"],"misc":["&product;"],"gloss":[{"value":"LIPS (software package)"}]}]}
 {"ent_seq":5091264,"r_ele":[{"reb":"リップヴァンウィンクル"}],"sense":[{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"Rip Van Winkle (book)"}]}]}
 {"ent_seq":5091511,"k_ele":[{"keb":"リビングオンＴＯＫＹＯタイム"}],"r_ele":[{"reb":"リビングオンとうきょうタイム"}],"sense":[{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"Living On Tokyo Time (1987 film)"}]}]}
+{"ent_seq":5091582,"r_ele":[{"reb":"リプトン"}],"sense":[{"pos":["&n;"],"misc":["&surname;"],"gloss":[{"value":"Lipton"}]},{"pos":["&n;"],"misc":["&product;"],"gloss":[{"value":"Lipton (tea brand)"}]}]}
 {"ent_seq":5092103,"r_ele":[{"reb":"リントン"}],"sense":[{"pos":["&n;"],"misc":["&surname;","&place;"],"gloss":[{"value":"Linton"}]},{"pos":["&n;"],"misc":["&product;"],"gloss":[{"value":"Linton (Japanese brand of haloperidol)"}]}]}
 {"ent_seq":5092278,"r_ele":[{"reb":"ルージュラ"}],"sense":[{"pos":["&n;"],"misc":["&char;"],"gloss":[{"value":"Jynx (Pokémon)"}]}]}
 {"ent_seq":5092302,"r_ele":[{"reb":"ルーチェモン"}],"sense":[{"pos":["&n;"],"misc":["&product;"],"gloss":[{"value":"Lucemon (character from Digimon Frontier)"}]}]}
@@ -13622,3 +13724,4 @@
 {"ent_seq":5747419,"k_ele":[{"keb":"沼河姫命"}],"r_ele":[{"reb":"ぬなかわひめのみこと"}],"sense":[{"pos":["&n;"],"misc":["&dei;"],"gloss":[{"value":"Nunakawahime no Mikoto"}]}]}
 {"ent_seq":5747420,"k_ele":[{"keb":"野狐囲碁"}],"r_ele":[{"reb":"のぎつねいご"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"Fox Weiqi (Chinese online go server)"}]}]}
 {"ent_seq":5747421,"k_ele":[{"keb":"野狐"}],"r_ele":[{"reb":"のぎつね"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"Fox Weiqi (Chinese online go server) (abbr)"}]}]}
+{"ent_seq":5747425,"k_ele":[{"keb":"ＤｅｅｐＬ翻訳"},{"keb":"ディープエル翻訳"}],"r_ele":[{"reb":"ディープエルほんやく"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"DeepL Translator"}]}]}
