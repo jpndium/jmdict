@@ -1939,7 +1939,7 @@
 {"ent_seq":2862670,"k_ele":[{"keb":"夫婦は合わせ鏡"}],"r_ele":[{"reb":"ふうふはあわせかがみ"}],"sense":[{"pos":["&exp;"],"misc":["&proverb;"],"gloss":[{"value":"spouses are mirror images of each other"}]}]}
 {"ent_seq":2862671,"k_ele":[{"keb":"情合"},{"keb":"情合い"}],"r_ele":[{"reb":"じょうあい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"affection"},{"value":"compassion"},{"value":"warm feelings"},{"value":"love"}]}]}
 {"ent_seq":2862673,"r_ele":[{"reb":"んじゃ"}],"sense":[{"pos":["&int;"],"xref":["それじゃあ・4"],"misc":["&col;"],"gloss":[{"value":"bye then"}]}]}
-{"ent_seq":2862675,"r_ele":[{"reb":"なよ"}],"sense":[{"pos":["&prt;"],"misc":["&col;"],"gloss":[{"value":"do"}]},{"pos":["&prt;"],"misc":["&male;"],"gloss":[{"value":"don't"}]}]}
+{"ent_seq":2862675,"r_ele":[{"reb":"なよ"}],"sense":[{"pos":["&prt;"],"xref":["な・2"],"misc":["&col;"],"s_inf":["light imperative; after the -masu stem of a verb"],"gloss":[{"value":"do ..."}]},{"pos":["&prt;"],"xref":["な・1"],"misc":["&male;"],"s_inf":["prohibitive; after the plain form of a verb"],"gloss":[{"value":"don't ..."}]}]}
 {"ent_seq":2862676,"k_ele":[{"keb":"大島"}],"r_ele":[{"reb":"おおしま"}],"sense":[{"pos":["&n;"],"s_inf":["in place names"],"gloss":[{"value":"large island"}]},{"pos":["&n;"],"xref":["大島紬"],"misc":["&abbr;"],"gloss":[{"value":"Oshima tsumugi weave"}]}]}
 {"ent_seq":2862677,"k_ele":[{"keb":"名無しさん"},{"keb":"名なしさん","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ななしさん"}],"sense":[{"pos":["&n;"],"misc":["&net-sl;"],"gloss":[{"value":"anon (name automatically given to posters on 2ch who do not use a handle)"}]}]}
 {"ent_seq":2862678,"k_ele":[{"keb":"モブ顔"}],"r_ele":[{"reb":"モブがお"}],"sense":[{"pos":["&n;"],"xref":["モブ・2"],"misc":["&sl;"],"gloss":[{"value":"face without any distinctive features"}]}]}
@@ -2723,7 +2723,7 @@
 {"ent_seq":2863507,"k_ele":[{"keb":"度々"},{"keb":"度度","ke_inf":["&rK;"]}],"r_ele":[{"reb":"どど"}],"sense":[{"pos":["&adv;","&n;"],"xref":["度々・たびたび"],"misc":["&form;","&arch;"],"gloss":[{"value":"often"},{"value":"again and again"},{"value":"over and over"},{"value":"repeatedly"}]}]}
 {"ent_seq":2863508,"k_ele":[{"keb":"Ｌ判"}],"r_ele":[{"reb":"エルばん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"large size"},{"value":"L size"}]}]}
 {"ent_seq":2863509,"k_ele":[{"keb":"茎節"}],"r_ele":[{"reb":"けいせつ"}],"sense":[{"pos":["&n;"],"field":["&bot;"],"gloss":[{"value":"cladode"},{"value":"leaf-like stem"}]}]}
-{"ent_seq":2863510,"r_ele":[{"reb":"くっと"},{"reb":"クッと"}],"sense":[{"pos":["&adv;"],"gloss":[{"value":"inadvertently (letting out a laugh)"}]}]}
+{"ent_seq":2863510,"r_ele":[{"reb":"くっと"},{"reb":"クッと"}],"sense":[{"pos":["&adv;"],"gloss":[{"value":"inadvertently (letting out a laugh)"}]},{"pos":["&adv;"],"gloss":[{"value":"quickly"},{"value":"all of a sudden"},{"value":"all at once"}]}]}
 {"ent_seq":2863511,"k_ele":[{"keb":"薬歴"}],"r_ele":[{"reb":"やくれき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"medication history"}]}]}
 {"ent_seq":2863512,"k_ele":[{"keb":"薬歴管理"}],"r_ele":[{"reb":"やくれきかんり"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"medication history management"}]}]}
 {"ent_seq":2863513,"k_ele":[{"keb":"汗ジミ"},{"keb":"汗染み"}],"r_ele":[{"reb":"あせじみ"}],"sense":[{"pos":["&n;","&vs;","&vi;"],"gloss":[{"value":"sweat stain"}]}]}
@@ -5298,7 +5298,7 @@
 {"ent_seq":2866247,"k_ele":[{"keb":"電束"}],"r_ele":[{"reb":"でんそく"}],"sense":[{"pos":["&n;"],"field":["&physics;"],"gloss":[{"value":"electric flux"}]}]}
 {"ent_seq":2866248,"k_ele":[{"keb":"コウ争い"},{"keb":"劫争い","ke_inf":["&sK;"]}],"r_ele":[{"reb":"こうあらそい"}],"sense":[{"pos":["&n;"],"xref":["劫・2"],"field":["&go;"],"gloss":[{"value":"ko battle"},{"value":"ko fight"}]}]}
 {"ent_seq":2866249,"k_ele":[{"keb":"界磁"}],"r_ele":[{"reb":"かいじ"}],"sense":[{"pos":["&n;"],"field":["&elec;"],"gloss":[{"value":"(magnetic) field system"},{"value":"field magnet"}]}]}
-{"ent_seq":2866250,"k_ele":[{"keb":"劫立て"},{"keb":"コウ立て"}],"r_ele":[{"reb":"こうだて"},{"reb":"コウダテ","re_nokanji":true}],"sense":[{"pos":["&n;"],"xref":["劫・2","コウ争い"],"field":["&go;"],"gloss":[{"value":"ko threat"}]}]}
+{"ent_seq":2866250,"k_ele":[{"keb":"劫立て"},{"keb":"コウ立て"}],"r_ele":[{"reb":"こうだて"},{"reb":"コウダテ","re_nokanji":true}],"sense":[{"pos":["&n;"],"xref":["コウ材","劫・2"],"field":["&go;"],"gloss":[{"value":"ko threat"}]}]}
 {"ent_seq":2866251,"r_ele":[{"reb":"もにょもにょ"},{"reb":"モニョモニョ"}],"sense":[{"pos":["&adv-to;","&vs;","&vi;"],"xref":["もにょる"],"misc":["&on-mim;","&net-sl;"],"gloss":[{"value":"(speaking) with hesitation"},{"value":"falteringly"},{"value":"in a small voice"},{"value":"struggling for words"},{"value":"in fits and starts"},{"value":"awkwardly"}]}]}
 {"ent_seq":2866252,"r_ele":[{"reb":"もにょる"},{"reb":"モニョる"}],"sense":[{"pos":["&v5r;","&vi;"],"xref":["もにょもにょ"],"misc":["&on-mim;","&net-sl;"],"gloss":[{"value":"to hesitate (to say)"},{"value":"to mutter"},{"value":"to mumble"},{"value":"to hem and haw"},{"value":"to go about uneasily"},{"value":"to feel irritated"}]}]}
 {"ent_seq":2866253,"r_ele":[{"reb":"ネガポジ"}],"sense":[{"pos":["&adj-f;"],"gloss":[{"value":"negative-positive"},{"value":"negative and positive"},{"value":"inverted (e.g. image)"}]}]}
@@ -6344,6 +6344,7 @@
 {"ent_seq":2867334,"k_ele":[{"keb":"年層"}],"r_ele":[{"reb":"ねんそう"}],"sense":[{"pos":["&n;"],"xref":["年齢層"],"misc":["&abbr;"],"gloss":[{"value":"age range"},{"value":"age-group"},{"value":"age bracket"}]}]}
 {"ent_seq":2867335,"k_ele":[{"keb":"ヌル艶"}],"r_ele":[{"reb":"ぬるつや"}],"sense":[{"pos":["&adj-na;","&n;"],"misc":["&rare;"],"gloss":[{"value":"glossy"},{"value":"sleek"},{"value":"glistening"},{"value":"slick"},{"value":"shiny"}]}]}
 {"ent_seq":2867336,"k_ele":[{"keb":"玉簾"},{"keb":"珠簾","ke_inf":["&rK;"]}],"r_ele":[{"reb":"たますだれ"},{"reb":"タマスダレ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"autumn zephyrlily (Zephyranthes candida)"},{"value":"white rain lily"}]},{"pos":["&n;"],"gloss":[{"value":"strings of beads hanging across a doorway"},{"value":"bead screen"}]}]}
+{"ent_seq":2867337,"k_ele":[{"keb":"お姉さんパンツ"}],"r_ele":[{"reb":"おねえさんパンツ"}],"sense":[{"pos":["&n;"],"xref":["トレーニングパンツ・1"],"gloss":[{"value":"female underwear (esp. when transitioning from diapers)"}]}]}
 {"ent_seq":2867338,"k_ele":[{"keb":"静けし"}],"r_ele":[{"reb":"しずけし"}],"sense":[{"pos":["&adj-ku;"],"misc":["&poet;"],"gloss":[{"value":"quiet"},{"value":"silent"}]}]}
 {"ent_seq":2867339,"k_ele":[{"keb":"逆さ柱"}],"r_ele":[{"reb":"さかさばしら"}],"sense":[{"pos":["&n;"],"xref":["逆柱・1"],"gloss":[{"value":"wooden pillar placed with its base pointing up (believed to cause ominous phenomena)"},{"value":"inverted pillar"}]}]}
 {"ent_seq":2867340,"k_ele":[{"keb":"夏芽"}],"r_ele":[{"reb":"かが"},{"reb":"なつめ"}],"sense":[{"pos":["&n;"],"xref":["冬芽"],"field":["&bot;"],"gloss":[{"value":"summer bud"}]}]}
@@ -6356,6 +6357,8 @@
 {"ent_seq":2867348,"k_ele":[{"keb":"無リン"},{"keb":"無りん"},{"keb":"無燐"}],"r_ele":[{"reb":"むりん"}],"sense":[{"pos":["&pref;"],"gloss":[{"value":"phosphate-free"}]}]}
 {"ent_seq":2867349,"k_ele":[{"keb":"酒面雁"}],"r_ele":[{"reb":"サカツラガン","re_nokanji":true},{"reb":"さかつらがん"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"swan goose (Anser cygnoides)"},{"value":"Chinese goose"}]}]}
 {"ent_seq":2867350,"k_ele":[{"keb":"小白鳥"}],"r_ele":[{"reb":"コハクチョウ","re_nokanji":true},{"reb":"こはくちょう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"tundra swan (Cygnus columbianus)"},{"value":"Bewick's swan"},{"value":"whistling swan"}]}]}
+{"ent_seq":2867351,"k_ele":[{"keb":"業沸く","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ごうわく"}],"sense":[{"pos":["&v5k;","&vi;"],"dial":["&ksb;"],"gloss":[{"value":"to get angry"},{"value":"to take offense (offence)"},{"value":"to be furious"}]}]}
+{"ent_seq":2867352,"k_ele":[{"keb":"業が沸く"},{"keb":"業がわく","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ごうがわく"}],"sense":[{"pos":["&exp;","&v5k;"],"xref":["ごうわく"],"misc":["&uk;"],"dial":["&ksb;"],"gloss":[{"value":"to get angry"},{"value":"to take offense (offence)"},{"value":"to be furious"}]}]}
 {"ent_seq":2867353,"k_ele":[{"keb":"善知鳥"}],"r_ele":[{"reb":"ウトウ","re_nokanji":true},{"reb":"うとう"},{"reb":"ぜんちちょう","re_inf":["&rk;"]}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"rhinoceros auklet (Cerorhinca monocerata)"},{"value":"hornbilled puffin"}]}]}
 {"ent_seq":2867354,"k_ele":[{"keb":"無事カエル"}],"r_ele":[{"reb":"ぶじカエル"}],"sense":[{"pos":["&n;"],"s_inf":["pun on 無事帰る"],"gloss":[{"value":"safety frog (good luck charm, often in the form of a small frog figure or keychain)"}]}]}
 {"ent_seq":2867355,"k_ele":[{"keb":"稚児百合"}],"r_ele":[{"reb":"チゴユリ","re_nokanji":true},{"reb":"ちごゆり"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese fairy bells (Disporum smilacinum)"}]}]}
@@ -6476,7 +6479,7 @@
 {"ent_seq":2867476,"k_ele":[{"keb":"金露梅"}],"r_ele":[{"reb":"キンロバイ","re_nokanji":true},{"reb":"きんろばい"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"shrubby cinquefoil (Dasiphora fruticosa)"},{"value":"golden hardhack"}]}]}
 {"ent_seq":2867477,"k_ele":[{"keb":"伶人草"}],"r_ele":[{"reb":"レイジンソウ","re_nokanji":true},{"reb":"れいじんそう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Aconitum loczyanum (monkshood species)"}]}]}
 {"ent_seq":2867478,"k_ele":[{"keb":"温白色"}],"r_ele":[{"reb":"おんぱくしょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"warm white colour"}]}]}
-{"ent_seq":2867479,"k_ele":[{"keb":"昼白色"}],"r_ele":[{"reb":"ちょうはくしょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"cool white colour"}]}]}
+{"ent_seq":2867479,"k_ele":[{"keb":"昼白色"}],"r_ele":[{"reb":"ちゅうはくしょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"cool white colour"}]}]}
 {"ent_seq":2867480,"r_ele":[{"reb":"リオゲル"}],"sense":[{"pos":["&n;"],"field":["&pharm;"],"gloss":[{"value":"lyogel"}]}]}
 {"ent_seq":2867481,"r_ele":[{"reb":"リオゾル"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"lyosol"}]}]}
 {"ent_seq":2867482,"k_ele":[{"keb":"タイム油"},{"keb":"サイム油","ke_inf":["&sK;"]}],"r_ele":[{"reb":"タイムゆ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"thyme oil"}]}]}
@@ -6494,7 +6497,92 @@
 {"ent_seq":2867495,"r_ele":[{"reb":"シネオール"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"cineole"}]}]}
 {"ent_seq":2867499,"k_ele":[{"keb":"放置子"}],"r_ele":[{"reb":"ほうちご"}],"sense":[{"pos":["&n;"],"xref":["放置"],"gloss":[{"value":"child left to their own devices (i.e. by neglectful parents)"},{"value":"child allowed to run free"}]}]}
 {"ent_seq":2867500,"k_ele":[{"keb":"孟買","ke_inf":["&ateji;","&rK;"]}],"r_ele":[{"reb":"ボンベイ"}],"sense":[{"pos":["&n;"],"xref":["ムンバイ"],"misc":["&uk;"],"gloss":[{"value":"Bombay (old name for Mumbai)"}]}]}
-{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2025-10-12"}]}]}
+{"ent_seq":2867501,"k_ele":[{"keb":"ライン越え"},{"keb":"ライン超え"}],"r_ele":[{"reb":"ラインごえ"}],"sense":[{"pos":["&n;"],"xref":["一線を越える"],"misc":["&net-sl;"],"gloss":[{"value":"crossing the line"},{"value":"going too far"}]}]}
+{"ent_seq":2867502,"k_ele":[{"keb":"ＮＨ"}],"r_ele":[{"reb":"エヌ・エイチ"},{"reb":"エヌエイチ","re_inf":["&sk;"]},{"reb":"エヌエッチ","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["ニューハーフ・1"],"misc":["&abbr;"],"gloss":[{"value":"(male-to-female) crossdresser"},{"value":"transvestite"},{"value":"drag queen"}]},{"pos":["&n;"],"xref":["ニューハーフ・2"],"misc":["&abbr;"],"gloss":[{"value":"trans woman"}]}]}
+{"ent_seq":2867504,"k_ele":[{"keb":"難い"}],"r_ele":[{"reb":"がたい"}],"sense":[{"pos":["&suf;","&adj-i;"],"xref":["難い・にくい"],"misc":["&uk;"],"s_inf":["after the -masu stem of a verb"],"gloss":[{"value":"very difficult to ..."},{"value":"nearly impossible to ..."}]}]}
+{"ent_seq":2867506,"k_ele":[{"keb":"腹裂き"}],"r_ele":[{"reb":"はらさき"}],"sense":[{"pos":["&n;"],"xref":["裂く・2"],"gloss":[{"value":"evisceration"},{"value":"disembowelment"}]}]}
+{"ent_seq":2867507,"k_ele":[{"keb":"腕頭動脈"}],"r_ele":[{"reb":"わんとうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"brachiocephalic trunk"}]}]}
+{"ent_seq":2867508,"k_ele":[{"keb":"舌動脈"}],"r_ele":[{"reb":"ぜつどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"lingual artery"}]}]}
+{"ent_seq":2867510,"k_ele":[{"keb":"腎動脈"}],"r_ele":[{"reb":"じんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"renal artery"}]}]}
+{"ent_seq":2867512,"k_ele":[{"keb":"弩兵"}],"r_ele":[{"reb":"どへい"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"crossbowman"},{"value":"arbalist"}]}]}
+{"ent_seq":2867513,"k_ele":[{"keb":"強化試合"}],"r_ele":[{"reb":"きょうかじあい"},{"reb":"きょうかしあい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"exhibition game"},{"value":"training match"}]}]}
+{"ent_seq":2867514,"k_ele":[{"keb":"上甲状腺動脈"}],"r_ele":[{"reb":"じょうこうじょうせんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"superior thyroid artery"}]}]}
+{"ent_seq":2867515,"k_ele":[{"keb":"後頭動脈"}],"r_ele":[{"reb":"こうとうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"occipital artery"}]}]}
+{"ent_seq":2867516,"k_ele":[{"keb":"後耳介動脈"}],"r_ele":[{"reb":"こうじかいどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"posterior auricular artery"}]}]}
+{"ent_seq":2867517,"k_ele":[{"keb":"浅側頭動脈"}],"r_ele":[{"reb":"せんそくとうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"superficial temporal artery"}]}]}
+{"ent_seq":2867518,"k_ele":[{"keb":"後交通動脈"}],"r_ele":[{"reb":"こうこうつうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"posterior communicating artery"}]}]}
+{"ent_seq":2867519,"k_ele":[{"keb":"尺骨動脈"}],"r_ele":[{"reb":"しゃくこつどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"ulnar artery"}]}]}
+{"ent_seq":2867520,"k_ele":[{"keb":"左胃動脈"}],"r_ele":[{"reb":"ひだりいどうみゃく"},{"reb":"さいどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"left gastric artery"}]}]}
+{"ent_seq":2867521,"k_ele":[{"keb":"下腸間膜動脈"}],"r_ele":[{"reb":"かちょうかんまくどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"inferior mesenteric artery"}]}]}
+{"ent_seq":2867522,"k_ele":[{"keb":"会陰動脈"}],"r_ele":[{"reb":"えいんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"perineal artery"}]}]}
+{"ent_seq":2867523,"k_ele":[{"keb":"終動脈"}],"r_ele":[{"reb":"しゅうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"end artery"},{"value":"terminal artery"}]}]}
+{"ent_seq":2867524,"k_ele":[{"keb":"腓骨動脈"}],"r_ele":[{"reb":"ひこつどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"peroneal artery"}]}]}
+{"ent_seq":2867525,"k_ele":[{"keb":"閉鎖動脈"}],"r_ele":[{"reb":"へいさどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"obturator artery"}]}]}
+{"ent_seq":2867526,"k_ele":[{"keb":"舌下動脈"}],"r_ele":[{"reb":"ぜっかどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"sublingual artery"}]}]}
+{"ent_seq":2867527,"k_ele":[{"keb":"無名動脈"}],"r_ele":[{"reb":"むめいどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"innominate artery"}]}]}
+{"ent_seq":2867528,"k_ele":[{"keb":"蛇行動脈"}],"r_ele":[{"reb":"だこうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"tortuous artery"}]}]}
+{"ent_seq":2867529,"k_ele":[{"keb":"迷路動脈"}],"r_ele":[{"reb":"めいろどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"labyrinthine artery"}]}]}
+{"ent_seq":2867530,"k_ele":[{"keb":"網膜動脈"}],"r_ele":[{"reb":"もうまくどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"retinal artery"}]}]}
+{"ent_seq":2867531,"k_ele":[{"keb":"肋下動脈"}],"r_ele":[{"reb":"ろっかどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"subcostal artery"}]}]}
+{"ent_seq":2867532,"k_ele":[{"keb":"肺舌動脈"}],"r_ele":[{"reb":"はいぜつどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"lingular artery"}]}]}
+{"ent_seq":2867533,"k_ele":[{"keb":"眼角動脈"}],"r_ele":[{"reb":"がんかくどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"angular artery"}]}]}
+{"ent_seq":2867534,"k_ele":[{"keb":"涙腺動脈"}],"r_ele":[{"reb":"るいせんどうみょく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"lacrimal artery"}]}]}
+{"ent_seq":2867535,"k_ele":[{"keb":"卵巣動脈"}],"r_ele":[{"reb":"らんそうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"ovarian artery"}]}]}
+{"ent_seq":2867536,"k_ele":[{"keb":"葉間動脈"}],"r_ele":[{"reb":"ようかんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"interlobular artery"}]}]}
+{"ent_seq":2867537,"k_ele":[{"keb":"回旋動脈"}],"r_ele":[{"reb":"かいせんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"circumflex artery"}]}]}
+{"ent_seq":2867538,"k_ele":[{"keb":"脛骨動脈"}],"r_ele":[{"reb":"けいこつどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"tibial artery"}]}]}
+{"ent_seq":2867539,"k_ele":[{"keb":"陰茎脚"}],"r_ele":[{"reb":"いんけいきゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"crus penis"}]}]}
+{"ent_seq":2867540,"k_ele":[{"keb":"尿道球"}],"r_ele":[{"reb":"にょうどうきゅう"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"bulb of penis"},{"value":"urethral bulb"}]}]}
+{"ent_seq":2867541,"k_ele":[{"keb":"陰茎出血"}],"r_ele":[{"reb":"いんけいしゅっけつ"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"phallorrhagia"}]}]}
+{"ent_seq":2867543,"k_ele":[{"keb":"口唇動脈"}],"r_ele":[{"reb":"こうしんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"labial artery"}]}]}
+{"ent_seq":2867544,"k_ele":[{"keb":"辺縁動脈"}],"r_ele":[{"reb":"へんえんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"marginal artery"}]}]}
+{"ent_seq":2867545,"k_ele":[{"keb":"呑気症"}],"r_ele":[{"reb":"どんきしょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"aerophagia"},{"value":"aerophagy"}]}]}
+{"ent_seq":2867546,"k_ele":[{"keb":"耳介軟骨"}],"r_ele":[{"reb":"じかいなんこつ"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"auricular cartilage"}]}]}
+{"ent_seq":2867547,"k_ele":[{"keb":"奇静脈"}],"r_ele":[{"reb":"きじょうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"azygos vein"}]}]}
+{"ent_seq":2867548,"k_ele":[{"keb":"海馬傍回"}],"r_ele":[{"reb":"かいばぼうかい"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"parahippocampal gyrus"}]}]}
+{"ent_seq":2867549,"k_ele":[{"keb":"輪状甲状靱帯"}],"r_ele":[{"reb":"りんじょうこうじょうじんたい"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"cricothyroid ligament"}]}]}
+{"ent_seq":2867550,"k_ele":[{"keb":"供給血管"}],"r_ele":[{"reb":"きょうきゅうけっかん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"feeder vessel"},{"value":"donor artery"}]}]}
+{"ent_seq":2867551,"k_ele":[{"keb":"下区動脈"}],"r_ele":[{"reb":"かくどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"inferior segmental artery"}]}]}
+{"ent_seq":2867552,"k_ele":[{"keb":"右胃動脈"}],"r_ele":[{"reb":"ういどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"right gastric artery"}]}]}
+{"ent_seq":2867553,"k_ele":[{"keb":"下唇動脈"}],"r_ele":[{"reb":"かしんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"inferior labial artery"}]}]}
+{"ent_seq":2867554,"k_ele":[{"keb":"総肝動脈"}],"r_ele":[{"reb":"そうかんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"common hepatic artery"}]}]}
+{"ent_seq":2867555,"k_ele":[{"keb":"下鼓室動脈"}],"r_ele":[{"reb":"かこしつどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"inferior tympanic artery"}]}]}
+{"ent_seq":2867556,"k_ele":[{"keb":"下喉頭動脈"}],"r_ele":[{"reb":"かこうとうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"inferior laryngeal artery"}]}]}
+{"ent_seq":2867557,"k_ele":[{"keb":"深耳介動脈"}],"r_ele":[{"reb":"しんじかいどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"deep auricular artery"}]}]}
+{"ent_seq":2867558,"k_ele":[{"keb":"副閉鎖動脈"}],"r_ele":[{"reb":"ふくへいさどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"accessory obturator artery"}]}]}
+{"ent_seq":2867559,"k_ele":[{"keb":"下横隔動脈"}],"r_ele":[{"reb":"かおうかくどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"inferior phrenic artery"}]}]}
+{"ent_seq":2867560,"k_ele":[{"keb":"特別快速"}],"r_ele":[{"reb":"とくべつかいそく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"special fast (local) train"},{"value":"special rapid-service train"}]}]}
+{"ent_seq":2867561,"k_ele":[{"keb":"上行咽頭動脈"}],"r_ele":[{"reb":"じょうこういんとうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"ascending pharyngeal artery"}]}]}
+{"ent_seq":2867562,"k_ele":[{"keb":"反回骨間動脈"}],"r_ele":[{"reb":"はんかいこつかんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"recurrent interosseous artery"}]}]}
+{"ent_seq":2867563,"k_ele":[{"keb":"正中仙骨動脈"}],"r_ele":[{"reb":"せいちゅうせんこつどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"median sacral artery"}]}]}
+{"ent_seq":2867564,"k_ele":[{"keb":"上行口蓋動脈"}],"r_ele":[{"reb":"じょうこうこうがいどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"ascending palatine artery"}]}]}
+{"ent_seq":2867565,"k_ele":[{"keb":"下甲状腺動脈"}],"r_ele":[{"reb":"かこうじょうせんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"inferior thyroid artery"}]}]}
+{"ent_seq":2867566,"k_ele":[{"keb":"回結腸動脈"}],"r_ele":[{"reb":"かいけっちょうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"ileocolic artery"}]}]}
+{"ent_seq":2867567,"k_ele":[{"keb":"下行口蓋動脈"}],"r_ele":[{"reb":"かこうこうがいどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"descending palatine artery"}]}]}
+{"ent_seq":2867568,"k_ele":[{"keb":"上喉頭動脈"}],"r_ele":[{"reb":"じょうこうとうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"superior laryngeal artery"}]}]}
+{"ent_seq":2867569,"k_ele":[{"keb":"小口蓋動脈"}],"r_ele":[{"reb":"しょうこうがいどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"lesser palatine artery"}]}]}
+{"ent_seq":2867570,"k_ele":[{"keb":"若干"},{"keb":"幾許"}],"r_ele":[{"reb":"そこばく","re_inf":["&gikun;"]},{"reb":"そくばく","re_inf":["&gikun;"]},{"reb":"そこば","re_inf":["&gikun;","&ok;"]}],"sense":[{"pos":["&adj-no;","&n;"],"misc":["&form;"],"gloss":[{"value":"some"},{"value":"few"},{"value":"a number of"},{"value":"a little (bit)"}]},{"pos":["&adv;"],"misc":["&form;"],"gloss":[{"value":"somewhat"},{"value":"to a certain extent"},{"value":"a bit"}]},{"pos":["&adj-no;","&adv;","&n;"],"misc":["&arch;"],"gloss":[{"value":"many"},{"value":"a lot"}]}]}
+{"ent_seq":2867571,"k_ele":[{"keb":"小中"}],"r_ele":[{"reb":"しょうちゅう"}],"sense":[{"pos":["&n;"],"xref":["小中学校"],"misc":["&abbr;"],"gloss":[{"value":"elementary and middle schools"}]}]}
+{"ent_seq":2867572,"k_ele":[{"keb":"閲兵式"}],"r_ele":[{"reb":"えっぺいしき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"military review"},{"value":"troop review"},{"value":"(military) parade"}]}]}
+{"ent_seq":2867573,"k_ele":[{"keb":"指名手配犯"}],"r_ele":[{"reb":"しめいてはいはん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"wanted criminal"},{"value":"suspect on a police wanted list"}]}]}
+{"ent_seq":2867574,"k_ele":[{"keb":"胃結腸反射"}],"r_ele":[{"reb":"いけっちょうはんしゃ"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"gastrocolic reflex"},{"value":"gastrocolic response"}]}]}
+{"ent_seq":2867575,"k_ele":[{"keb":"幸不幸"}],"r_ele":[{"reb":"こうふこう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"fortune and misfortune"},{"value":"happiness and unhappiness"},{"value":"good and bad luck"}]}]}
+{"ent_seq":2867576,"k_ele":[{"keb":"鉄砲鍛冶"},{"keb":"鉄砲鍛治","ke_inf":["&sK;"]},{"keb":"鉄炮鍛冶","ke_inf":["&sK;"]},{"keb":"てっぽう鍛冶","ke_inf":["&sK;"]}],"r_ele":[{"reb":"てっぽうかじ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"gunsmith"}]}]}
+{"ent_seq":2867577,"k_ele":[{"keb":"後嚢切開術"}],"r_ele":[{"reb":"こうのうせっかいじゅつ"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"capsulotomy"}]}]}
+{"ent_seq":2867578,"k_ele":[{"keb":"受光素子"}],"r_ele":[{"reb":"じゅこうそし"}],"sense":[{"pos":["&n;"],"field":["&electr;"],"gloss":[{"value":"photodetector"},{"value":"photosensor"},{"value":"light receiving element"}]}]}
+{"ent_seq":2867579,"k_ele":[{"keb":"小寿林"}],"r_ele":[{"reb":"コジュリン","re_nokanji":true},{"reb":"こじゅりん"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese reed bunting (Emberiza yessoensis)"},{"value":"ochre-rumped bunting"}]}]}
+{"ent_seq":2867580,"k_ele":[{"keb":"頭高"}],"r_ele":[{"reb":"カシラダカ","re_nokanji":true},{"reb":"かしらだか"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"rustic bunting (Emberiza rustica)"}]}]}
+{"ent_seq":2867581,"k_ele":[{"keb":"島青鵐"},{"keb":"島蒿雀"}],"r_ele":[{"reb":"シマアオジ","re_nokanji":true},{"reb":"しまあおじ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"yellow-breasted bunting (Emberiza aureola)"}]}]}
+{"ent_seq":2867582,"k_ele":[{"keb":"傍"},{"keb":"端"}],"r_ele":[{"reb":"はた"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"outsiders"},{"value":"others"},{"value":"bystanders"},{"value":"onlookers"},{"value":"third person"}]}]}
+{"ent_seq":2867583,"k_ele":[{"keb":"剣筋"}],"r_ele":[{"reb":"けんすじ"}],"sense":[{"pos":["&n;"],"xref":["太刀筋"],"gloss":[{"value":"swordsmanship"}]},{"pos":["&n;"],"gloss":[{"value":"line drawn by the tip of a sword when slashing"}]}]}
+{"ent_seq":2867584,"r_ele":[{"reb":"じわりじわり"},{"reb":"ジワリジワリ"}],"sense":[{"pos":["&adv;","&adv-to;"],"xref":["じわり"],"misc":["&on-mim;"],"gloss":[{"value":"gradually"},{"value":"slowly but steadily"},{"value":"little by little"},{"value":"inch by inch"}]}]}
+{"ent_seq":2867585,"k_ele":[{"keb":"強心薬"}],"r_ele":[{"reb":"きょうしんやく"}],"sense":[{"pos":["&n;"],"xref":["強心剤"],"field":["&med;"],"gloss":[{"value":"cardiotonic agent"},{"value":"cardiac stimulant"},{"value":"heart stimulant"},{"value":"cardiotonic"},{"value":"cardiotonic drug"}]}]}
+{"ent_seq":2867587,"k_ele":[{"keb":"鱗状骨"}],"r_ele":[{"reb":"りんじょうこつ"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"squamous bone"}]}]}
+{"ent_seq":2867590,"k_ele":[{"keb":"頬動脈"}],"r_ele":[{"reb":"きょうどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"buccal artery"}]}]}
+{"ent_seq":2867591,"k_ele":[{"keb":"眼動脈"}],"r_ele":[{"reb":"がんどうみゃく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"ophthalmic artery"}]}]}
+{"ent_seq":2867596,"k_ele":[{"keb":"コウ材"},{"keb":"劫材"}],"r_ele":[{"reb":"こうざい"}],"sense":[{"pos":["&n;"],"xref":["コウ立て","劫・2"],"field":["&go;"],"gloss":[{"value":"ko threat"}]}]}
+{"ent_seq":2867597,"r_ele":[{"reb":"オーパイ"}],"sense":[{"pos":["&n;"],"xref":["オートパイロット"],"misc":["&abbr;","&col;"],"gloss":[{"value":"autopilot"}]}]}
+{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2025-10-19"}]}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる"}],"r_ele":[{"reb":"にちゃんねる"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"2channel (online forum)"}]}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ"}],"r_ele":[{"reb":"スリーエム"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"3M"}]}]}
 {"ent_seq":5000016,"k_ele":[{"keb":"Ｅテレ"}],"r_ele":[{"reb":"イーテレ"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"NHK Educational TV"}]}]}
