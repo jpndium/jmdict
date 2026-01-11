@@ -1,8 +1,3 @@
-{"ent_seq":2860645,"r_ele":[{"reb":"パイシュー"},{"reb":"パイ・シュー"}],"sense":[{"pos":["&n;"],"field":["&food;"],"lsource":[{"value":"pie","ls_type":"part"},{"value":"choux","lang":"fre","ls_type":"part"}],"gloss":[{"value":"cream puff wrapped in puff pastry"}]}]}
-{"ent_seq":2860646,"k_ele":[{"keb":"採薬"}],"r_ele":[{"reb":"さいやく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"gathering medicinal herbs"}]}]}
-{"ent_seq":2860647,"k_ele":[{"keb":"錐面"}],"r_ele":[{"reb":"すいめん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"conical surface"}]}]}
-{"ent_seq":2860648,"r_ele":[{"reb":"スラッシュ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"slush (refuse grease and fat)"},{"value":"waste oil"}]},{"pos":["&n;"],"gloss":[{"value":"waste materials"}]}]}
-{"ent_seq":2860649,"k_ele":[{"keb":"完了食"}],"r_ele":[{"reb":"かんりょうしょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"solid food (as given to toddlers after they have been completely weaned)"}]}]}
 {"ent_seq":2860650,"k_ele":[{"keb":"幼児食"}],"r_ele":[{"reb":"ようじしょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"food for young children (after completion of weaning)"}]}]}
 {"ent_seq":2860651,"r_ele":[{"reb":"シュー"}],"sense":[{"pos":["&n;"],"field":["&food;"],"lsource":[{"lang":"fre"}],"gloss":[{"value":"choux (pastry)"},{"value":"cream puff"}]}]}
 {"ent_seq":2860652,"k_ele":[{"keb":"西限"}],"r_ele":[{"reb":"せいげん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"western limit (esp. of the distribution of a plant or animal)"}]}]}
@@ -4417,7 +4412,7 @@
 {"ent_seq":2865386,"k_ele":[{"keb":"ホモバニリン酸"}],"r_ele":[{"reb":"ホモバニリンさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"homovanillic acid"}]}]}
 {"ent_seq":2865387,"k_ele":[{"keb":"ホモゲンチジン酸"}],"r_ele":[{"reb":"ホモゲンチジンさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"homogentisic acid"}]}]}
 {"ent_seq":2865390,"k_ele":[{"keb":"入眠障害"}],"r_ele":[{"reb":"にゅうみんしょうがい"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"sleep induction disorder"},{"value":"sleep onset insomnia"}]}]}
-{"ent_seq":2865391,"r_ele":[{"reb":"レイ"}],"sense":[{"pos":["&n;"],"xref":["レウ"],"lsource":[{"lang":"rum"},{"lang":"mol"}],"gloss":[{"value":"lei (plural of leu; currency of Romania and Moldova)"}]}]}
+{"ent_seq":2865391,"r_ele":[{"reb":"レイ"}],"sense":[{"pos":["&n;"],"xref":["レウ"],"lsource":[{"lang":"rum"}],"gloss":[{"value":"lei (plural of leu; currency of Romania and Moldova)"}]}]}
 {"ent_seq":2865392,"k_ele":[{"keb":"入眠時幻覚"}],"r_ele":[{"reb":"にゅうみんじげんかく"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"hypnagogic hallucination"}]}]}
 {"ent_seq":2865393,"k_ele":[{"keb":"核物質"}],"r_ele":[{"reb":"かくぶっしつ"}],"sense":[{"pos":["&n;"],"field":["&physics;"],"gloss":[{"value":"nuclear material"},{"value":"nuclear matter"}]}]}
 {"ent_seq":2865394,"k_ele":[{"keb":"視交叉上核"}],"r_ele":[{"reb":"しこうさじょうかく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"suprachiasmatic nucleus"},{"value":"SCN"}]}]}
@@ -4438,7 +4433,7 @@
 {"ent_seq":2865409,"k_ele":[{"keb":"日周"}],"r_ele":[{"reb":"にっしゅう"}],"sense":[{"pos":["&n-pref;"],"gloss":[{"value":"diurnal"}]}]}
 {"ent_seq":2865410,"k_ele":[{"keb":"日周リズム"}],"r_ele":[{"reb":"にっしゅうリズム"}],"sense":[{"pos":["&n;"],"field":["&biol;"],"gloss":[{"value":"diurnal rhythm"}]}]}
 {"ent_seq":2865411,"k_ele":[{"keb":"二チオン酸"}],"r_ele":[{"reb":"にチオンさん"}],"sense":[{"pos":["&n;"],"xref":["ジチオン酸"],"field":["&chem;"],"gloss":[{"value":"dithionic acid"}]}]}
-{"ent_seq":2865412,"k_ele":[{"keb":"二リン酸"}],"r_ele":[{"reb":"にリンさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"diphosphoric acid"}]}]}
+{"ent_seq":2865412,"k_ele":[{"keb":"二リン酸"},{"keb":"二燐酸"}],"r_ele":[{"reb":"にりんさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"diphosphoric acid"}]}]}
 {"ent_seq":2865413,"k_ele":[{"keb":"ジクロロ酢酸"}],"r_ele":[{"reb":"ジクロロさくさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"dichloroacetic acid"}]}]}
 {"ent_seq":2865414,"k_ele":[{"keb":"ジャスモン酸"}],"r_ele":[{"reb":"ジャスモンさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"jasmonic acid"}]}]}
 {"ent_seq":2865415,"k_ele":[{"keb":"イボテン酸"}],"r_ele":[{"reb":"イボテンさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"ibotenic acid"}]}]}
@@ -4533,7 +4528,7 @@
 {"ent_seq":2865505,"k_ele":[{"keb":"湘語"}],"r_ele":[{"reb":"しょうご"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Xiang Chinese (language)"},{"value":"Hunanese"}]}]}
 {"ent_seq":2865506,"k_ele":[{"keb":"グアラニー語"},{"keb":"グアラニ語","ke_inf":["&sK;"]}],"r_ele":[{"reb":"グアラニーご"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Guarani (language)"}]}]}
 {"ent_seq":2865507,"r_ele":[{"reb":"オルメカ"}],"sense":[{"pos":["&n;"],"lsource":[{"value":"olmeca","lang":"spa"}],"gloss":[{"value":"Olmecs"},{"value":"Olmec civilization"}]}]}
-{"ent_seq":2865508,"r_ele":[{"reb":"グアラニー"},{"reb":"グアラニ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"spa"}],"gloss":[{"value":"guaraní (Paraguayan currency)"}]}]}
+{"ent_seq":2865508,"r_ele":[{"reb":"グアラニー"},{"reb":"グアラニ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"spa"}],"gloss":[{"value":"guaraní (currency of Paraguay)"},{"value":"guarani"}]}]}
 {"ent_seq":2865509,"k_ele":[{"keb":"独身税"}],"r_ele":[{"reb":"どくしんぜい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"single person tax"},{"value":"bachelor tax"}]}]}
 {"ent_seq":2865510,"k_ele":[{"keb":"チェロキー語"}],"r_ele":[{"reb":"チェロキーご"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Cherokee (language)"}]}]}
 {"ent_seq":2865511,"r_ele":[{"reb":"ブラインダー"}],"sense":[{"pos":["&n;"],"xref":["ブリンカー"],"gloss":[{"value":"blinkers (horse tack)"},{"value":"blinders"}]}]}
@@ -4787,7 +4782,7 @@
 {"ent_seq":2865767,"k_ele":[{"keb":"口唇炎"}],"r_ele":[{"reb":"こうしんえん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"cheilitis"},{"value":"chilitis"},{"value":"chapped lips"}]}]}
 {"ent_seq":2865768,"k_ele":[{"keb":"クーラー病"}],"r_ele":[{"reb":"クーラーびょう"}],"sense":[{"pos":["&n;"],"xref":["冷房病"],"gloss":[{"value":"adverse health effects supposedly caused by air conditioning"},{"value":"air-conditioning sickness"}]}]}
 {"ent_seq":2865769,"k_ele":[{"keb":"視神経炎"}],"r_ele":[{"reb":"ししんけいえん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"optic neuritis"}]}]}
-{"ent_seq":2865770,"k_ele":[{"keb":"歯髄炎"}],"r_ele":[{"reb":"しずいえん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"pulpitis"},{"value":"endodontitis"}]}]}
+{"ent_seq":2865770,"k_ele":[{"keb":"歯髄炎"}],"r_ele":[{"reb":"しずいえん"}],"sense":[{"pos":["&n;"],"field":["&dent;"],"gloss":[{"value":"pulpitis"}]}]}
 {"ent_seq":2865771,"k_ele":[{"keb":"直腸炎"}],"r_ele":[{"reb":"ちょくちょうえん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"proctitis"},{"value":"rectitis"}]}]}
 {"ent_seq":2865772,"k_ele":[{"keb":"眼瞼炎"}],"r_ele":[{"reb":"がんけんえん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"blepharitis"},{"value":"inflammation of the eyelid"}]}]}
 {"ent_seq":2865773,"k_ele":[{"keb":"瞼板"}],"r_ele":[{"reb":"けんばん"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"tarsus (part of the eyelid)"}]}]}
@@ -6030,8 +6025,8 @@
 {"ent_seq":2867059,"k_ele":[{"keb":"筋電義手"}],"r_ele":[{"reb":"きんでんぎしゅ"}],"sense":[{"pos":["&n;"],"field":["&physiol;"],"gloss":[{"value":"myoelectric prosthesis (arm, hand)"}]}]}
 {"ent_seq":2867060,"r_ele":[{"reb":"ポリポリ"},{"reb":"ぽりぽり"}],"sense":[{"pos":["&adv;","&adv-to;"],"misc":["&on-mim;"],"gloss":[{"value":"munching"},{"value":"crunching"}]},{"pos":["&adv;","&adv-to;"],"misc":["&on-mim;"],"gloss":[{"value":"(lightly) scratching (an itch)"}]}]}
 {"ent_seq":2867061,"k_ele":[{"keb":"電柵"}],"r_ele":[{"reb":"でんさく"}],"sense":[{"pos":["&n;"],"xref":["電気柵"],"misc":["&abbr;"],"gloss":[{"value":"electric fence"}]}]}
-{"ent_seq":2867062,"r_ele":[{"reb":"タカ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"taka (currency of Bangladesh)"}]}]}
-{"ent_seq":2867063,"r_ele":[{"reb":"テンゲ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"tenge (currency of Kazakhstan)"}]}]}
+{"ent_seq":2867062,"r_ele":[{"reb":"タカ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"ben"}],"gloss":[{"value":"taka (currency of Bangladesh)"}]}]}
+{"ent_seq":2867063,"r_ele":[{"reb":"テンゲ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"kaz"}],"gloss":[{"value":"tenge (currency of Kazakhstan)"}]}]}
 {"ent_seq":2867064,"r_ele":[{"reb":"ナイラ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"naira (currency of Nigeria)"}]}]}
 {"ent_seq":2867065,"k_ele":[{"keb":"現場不在証明"}],"r_ele":[{"reb":"げんばふざいしょうめい"},{"reb":"げんじょうふざいしょうめい"}],"sense":[{"pos":["&n;"],"xref":["アリバイ"],"gloss":[{"value":"alibi"}]}]}
 {"ent_seq":2867066,"k_ele":[{"keb":"爪周囲炎"}],"r_ele":[{"reb":"そうしゅういえん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"paronychia"},{"value":"whitlow"},{"value":"felon"},{"value":"agnail"}]}]}
@@ -7097,6 +7092,7 @@
 {"ent_seq":2868254,"k_ele":[{"keb":"日本野兎"}],"r_ele":[{"reb":"ニホンノウサギ","re_nokanji":true},{"reb":"にほんのうさぎ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Japanese hare (Lepus brachyurus)"}]}]}
 {"ent_seq":2868255,"r_ele":[{"reb":"ピーカンナッツ"},{"reb":"ペカンナッツ"},{"reb":"ピーカン・ナッツ"},{"reb":"ペカン・ナッツ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"pecan nut"}]}]}
 {"ent_seq":2868256,"k_ele":[{"keb":"野"},{"keb":"埜","ke_inf":["&rK;"]}],"r_ele":[{"reb":"や"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"plain"},{"value":"field"}]},{"pos":["&n;"],"gloss":[{"value":"being outside the government"},{"value":"non-governmental sphere"},{"value":"private sector"},{"value":"private life"}]}]}
+{"ent_seq":2868257,"r_ele":[{"reb":"それよか"}],"sense":[{"pos":["&exp;"],"xref":["それよりも・1"],"gloss":[{"value":"(more) than that"}]},{"pos":["&exp;","&conj;"],"xref":["それよりも・2"],"gloss":[{"value":"more importantly"},{"value":"rather than that"},{"value":"instead (of that)"}]}]}
 {"ent_seq":2868258,"k_ele":[{"keb":"鵲笛鴉"}],"r_ele":[{"reb":"カササギフエガラス","re_nokanji":true},{"reb":"かささぎふえがらす"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Australian magpie (Gymnorhina tibicen)"}]}]}
 {"ent_seq":2868259,"k_ele":[{"keb":"オーストラリア黒朱鷺","ke_inf":["&rK;"]}],"r_ele":[{"reb":"オーストラリアクロトキ","re_nokanji":true},{"reb":"オーストラリアくろとき"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Australian white ibis (Threskiornis molucca)"}]}]}
 {"ent_seq":2868260,"k_ele":[{"keb":"アフリカ黒朱鷺"}],"r_ele":[{"reb":"アフリカクロトキ","re_nokanji":true},{"reb":"アフリカくろとき"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"African sacred ibis (Threskiornis aethiopicus)"}]}]}
@@ -7114,6 +7110,7 @@
 {"ent_seq":2868273,"k_ele":[{"keb":"被教育者"}],"r_ele":[{"reb":"ひきょういくしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"student"},{"value":"pupil"},{"value":"educand"},{"value":"trainee"}]}]}
 {"ent_seq":2868274,"k_ele":[{"keb":"秘唇"}],"r_ele":[{"reb":"ひしん"}],"sense":[{"pos":["&n;"],"misc":["&sl;","&vulg;"],"gloss":[{"value":"labia"},{"value":"vulva"},{"value":"hidden lips","g_type":"lit"}]}]}
 {"ent_seq":2868275,"k_ele":[{"keb":"淫唇"}],"r_ele":[{"reb":"いんしん"}],"sense":[{"pos":["&n;"],"misc":["&sl;","&vulg;"],"gloss":[{"value":"labia"},{"value":"vulva"}]}]}
+{"ent_seq":2868278,"k_ele":[{"keb":"膣肉"},{"keb":"腟肉","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ちつにく"}],"sense":[{"pos":["&n;"],"misc":["&sl;","&vulg;"],"gloss":[{"value":"vulva"},{"value":"cunt"}]}]}
 {"ent_seq":2868281,"k_ele":[{"keb":"飼い"}],"r_ele":[{"reb":"かい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"raising (of animals)"},{"value":"rearing"},{"value":"keeping"}]},{"pos":["&n-pref;"],"xref":["飼い犬"],"gloss":[{"value":"domesticated"},{"value":"domestic"},{"value":"pet"},{"value":"raised"}]}]}
 {"ent_seq":2868282,"r_ele":[{"reb":"モイ"}],"sense":[{"pos":["&int;"],"misc":["&col;"],"lsource":[{"value":"moi","lang":"fin"}],"gloss":[{"value":"hi"},{"value":"hey"}]}]}
 {"ent_seq":2868283,"k_ele":[{"keb":"心臓震盪"}],"r_ele":[{"reb":"しんぞうしんとう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"commotio cordis"},{"value":"cardiac concussion"},{"value":"concussion of the heart"}]}]}
@@ -7127,6 +7124,7 @@
 {"ent_seq":2868292,"k_ele":[{"keb":"推奨事項"}],"r_ele":[{"reb":"すいしょうじこう"}],"sense":[{"pos":["&n;"],"s_inf":["used in formal or technical documents, e.g. manuals, reports, guidelines"],"gloss":[{"value":"recommendations"}]}]}
 {"ent_seq":2868293,"k_ele":[{"keb":"救われる","ke_pri":{"spec":2}},{"keb":"済われる","ke_inf":["&sK;"]},{"keb":"拯われる","ke_inf":["&sK;"]}],"r_ele":[{"reb":"すくわれる","re_pri":{"spec":2}}],"sense":[{"pos":["&v1;","&vi;"],"gloss":[{"value":"to be rescued"},{"value":"to be saved"}]},{"pos":["&v1;","&vi;"],"gloss":[{"value":"to be redeemed (by)"},{"value":"to be offset (by)"},{"value":"to be saved"},{"value":"to have a redeeming aspect"},{"value":"to have a saving grace"},{"value":"to be made bearable"}]},{"pos":["&v1;","&vi;"],"gloss":[{"value":"to feel relieved"}]}]}
 {"ent_seq":2868294,"k_ele":[{"keb":"五毛党"}],"r_ele":[{"reb":"ごもうとう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"50 Cent Party (Internet commentators paid by the Chinese government to manipulate public opinion)"},{"value":"50 Cent Army"}]}]}
+{"ent_seq":2868295,"k_ele":[{"keb":"肉穴"}],"r_ele":[{"reb":"にくあな"}],"sense":[{"pos":["&n;"],"misc":["&sl;","&vulg;"],"gloss":[{"value":"vagina"}]},{"pos":["&n;"],"misc":["&sl;","&vulg;"],"gloss":[{"value":"anus"}]}]}
 {"ent_seq":2868296,"k_ele":[{"keb":"膣道"},{"keb":"腟道","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ちつどう"}],"sense":[{"pos":["&n;"],"misc":["&col;"],"gloss":[{"value":"vaginal canal"},{"value":"vaginal passage"}]}]}
 {"ent_seq":2868297,"r_ele":[{"reb":"グループリーグ"},{"reb":"グループ・リーグ"}],"sense":[{"pos":["&n;"],"field":["&sports;"],"lsource":[{"value":"group league","ls_wasei":"y"}],"gloss":[{"value":"group stage (of a tournament)"},{"value":"pool stage"}]}]}
 {"ent_seq":2868298,"r_ele":[{"reb":"グループステージ"},{"reb":"グループ・ステージ"}],"sense":[{"pos":["&n;"],"xref":["グループリーグ"],"field":["&sports;"],"gloss":[{"value":"group stage (of a tournament)"}]}]}
@@ -7271,6 +7269,7 @@
 {"ent_seq":2868445,"k_ele":[{"keb":"多毛症"}],"r_ele":[{"reb":"たもうしょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"hypertrichosis"},{"value":"polytrichia"},{"value":"excessive hair growth"}]}]}
 {"ent_seq":2868446,"k_ele":[{"keb":"バチスタ手術"}],"r_ele":[{"reb":"バチスタしゅじゅつ"}],"sense":[{"pos":["&n;"],"field":["&surg;"],"gloss":[{"value":"Batista procedure"}]}]}
 {"ent_seq":2868447,"r_ele":[{"reb":"タッチディスプレイ"},{"reb":"タッチ・ディスプレイ"},{"reb":"タッチディスプレー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"gloss":[{"value":"touch display"}]}]}
+{"ent_seq":2868448,"k_ele":[{"keb":"色精度"}],"r_ele":[{"reb":"いろせいど"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"color accuracy"},{"value":"colour accuracy"}]}]}
 {"ent_seq":2868449,"k_ele":[{"keb":"色再現性"}],"r_ele":[{"reb":"いろさいげんせい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"color accuracy"},{"value":"color reproducibility"}]}]}
 {"ent_seq":2868450,"k_ele":[{"keb":"硬膜静脈洞"}],"r_ele":[{"reb":"こうまくじょうみゃくどう"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"dural venous sinus"}]}]}
 {"ent_seq":2868451,"k_ele":[{"keb":"冠静脈洞"}],"r_ele":[{"reb":"かんじょうみゃくどう"}],"sense":[{"pos":["&n;"],"xref":["冠状静脈洞"],"field":["&anat;"],"gloss":[{"value":"coronary sinus"}]}]}
@@ -7326,7 +7325,7 @@
 {"ent_seq":2868504,"r_ele":[{"reb":"オラつく"},{"reb":"おらつく"}],"sense":[{"pos":["&v5k;","&vi;"],"misc":["&col;"],"gloss":[{"value":"to appear haughty"},{"value":"to exude a menacing aura"},{"value":"to be audacious"}]}]}
 {"ent_seq":2868505,"k_ele":[{"keb":"殺鬼"},{"keb":"刹鬼"}],"r_ele":[{"reb":"せっき"}],"sense":[{"pos":["&n;"],"misc":["&arch;"],"gloss":[{"value":"demon"},{"value":"man-slaying ogre"}]},{"pos":["&n;"],"xref":["無常・1"],"field":["&Buddh;"],"gloss":[{"value":"impermanence"},{"value":"transiency"}]}]}
 {"ent_seq":2868506,"k_ele":[{"keb":"白銀比"}],"r_ele":[{"reb":"はくぎんひ"}],"sense":[{"pos":["&n;"],"field":["&math;"],"gloss":[{"value":"silver ratio"}]}]}
-{"ent_seq":2868507,"k_ele":[{"keb":"大和比"}],"r_ele":[{"reb":"やまとひ"}],"sense":[{"pos":["&n;"],"xref":["白銀比・はくぎんひ"],"field":["&math;","&archit;"],"gloss":[{"value":"silver ratio"}]}]}
+{"ent_seq":2868507,"k_ele":[{"keb":"大和比"}],"r_ele":[{"reb":"やまとひ"}],"sense":[{"pos":["&n;"],"xref":["白銀比"],"gloss":[{"value":"silver ratio (esp. in traditional Japanese architecture)"}]}]}
 {"ent_seq":2868508,"k_ele":[{"keb":"豚骨スープ"}],"r_ele":[{"reb":"とんこつスープ"}],"sense":[{"pos":["&n;"],"field":["&food;"],"gloss":[{"value":"pork bone soup"},{"value":"pork broth"}]}]}
 {"ent_seq":2868510,"k_ele":[{"keb":"接続詞省略"}],"r_ele":[{"reb":"せつぞくししょうりゃく"}],"sense":[{"pos":["&n;"],"field":["&gramm;"],"gloss":[{"value":"asyndeton"}]}]}
 {"ent_seq":2868511,"k_ele":[{"keb":"ホモ接合"}],"r_ele":[{"reb":"ホモせつごう"}],"sense":[{"pos":["&adj-no;","&n;"],"field":["&genet;"],"gloss":[{"value":"homozygous"}]}]}
@@ -7347,6 +7346,7 @@
 {"ent_seq":2868528,"r_ele":[{"reb":"インディアカ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"indiaca (volleyball-like game played with a large shuttlecock)"}]}]}
 {"ent_seq":2868529,"k_ele":[{"keb":"局所時"}],"r_ele":[{"reb":"きょくしょじ"}],"sense":[{"pos":["&n;"],"field":["&physics;"],"gloss":[{"value":"local time (in relativity theory)"}]}]}
 {"ent_seq":2868530,"k_ele":[{"keb":"対局時計"}],"r_ele":[{"reb":"たいきょくどけい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"chess clock"},{"value":"game clock"}]}]}
+{"ent_seq":2868531,"k_ele":[{"keb":"夢女子"}],"r_ele":[{"reb":"ゆめじょし"}],"sense":[{"pos":["&n;"],"misc":["&sl;"],"gloss":[{"value":"woman who has fantasies involving her favorite characters"}]}]}
 {"ent_seq":2868533,"k_ele":[{"keb":"選手層が厚い"},{"keb":"選手層の厚い","ke_inf":["&sK;"]}],"r_ele":[{"reb":"せんしゅそうがあつい"}],"sense":[{"pos":["&exp;","&adj-i;"],"ant":["選手層が薄い"],"field":["&sports;"],"gloss":[{"value":"having a deep talent pool"},{"value":"having squad depth"},{"value":"having a deep bench"},{"value":"having a deep roster"}]}]}
 {"ent_seq":2868534,"k_ele":[{"keb":"選手層が薄い"}],"r_ele":[{"reb":"せんしゅそうがうすい"}],"sense":[{"pos":["&exp;","&adj-i;"],"ant":["選手層が厚い"],"field":["&sports;"],"gloss":[{"value":"having a shallow talent pool"},{"value":"lacking squad depth"},{"value":"having a thin bench"},{"value":"having a shallow roster"}]}]}
 {"ent_seq":2868535,"k_ele":[{"keb":"層が厚い"},{"keb":"層の厚い","ke_inf":["&sK;"]}],"r_ele":[{"reb":"そうがあつい"}],"sense":[{"pos":["&exp;","&adj-i;"],"ant":["層が薄い・2"],"gloss":[{"value":"having a deep pool (of talent, candidates, etc.)"},{"value":"having great depth"},{"value":"having a broad base"},{"value":"being thick-layered"}]}]}
@@ -7354,14 +7354,14 @@
 {"ent_seq":2868537,"k_ele":[{"keb":"拵える","ke_inf":["&rK;"]}],"r_ele":[{"reb":"こさえる"}],"sense":[{"pos":["&v1;","&vt;"],"misc":["&col;","&uk;"],"gloss":[{"value":"to make"},{"value":"to manufacture"},{"value":"to fabricate"}]},{"pos":["&v1;","&vt;"],"misc":["&col;","&uk;"],"gloss":[{"value":"to build"},{"value":"to construct"}]},{"pos":["&v1;","&vt;"],"misc":["&col;","&uk;"],"gloss":[{"value":"to prepare"},{"value":"to get ready"},{"value":"to make (in advance)"}]},{"pos":["&v1;","&vt;"],"misc":["&col;","&uk;"],"gloss":[{"value":"to dress (oneself in)"},{"value":"to dress up (in)"},{"value":"to put on (one's makeup, a dress, etc.)"},{"value":"to adorn (oneself in)"}]},{"pos":["&v1;","&vt;"],"misc":["&col;","&uk;"],"gloss":[{"value":"to raise money (for)"},{"value":"to gather (money)"},{"value":"to save up"},{"value":"to incur (a debt)"}]},{"pos":["&v1;","&vt;"],"misc":["&col;","&uk;"],"gloss":[{"value":"to have (a child, partner, lover, etc.)"},{"value":"to make (a friend)"},{"value":"to start (an affair)"}]},{"pos":["&v1;","&vt;"],"misc":["&col;","&uk;"],"gloss":[{"value":"to make up (e.g. an excuse)"},{"value":"to fabricate (a story)"},{"value":"to invent"},{"value":"to concoct"}]}]}
 {"ent_seq":2868538,"k_ele":[{"keb":"ひとつ屋根の下"},{"keb":"一つ屋根の下"},{"keb":"ひとつ屋根のした","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ひとつやねのした"}],"sense":[{"pos":["&exp;","&n;"],"gloss":[{"value":"(in the) same house"},{"value":"(under the) same roof"}]}]}
 {"ent_seq":2868539,"k_ele":[{"keb":"抜管"}],"r_ele":[{"reb":"ばっかん"}],"sense":[{"pos":["&n;","&vs;","&vt;","&vi;"],"field":["&med;"],"gloss":[{"value":"extubation"}]}]}
-{"ent_seq":2868540,"k_ele":[{"keb":"真に"}],"r_ele":[{"reb":"しんに"}],"sense":[{"pos":["&adv;"],"xref":["本当に"],"gloss":[{"value":"truly"},{"value":"actually"},{"value":"really"},{"value":"genuinely"}]}]}
+{"ent_seq":2868540,"k_ele":[{"keb":"真に"}],"r_ele":[{"reb":"しんに"}],"sense":[{"pos":["&adv;"],"gloss":[{"value":"truly"},{"value":"really"},{"value":"genuinely"},{"value":"indeed"}]}]}
 {"ent_seq":2868541,"k_ele":[{"keb":"実に"}],"r_ele":[{"reb":"げに"}],"sense":[{"pos":["&adv;"],"misc":["&uk;","&arch;","&poet;"],"gloss":[{"value":"indeed"},{"value":"truly"},{"value":"really"},{"value":"actually"},{"value":"quite"},{"value":"absolutely"}]}]}
 {"ent_seq":2868542,"k_ele":[{"keb":"童遊び"}],"r_ele":[{"reb":"わらわあそび"}],"sense":[{"pos":["&n;"],"misc":["&dated;"],"gloss":[{"value":"child's play"},{"value":"children's games"}]}]}
 {"ent_seq":2868543,"k_ele":[{"keb":"危険度"}],"r_ele":[{"reb":"きけんど"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"degree of danger"},{"value":"danger level"},{"value":"risk level"}]}]}
 {"ent_seq":2868544,"r_ele":[{"reb":"クリーピーパスタ"}],"sense":[{"pos":["&n;"],"field":["&internet;"],"gloss":[{"value":"creepypasta (posted horror content)"}]}]}
 {"ent_seq":2868545,"k_ele":[{"keb":"大阪民国"}],"r_ele":[{"reb":"だいはんみんこく"},{"reb":"おおさかみんこく"},{"reb":"テハンミングク"}],"sense":[{"pos":["&n;"],"misc":["&derog;","&joc;","&net-sl;"],"gloss":[{"value":"Osaka"}]}]}
 {"ent_seq":2868546,"r_ele":[{"reb":"あんたはん"},{"reb":"アンタハン","re_inf":["&sk;"]}],"sense":[{"pos":["&pn;"],"misc":["&hon;"],"s_inf":["also used non-honorifically in casual conversation"],"dial":["&ksb;"],"gloss":[{"value":"you"}]}]}
-{"ent_seq":2868547,"r_ele":[{"reb":"パオーン"}],"sense":[{"pos":["&adv;","&adv-to;"],"misc":["&on-mim;"],"gloss":[{"value":"sound of elephants"},{"value":"trumpeting (of elephants)"}]}]}
+{"ent_seq":2868547,"r_ele":[{"reb":"パオーン"}],"sense":[{"pos":["&int;","&adv-to;"],"misc":["&on-mim;"],"gloss":[{"value":"toot (trumpeting sound of an elephant)"},{"value":"pawoo"}]}]}
 {"ent_seq":2868548,"k_ele":[{"keb":"風呂キャンセル界隈"}],"r_ele":[{"reb":"ふろキャンセルかいわい"}],"sense":[{"pos":["&n;"],"misc":["&col;"],"gloss":[{"value":"people who are too lazy to bathe or shower"}]}]}
 {"ent_seq":2868549,"k_ele":[{"keb":"風呂キャン"}],"r_ele":[{"reb":"ふろキャン"}],"sense":[{"pos":["&n;"],"xref":["風呂キャンセル界隈・ふろキャンセルかいわい"],"misc":["&col;","&abbr;"],"gloss":[{"value":"skipping bathing entirely (due to exhaustion or low energy)"}]}]}
 {"ent_seq":2868550,"k_ele":[{"keb":"馬上像"}],"r_ele":[{"reb":"ばじょうぞう"}],"sense":[{"pos":["&n;"],"xref":["騎馬像"],"misc":["&rare;"],"gloss":[{"value":"equestrian statue"}]}]}
@@ -7396,9 +7396,11 @@
 {"ent_seq":2868579,"r_ele":[{"reb":"ヒットボックス"}],"sense":[{"pos":["&n;"],"field":["&vidg;"],"gloss":[{"value":"hitbox"}]}]}
 {"ent_seq":2868580,"r_ele":[{"reb":"ゴースティング"}],"sense":[{"pos":["&n;"],"field":["&vidg;"],"gloss":[{"value":"ghosting"},{"value":"stream sniping"}]}]}
 {"ent_seq":2868581,"r_ele":[{"reb":"ストリームスナイピング"},{"reb":"ストリーム・スナイピング"}],"sense":[{"pos":["&n;"],"field":["&vidg;"],"gloss":[{"value":"stream sniping"}]}]}
-{"ent_seq":2868582,"k_ele":[{"keb":"利確"}],"r_ele":[{"reb":"りかく"}],"sense":[{"pos":["&n;","&vs;"],"misc":["&abbr;"],"gloss":[{"value":"profit taking"}]}]}
+{"ent_seq":2868582,"k_ele":[{"keb":"利確"}],"r_ele":[{"reb":"りかく"}],"sense":[{"pos":["&n;","&vs;","&vt;"],"xref":["利益確定"],"field":["&stockm;"],"misc":["&abbr;"],"gloss":[{"value":"profit-taking"}]}]}
 {"ent_seq":2868583,"k_ele":[{"keb":"腰のある"},{"keb":"腰がある","ke_inf":["&sK;"]}],"r_ele":[{"reb":"コシのある","re_nokanji":true},{"reb":"こしのある"},{"reb":"こしがある","re_inf":["&sk;"]},{"reb":"コシがある","re_inf":["&sk;"]}],"sense":[{"pos":["&exp;","&adj-f;"],"field":["&food;"],"misc":["&uk;"],"gloss":[{"value":"pleasantly chewy (esp. noodles)"},{"value":"having a good bite"},{"value":"firm and elastic"}]},{"pos":["&exp;","&adj-f;"],"misc":["&uk;"],"gloss":[{"value":"having body (esp. hair)"},{"value":"springy and resilient"},{"value":"full-bodied (e.g. sound)"}]}]}
 {"ent_seq":2868584,"k_ele":[{"keb":"他我"}],"r_ele":[{"reb":"たが"}],"sense":[{"pos":["&n;"],"field":["&phil;"],"gloss":[{"value":"other self"},{"value":"other mind"},{"value":"alter ego"}]}]}
+{"ent_seq":2868585,"k_ele":[{"keb":"利益確定"}],"r_ele":[{"reb":"りえきかくてい"}],"sense":[{"pos":["&n;"],"field":["&stockm;"],"gloss":[{"value":"profit-taking"}]}]}
+{"ent_seq":2868586,"k_ele":[{"keb":"生乳"},{"keb":"生チチ","ke_inf":["&sK;"]}],"r_ele":[{"reb":"なまちち"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"freshly squeezed milk"}]},{"pos":["&n;"],"misc":["&sl;"],"s_inf":["usu. as 生チチ"],"gloss":[{"value":"bare breasts"},{"value":"naked breasts"}]}]}
 {"ent_seq":2868587,"r_ele":[{"reb":"ネイルクリッパー"},{"reb":"ネイル・クリッパー"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"nail clippers"}]}]}
 {"ent_seq":2868589,"k_ele":[{"keb":"お値打ち"},{"keb":"お値打","ke_inf":["&sK;"]},{"keb":"御値打ち","ke_inf":["&sK;"]},{"keb":"御値打","ke_inf":["&sK;"]}],"r_ele":[{"reb":"おねうち"}],"sense":[{"pos":["&n;","&adj-na;"],"gloss":[{"value":"bargain"},{"value":"good buy"},{"value":"(good) value for one's money"}]}]}
 {"ent_seq":2868590,"k_ele":[{"keb":"廃都"}],"r_ele":[{"reb":"はいと"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"abandoned city"},{"value":"deserted city"}]}]}
@@ -7419,6 +7421,8 @@
 {"ent_seq":2868607,"r_ele":[{"reb":"ウォールハック"}],"sense":[{"pos":["&n;"],"field":["&vidg;"],"gloss":[{"value":"wallhack"}]}]}
 {"ent_seq":2868608,"r_ele":[{"reb":"アニバ"}],"sense":[{"pos":["&n;"],"xref":["アニバーサリー"],"misc":["&abbr;","&col;"],"gloss":[{"value":"anniversary"}]}]}
 {"ent_seq":2868609,"k_ele":[{"keb":"草紫陽花"}],"r_ele":[{"reb":"クサアジサイ","re_nokanji":true},{"reb":"くさあじさい"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Cardiandra alternifolia (species of hydrangea)"}]}]}
+{"ent_seq":2868610,"k_ele":[{"keb":"登録原票"}],"r_ele":[{"reb":"とうろくげんぴょう"}],"sense":[{"pos":["&n;"],"misc":["&obs;"],"gloss":[{"value":"(alien) registration card"}]}]}
+{"ent_seq":2868611,"k_ele":[{"keb":"第一希望"}],"r_ele":[{"reb":"だいいちきぼう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"first choice"}]}]}
 {"ent_seq":2868614,"k_ele":[{"keb":"噴水井戸"}],"r_ele":[{"reb":"ふんすいいど"}],"sense":[{"pos":["&n;"],"xref":["掘り抜き井戸"],"misc":["&rare;"],"gloss":[{"value":"artesian well"}]}]}
 {"ent_seq":2868615,"k_ele":[{"keb":"たき落とし"},{"keb":"焚き落とし"},{"keb":"焚落し"}],"r_ele":[{"reb":"たきおとし"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"embers"},{"value":"charred firewood"}]}]}
 {"ent_seq":2868616,"k_ele":[{"keb":"極径"}],"r_ele":[{"reb":"きょっけい"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"polar axis"}]}]}
@@ -7430,7 +7434,7 @@
 {"ent_seq":2868623,"k_ele":[{"keb":"株主優待"}],"r_ele":[{"reb":"かぶぬしゆうたい"}],"sense":[{"pos":["&n;","&adj-no;"],"field":["&bus;"],"gloss":[{"value":"shareholder benefit"}]}]}
 {"ent_seq":2868624,"k_ele":[{"keb":"外注先"}],"r_ele":[{"reb":"がいちゅうさき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"subcontractor"},{"value":"outsourcee"}]}]}
 {"ent_seq":2868625,"r_ele":[{"reb":"のっけから"}],"sense":[{"pos":["&exp;","&adv;"],"gloss":[{"value":"from the very start"},{"value":"from the very beginning"}]}]}
-{"ent_seq":2868627,"k_ele":[{"keb":"顔が揃う"},{"keb":"顔がそろう"}],"r_ele":[{"reb":"かおがそろう"}],"sense":[{"pos":["&exp;","&v5u;"],"gloss":[{"value":"to gather (everyone involved)"},{"value":"to assemble (e.g. attendees)"}]}]}
+{"ent_seq":2868627,"k_ele":[{"keb":"顔が揃う"},{"keb":"顔がそろう"}],"r_ele":[{"reb":"かおがそろう"}],"sense":[{"pos":["&exp;","&v5u;"],"gloss":[{"value":"to all be present"},{"value":"to have a full attendance"}]}]}
 {"ent_seq":2868628,"k_ele":[{"keb":"顔"},{"keb":"貌","ke_inf":["&sK;"]},{"keb":"顏","ke_inf":["&sK;"]}],"r_ele":[{"reb":"がお"}],"sense":[{"pos":["&suf;"],"misc":["&col;"],"s_inf":["after a noun or the -masu stem of a verb"],"gloss":[{"value":"resembling ..."},{"value":"having the traits or characteristics of ..."},{"value":"-looking"},{"value":"with a ...-like expression"},{"value":"with an air of ..."}]}]}
 {"ent_seq":2868629,"k_ele":[{"keb":"足糸"}],"r_ele":[{"reb":"そくし"}],"sense":[{"pos":["&n;"],"field":["&zool;"],"gloss":[{"value":"byssus"}]}]}
 {"ent_seq":2868630,"k_ele":[{"keb":"造幣局"}],"r_ele":[{"reb":"ぞうへいきょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"mint"},{"value":"mint bureau"}]}]}
@@ -7441,7 +7445,7 @@
 {"ent_seq":2868636,"k_ele":[{"keb":"鎖吊橋"}],"r_ele":[{"reb":"くさりつりばし"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"chain bridge"}]}]}
 {"ent_seq":2868637,"k_ele":[{"keb":"臍炎"}],"r_ele":[{"reb":"さいえん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"omphalitis"}]}]}
 {"ent_seq":2868638,"k_ele":[{"keb":"制腐剤"}],"r_ele":[{"reb":"せいふざい"}],"sense":[{"pos":["&n;"],"xref":["防腐剤・1"],"misc":["&rare;"],"gloss":[{"value":"antiseptic"}]}]}
-{"ent_seq":2868639,"k_ele":[{"keb":"政経学部"}],"r_ele":[{"reb":"せいけいがくぶ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"politics and economics department"},{"value":"political science and economics department"}]}]}
+{"ent_seq":2868639,"k_ele":[{"keb":"政経学部"}],"r_ele":[{"reb":"せいけいがくぶ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"faculty of political science and economics"},{"value":"school of political science and economics"}]}]}
 {"ent_seq":2868640,"k_ele":[{"keb":"石絨"}],"r_ele":[{"reb":"せきじゅう"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"asbestos"}]}]}
 {"ent_seq":2868641,"r_ele":[{"reb":"ワーホリ"}],"sense":[{"pos":["&n;"],"xref":["ワーカホリック"],"misc":["&abbr;"],"gloss":[{"value":"workaholic"}]}]}
 {"ent_seq":2868642,"k_ele":[{"keb":"阪神間"}],"r_ele":[{"reb":"はんしんかん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"area between Osaka and Kobe (Amagasaki, Nishinomiya, Ashiya)"}]}]}
@@ -7466,9 +7470,103 @@
 {"ent_seq":2868664,"k_ele":[{"keb":"悪水路"}],"r_ele":[{"reb":"あくすいろ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"drain for industrial waste and sewage"}]}]}
 {"ent_seq":2868665,"k_ele":[{"keb":"フェンシング選手"}],"r_ele":[{"reb":"フェンシングせんしゅ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"fencer"}]}]}
 {"ent_seq":2868666,"k_ele":[{"keb":"木口木版"}],"r_ele":[{"reb":"こぐちもくはん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"wood engraving"},{"value":"endgrain woodcut"}]}]}
+{"ent_seq":2868667,"k_ele":[{"keb":"地域番号"}],"r_ele":[{"reb":"ちいきばんごう"}],"sense":[{"pos":["&n;"],"xref":["リージョンコード"],"gloss":[{"value":"region code (e.g. for DVDs)"}]},{"pos":["&n;"],"gloss":[{"value":"area code (telephone network)"}]}]}
+{"ent_seq":2868668,"r_ele":[{"reb":"モバイルネットワーク"},{"reb":"モバイル・ネットワーク"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"mobile network"}]}]}
 {"ent_seq":2868669,"k_ele":[{"keb":"蘭和"}],"r_ele":[{"reb":"らんわ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Dutch-Japanese (dictionary, translation, etc.)"}]}]}
 {"ent_seq":2868670,"k_ele":[{"keb":"仕切り直す"}],"r_ele":[{"reb":"しきりなおす"}],"sense":[{"pos":["&v5s;","&vt;"],"field":["&sumo;"],"gloss":[{"value":"to get poised again for charging"},{"value":"to toe the mark again"}]},{"pos":["&v5s;","&vt;"],"gloss":[{"value":"to start from scratch"},{"value":"to get a fresh start (on)"}]}]}
-{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2026-01-04"}]}]}
+{"ent_seq":2868671,"k_ele":[{"keb":"他意はない"}],"r_ele":[{"reb":"たいはない"}],"sense":[{"pos":["&exp;","&adj-i;"],"gloss":[{"value":"no offense intended"}]}]}
+{"ent_seq":2868672,"k_ele":[{"keb":"鋳植機"}],"r_ele":[{"reb":"ちゅうしょくき"}],"sense":[{"pos":["&n;"],"field":["&print;"],"gloss":[{"value":"(hot-metal) typesetting machine"},{"value":"typecasting machine"}]}]}
+{"ent_seq":2868673,"k_ele":[{"keb":"帝宮"}],"r_ele":[{"reb":"ていきゅう"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"imperial palace"}]}]}
+{"ent_seq":2868674,"k_ele":[{"keb":"金打"}],"r_ele":[{"reb":"きんちょう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"solemn promise"}]},{"pos":["&n;","&vs;","&vi;"],"misc":["&hist;"],"gloss":[{"value":"promise sealed by striking metal objects together (e.g. swords for samurai, mirrors for women)"}]}]}
+{"ent_seq":2868675,"k_ele":[{"keb":"電算写植"}],"r_ele":[{"reb":"でんさんしゃしょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"computer typesetting"},{"value":"computerized typesetting"}]}]}
+{"ent_seq":2868676,"k_ele":[{"keb":"コンピュータ組版"},{"keb":"コンピューター組版","ke_inf":["&sK;"]}],"r_ele":[{"reb":"コンピュータくみはん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"computer typesetting"}]}]}
+{"ent_seq":2868677,"k_ele":[{"keb":"神泉"}],"r_ele":[{"reb":"しんせん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"miraculous fountain"}]},{"pos":["&n;"],"gloss":[{"value":"fountain in the grounds of a shrine"}]}]}
+{"ent_seq":2868678,"k_ele":[{"keb":"縄目の恥"}],"r_ele":[{"reb":"なわめのはじ"}],"sense":[{"pos":["&exp;","&n;"],"misc":["&dated;"],"gloss":[{"value":"disgrace of being captured and bound as a criminal"}]}]}
+{"ent_seq":2868679,"k_ele":[{"keb":"溶鉄"},{"keb":"熔鉄"}],"r_ele":[{"reb":"ようてつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"molten iron"}]}]}
+{"ent_seq":2868680,"k_ele":[{"keb":"歯内治療学"}],"r_ele":[{"reb":"しないちりょうがく"}],"sense":[{"pos":["&n;"],"xref":["歯内療法学"],"field":["&dent;"],"gloss":[{"value":"endodontolgoy"},{"value":"endodontics"}]}]}
+{"ent_seq":2868681,"r_ele":[{"reb":"ネップリ"}],"sense":[{"pos":["&n;"],"xref":["ネットプリント"],"misc":["&abbr;","&col;"],"gloss":[{"value":"online printing (service)"}]}]}
+{"ent_seq":2868682,"k_ele":[{"keb":"行動を起こす"},{"keb":"行動をおこす","ke_inf":["&sK;"]}],"r_ele":[{"reb":"こうどうをおこす"}],"sense":[{"pos":["&exp;","&v5s;"],"gloss":[{"value":"to take action"},{"value":"to take steps"}]}]}
+{"ent_seq":2868685,"k_ele":[{"keb":"美術室"}],"r_ele":[{"reb":"びじゅつしつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"art room (e.g. in a school)"},{"value":"art studio"}]}]}
+{"ent_seq":2868686,"k_ele":[{"keb":"板木"}],"r_ele":[{"reb":"ばんぎ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"wooden board struck with a mallet as a signal"}]}]}
+{"ent_seq":2868687,"k_ele":[{"keb":"住血吸虫症"}],"r_ele":[{"reb":"じゅうけつきゅうちゅうしょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"schistosomiasis"},{"value":"bilharziasis"}]}]}
+{"ent_seq":2868688,"r_ele":[{"reb":"ルフィヤ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"div"}],"gloss":[{"value":"rufiyaa (currency of the Maldives)"}]}]}
+{"ent_seq":2868689,"r_ele":[{"reb":"ソモニ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"tgk"}],"gloss":[{"value":"somoni (currency of Tajikistan)"}]}]}
+{"ent_seq":2868690,"r_ele":[{"reb":"ウギア"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"ara"}],"gloss":[{"value":"ouguiya (currency of Mauritania)"}]}]}
+{"ent_seq":2868691,"r_ele":[{"reb":"ボリビアーノ"},{"reb":"ボリビアノ","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"spa"}],"gloss":[{"value":"boliviano (currency of Bolivia)"}]}]}
+{"ent_seq":2868692,"r_ele":[{"reb":"ナクファ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"nakfa (currency of Eritrea)"}]}]}
+{"ent_seq":2868693,"r_ele":[{"reb":"ラリ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"geo"}],"gloss":[{"value":"lari (currency of Georgia)"}]}]}
+{"ent_seq":2868694,"r_ele":[{"reb":"レク"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"alb"}],"gloss":[{"value":"lek (currency of Albania)"}]}]}
+{"ent_seq":2868695,"k_ele":[{"keb":"心理士"},{"keb":"心理司","ke_inf":["&sK;"]}],"r_ele":[{"reb":"しんりし"}],"sense":[{"pos":["&n;"],"xref":["臨床心理士"],"gloss":[{"value":"clinical psychologist"}]}]}
+{"ent_seq":2868696,"r_ele":[{"reb":"ディナール"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"dinar (currency of Iraq, Jordan, Libya, Serbia, etc.)"}]},{"pos":["&n;"],"gloss":[{"value":"dinar (Iranian monetary unit; 1/100 of a rial)"}]}]}
+{"ent_seq":2868697,"r_ele":[{"reb":"ソル"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"spa"}],"gloss":[{"value":"sol (currency of Peru)"}]}]}
+{"ent_seq":2868698,"r_ele":[{"reb":"ソル"},{"reb":"ソール"}],"sense":[{"pos":["&n;"],"field":["&rommyth;"],"gloss":[{"value":"Sol"}]}]}
+{"ent_seq":2868699,"k_ele":[{"keb":"木鶏"}],"r_ele":[{"reb":"もっけい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"wooden rooster"}]},{"pos":["&n;"],"gloss":[{"value":"unflinching fighting cock"},{"value":"strong individual unaffected by adversity"}]}]}
+{"ent_seq":2868700,"k_ele":[{"keb":"公認心理師"}],"r_ele":[{"reb":"こうにんしんりし"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"licensed psychologist"},{"value":"certified public psychologist"}]}]}
+{"ent_seq":2868701,"k_ele":[{"keb":"心理師"}],"r_ele":[{"reb":"しんりし"}],"sense":[{"pos":["&n;"],"xref":["公認心理師"],"gloss":[{"value":"licensed psychologist"},{"value":"certified public psychologist"}]}]}
+{"ent_seq":2868702,"k_ele":[{"keb":"児童心理司"}],"r_ele":[{"reb":"じどうしんりし"}],"sense":[{"pos":["&n;"],"xref":["児童相談所"],"gloss":[{"value":"psychologist employed at a child consultation center"},{"value":"clinical child psychologist"},{"value":"licensed child psychologist"}]}]}
+{"ent_seq":2868703,"k_ele":[{"keb":"児童福祉司"}],"r_ele":[{"reb":"じどうふくしし"}],"sense":[{"pos":["&n;"],"xref":["児童相談所"],"gloss":[{"value":"consultant at a children's welfare center"},{"value":"child welfare comissioner"}]}]}
+{"ent_seq":2868704,"r_ele":[{"reb":"クワンザ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"kwanza (currency of Angola)"}]}]}
+{"ent_seq":2868705,"r_ele":[{"reb":"サタン"}],"sense":[{"pos":["&n;"],"xref":["バーツ"],"gloss":[{"value":"satang (Thai monetary unit; 1/100 of a baht)"}]}]}
+{"ent_seq":2868706,"r_ele":[{"reb":"グリブナ"},{"reb":"グリヴナ"}],"sense":[{"pos":["&n;"],"xref":["フリヴニャ"],"lsource":[{"value":"grívna","lang":"rus"}],"gloss":[{"value":"hryvnia (currency of Ukraine)"}]},{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"grivna (unit of currency and weight in medieval Rus)"}]}]}
+{"ent_seq":2868707,"k_ele":[{"keb":"跫音"}],"r_ele":[{"reb":"きょうおん"}],"sense":[{"pos":["&n;"],"misc":["&form;"],"gloss":[{"value":"(sound of) footsteps"}]}]}
+{"ent_seq":2868709,"k_ele":[{"keb":"レビー小体"},{"keb":"レヴィー小体","ke_inf":["&sK;"]}],"r_ele":[{"reb":"レビーしょうたい"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"Lewy body"}]}]}
+{"ent_seq":2868710,"k_ele":[{"keb":"レビー小体病"}],"r_ele":[{"reb":"レビーしょうたいびょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"Lewy body disease"}]}]}
+{"ent_seq":2868711,"k_ele":[{"keb":"トルクメン語"}],"r_ele":[{"reb":"トルクメンご"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Turkmen (language)"}]}]}
+{"ent_seq":2868712,"r_ele":[{"reb":"マナト"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"aze"},{"lang":"tuk"}],"gloss":[{"value":"manat (currency of Azerbaijan and Turkmenistan)"}]}]}
+{"ent_seq":2868713,"r_ele":[{"reb":"トルクメン"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Turkmen (person)"}]},{"pos":["&n;"],"xref":["トルクメニスタン"],"misc":["&obs;"],"gloss":[{"value":"Turkmenistan"}]}]}
+{"ent_seq":2868714,"k_ele":[{"keb":"交感神経系"}],"r_ele":[{"reb":"こうかんしんけいけい"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"sympathetic nervous system"},{"value":"SNS"}]}]}
+{"ent_seq":2868715,"r_ele":[{"reb":"コルドバ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"spa"}],"gloss":[{"value":"córdoba (currency of Nicaragua)"},{"value":"cordoba"}]}]}
+{"ent_seq":2868716,"k_ele":[{"keb":"青斑核"}],"r_ele":[{"reb":"せいはんかく"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"locus coeruleus"},{"value":"locus ceruleus"}]}]}
+{"ent_seq":2868717,"k_ele":[{"keb":"シャイ・ドレーガー症候群"},{"keb":"シャイドレーガー症候群"}],"r_ele":[{"reb":"シャイドレーガーしょうこうぐん"}],"sense":[{"pos":["&n;"],"xref":["多系統萎縮症"],"field":["&med;"],"gloss":[{"value":"Shy-Drager syndrome"}]}]}
+{"ent_seq":2868718,"k_ele":[{"keb":"パーキンソン症候群"}],"r_ele":[{"reb":"パーキンソンしょうこうぐん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"Parkinsonism"}]}]}
+{"ent_seq":2868719,"r_ele":[{"reb":"パーキンソニズム"}],"sense":[{"pos":["&n;"],"xref":["パーキンソン症候群"],"field":["&med;"],"gloss":[{"value":"Parkinsonism"}]}]}
+{"ent_seq":2868720,"k_ele":[{"keb":"オリーブ橋小脳萎縮症"}],"r_ele":[{"reb":"オリーブきょうしょうのういしゅくしょう"}],"sense":[{"pos":["&n;"],"xref":["多系統萎縮症"],"field":["&med;"],"gloss":[{"value":"olivopontocerebellar atrophy"},{"value":"OPCA"}]}]}
+{"ent_seq":2868722,"k_ele":[{"keb":"アルツハイマー型認知症"}],"r_ele":[{"reb":"アルツハイマーがたにんちしょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"Alzheimer-type dementia"},{"value":"Alzheimer's-type dementia"}]}]}
+{"ent_seq":2868724,"k_ele":[{"keb":"滲み"}],"r_ele":[{"reb":"にじみ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"blur"},{"value":"(color) bleed"},{"value":"bleeding"},{"value":"running (e.g. of paint)"}]}]}
+{"ent_seq":2868726,"r_ele":[{"reb":"アリアリ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"mlg"}],"gloss":[{"value":"ariary (currency of Madagascar)"}]}]}
+{"ent_seq":2868727,"r_ele":[{"reb":"ブル"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"amh"}],"gloss":[{"value":"birr (currency of Ethiopia)"}]}]}
+{"ent_seq":2868728,"r_ele":[{"reb":"ロチ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"sot"}],"gloss":[{"value":"loti (currency of Lesotho)"}]}]}
+{"ent_seq":2868729,"r_ele":[{"reb":"タラ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"smo"}],"gloss":[{"value":"tālā (currency of Samoa)"},{"value":"tala"}]}]}
+{"ent_seq":2868730,"r_ele":[{"reb":"ソム"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"kir"}],"gloss":[{"value":"som (currency of Kyrgyzstan)"}]}]}
+{"ent_seq":2868731,"r_ele":[{"reb":"ケツァル"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"spa"}],"gloss":[{"value":"quetzal (currency of Guatemala)"}]}]}
+{"ent_seq":2868732,"r_ele":[{"reb":"リランゲニ"},{"reb":"リランゲーニ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"lilangeni (currency of Eswatini)"}]}]}
+{"ent_seq":2868734,"r_ele":[{"reb":"ソフロロジー"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"sophrology"}]}]}
+{"ent_seq":2868735,"k_ele":[{"keb":"意味的"}],"r_ele":[{"reb":"いみてき"}],"sense":[{"pos":["&adj-na;"],"gloss":[{"value":"semantic"}]}]}
+{"ent_seq":2868736,"k_ele":[{"keb":"園芸農家"}],"r_ele":[{"reb":"えんげいのうか"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"horticulturist"}]}]}
+{"ent_seq":2868737,"k_ele":[{"keb":"謁見の間"}],"r_ele":[{"reb":"えっけんのま"}],"sense":[{"pos":["&exp;","&n;"],"gloss":[{"value":"throne room"},{"value":"audience chamber"}]}]}
+{"ent_seq":2868738,"r_ele":[{"reb":"ミルレイス"},{"reb":"ミルレース"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"lsource":[{"lang":"por"}],"gloss":[{"value":"mil-réis (former monetary unit of Portugal and Brazil)"},{"value":"milreis"}]}]}
+{"ent_seq":2868739,"r_ele":[{"reb":"コロン"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"spa"}],"gloss":[{"value":"colón (currency of Costa Rica and former currency of El Salvador)"},{"value":"colon"}]}]}
+{"ent_seq":2868740,"r_ele":[{"reb":"レオン"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"leone (currency of Sierra Leone)"}]}]}
+{"ent_seq":2868742,"k_ele":[{"keb":"極楽世界"}],"r_ele":[{"reb":"ごくらくせかい"}],"sense":[{"pos":["&n;"],"field":["&Buddh;"],"gloss":[{"value":"Sukhavati"},{"value":"Amitabha's Pure Land"},{"value":"land of Perfect Bliss"}]}]}
+{"ent_seq":2868743,"k_ele":[{"keb":"立ち寝"},{"keb":"たち寝","ke_inf":["&sK;"]},{"keb":"立寝","ke_inf":["&sK;"]},{"keb":"立ちね","ke_inf":["&sK;"]}],"r_ele":[{"reb":"たちね"}],"sense":[{"pos":["&n;"],"misc":["&col;"],"gloss":[{"value":"sleeping while standing"}]}]}
+{"ent_seq":2868744,"k_ele":[{"keb":"行政的"}],"r_ele":[{"reb":"ぎょうせいてき"}],"sense":[{"pos":["&adj-na;"],"gloss":[{"value":"administrative"},{"value":"executive"}]}]}
+{"ent_seq":2868746,"k_ele":[{"keb":"易きに流れる"}],"r_ele":[{"reb":"やすきにながれる"}],"sense":[{"pos":["&exp;","&v1;"],"gloss":[{"value":"to take the easy way out"},{"value":"to take the path of least resistance"}]}]}
+{"ent_seq":2868747,"k_ele":[{"keb":"後掲"}],"r_ele":[{"reb":"こうけい"}],"sense":[{"pos":["&adj-no;","&n;","&vs;","&vt;"],"xref":["前掲"],"gloss":[{"value":"later-mentioned"},{"value":"following"},{"value":"given below"}]}]}
+{"ent_seq":2868748,"k_ele":[{"keb":"地域気象観測システム"}],"r_ele":[{"reb":"ちいききしょうかんそくシステム"}],"sense":[{"pos":["&n;"],"xref":["ＡＭｅＤＡＳ"],"gloss":[{"value":"Automated Meteorological Data Acquisition System"},{"value":"AMeDAS"},{"value":"nationwide network of automatic weather stations operated by the Japan Meteorological Agency","g_type":"expl"}]}]}
+{"ent_seq":2868749,"k_ele":[{"keb":"ウキ釣り"},{"keb":"浮き釣り"},{"keb":"浮釣","ke_inf":["&sK;"]},{"keb":"浮釣り","ke_inf":["&sK;"]},{"keb":"うき釣り","ke_inf":["&sK;"]}],"r_ele":[{"reb":"うきづり"}],"sense":[{"pos":["&n;"],"field":["&fish;"],"gloss":[{"value":"float fishing"}]}]}
+{"ent_seq":2868750,"r_ele":[{"reb":"おだつ"}],"sense":[{"pos":["&v5t;","&vi;"],"dial":["&hob;"],"gloss":[{"value":"to get overexcited"},{"value":"to fool around"},{"value":"to mess around"}]}]}
+{"ent_seq":2868751,"r_ele":[{"reb":"リバイス"},{"reb":"リバイズ"}],"sense":[{"pos":["&n;","&vs;","&vt;"],"gloss":[{"value":"revising"},{"value":"amending"},{"value":"correcting"}]}]}
+{"ent_seq":2868752,"r_ele":[{"reb":"ヒストリック"}],"sense":[{"pos":["&adj-na;"],"gloss":[{"value":"historic"}]}]}
+{"ent_seq":2868753,"k_ele":[{"keb":"ＡＡ"}],"r_ele":[{"reb":"エー・エー"},{"reb":"エーエー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["アスキーアート"],"gloss":[{"value":"ASCII art"}]}]}
+{"ent_seq":2868755,"k_ele":[{"keb":"睡眠麻痺"}],"r_ele":[{"reb":"すいみんまひ"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"sleep paralysis"}]}]}
+{"ent_seq":2868756,"k_ele":[{"keb":"ボス部屋"},{"keb":"ぼす部屋","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ボスべや"}],"sense":[{"pos":["&n;"],"field":["&vidg;"],"gloss":[{"value":"boss room"},{"value":"boss stage"}]}]}
+{"ent_seq":2868757,"r_ele":[{"reb":"ゼミナール","re_pri":{"gai":1}},{"reb":"セミナール","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["セミナー"],"lsource":[{"lang":"ger"}],"gloss":[{"value":"seminar"}]}]}
+{"ent_seq":2868758,"r_ele":[{"reb":"デジタルチューナー"},{"reb":"デジタル・チューナー"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"digital tuner (TV)"}]}]}
+{"ent_seq":2868759,"k_ele":[{"keb":"金光花"},{"keb":"金黄花","ke_inf":["&rK;"]},{"keb":"金紅花","ke_inf":["&rK;"]}],"r_ele":[{"reb":"キンコウカ","re_nokanji":true},{"reb":"きんこうか"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Narthecium asiaticum (species of yellow flowering plant)"}]}]}
+{"ent_seq":2868760,"k_ele":[{"keb":"芒蘭"}],"r_ele":[{"reb":"ノギラン","re_nokanji":true},{"reb":"のぎらん"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Metanarthecium luteoviride (species of flowering plant)"}]}]}
+{"ent_seq":2868762,"k_ele":[{"keb":"果物畑"}],"r_ele":[{"reb":"くだものばたけ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"orchard"}]}]}
+{"ent_seq":2868763,"r_ele":[{"reb":"クラビネット"}],"sense":[{"pos":["&n;"],"field":["&music;"],"gloss":[{"value":"clavinet"}]}]}
+{"ent_seq":2868766,"k_ele":[{"keb":"わー国"}],"r_ele":[{"reb":"わーくに"}],"sense":[{"pos":["&n;"],"xref":["わが国"],"misc":["&uk;","&net-sl;"],"gloss":[{"value":"our country"},{"value":"our land"},{"value":"one's own country"}]}]}
+{"ent_seq":2868767,"k_ele":[{"keb":"世襲的"}],"r_ele":[{"reb":"せしゅうてき"}],"sense":[{"pos":["&adj-na;"],"gloss":[{"value":"hereditary"}]}]}
+{"ent_seq":2868768,"r_ele":[{"reb":"へいこら"},{"reb":"へーこら"},{"reb":"ヘイコラ"},{"reb":"ヘーコラ","re_inf":["&sk;"]},{"reb":"へえこら","re_inf":["&sk;"]}],"sense":[{"pos":["&vs;","&vi;","&adv;","&adv-to;"],"misc":["&col;"],"gloss":[{"value":"to flatter"},{"value":"to curry favor (with)"},{"value":"to butter up"},{"value":"to fawn over"}]}]}
+{"ent_seq":2868769,"k_ele":[{"keb":"聞く耳を持つ"},{"keb":"聞く耳をもつ","ke_inf":["&sK;"]}],"r_ele":[{"reb":"きくみみをもつ"}],"sense":[{"pos":["&exp;","&v5t;"],"xref":["聞く耳を持たない"],"s_inf":["usu. in the negative"],"gloss":[{"value":"to lend an ear (to)"},{"value":"to hear out"},{"value":"to listen to"}]}]}
+{"ent_seq":2868770,"k_ele":[{"keb":"聞く耳を持たず"},{"keb":"聞く耳をもたず","ke_inf":["&sK;"]}],"r_ele":[{"reb":"きくみみをもたず"}],"sense":[{"pos":["&exp;"],"xref":["聞く耳を持たない"],"gloss":[{"value":"to turn a deaf ear to"},{"value":"to not listen to"},{"value":"to not get the message"}]}]}
+{"ent_seq":2868771,"r_ele":[{"reb":"エロビ"}],"sense":[{"pos":["&n;"],"xref":["エロビデオ"],"misc":["&abbr;","&col;"],"gloss":[{"value":"pornographic film"}]}]}
+{"ent_seq":2868772,"k_ele":[{"keb":"手を束ねる"}],"r_ele":[{"reb":"てをつかねる"}],"sense":[{"pos":["&exp;","&v1;"],"xref":["手をこまねく・1"],"gloss":[{"value":"to fold one's arms"}]},{"pos":["&exp;","&v1;"],"xref":["手をこまねく・2"],"s_inf":["usu. as 手を束ねて"],"gloss":[{"value":"to stand and watch (without interfering)"},{"value":"to stand idly by"},{"value":"to look on with folded arms"}]}]}
+{"ent_seq":2868773,"k_ele":[{"keb":"思想が強い"}],"r_ele":[{"reb":"しそうがつよい"}],"sense":[{"pos":["&exp;","&adj-i;"],"misc":["&col;"],"gloss":[{"value":"strongly ideological"}]}]}
+{"ent_seq":2868774,"r_ele":[{"reb":"アクキー"}],"sense":[{"pos":["&n;"],"misc":["&abbr;"],"s_inf":["abbr. of アクリルキーホルダー"],"gloss":[{"value":"acrylic keychain (oft. printed with images of popular characters)"}]}]}
+{"ent_seq":2868775,"k_ele":[{"keb":"言うことなすこと"},{"keb":"言う事なす事","ke_inf":["&sK;"]},{"keb":"言う事成す事","ke_inf":["&sK;"]}],"r_ele":[{"reb":"いうことなすこと"}],"sense":[{"pos":["&exp;","&n;","&adv;"],"xref":["やることなすこと"],"gloss":[{"value":"everything one says and does"}]}]}
+{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2026-01-11"}]}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる"}],"r_ele":[{"reb":"にちゃんねる"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"2channel (online forum)"}]}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ"}],"r_ele":[{"reb":"スリーエム"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"3M"}]}]}
 {"ent_seq":5000016,"k_ele":[{"keb":"Ｅテレ"}],"r_ele":[{"reb":"イーテレ"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"NHK Educational TV"}]}]}
@@ -8641,7 +8739,6 @@
 {"ent_seq":5090551,"r_ele":[{"reb":"ラヴラヴゴースト"}],"sense":[{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"School Spirit (film)"}]}]}
 {"ent_seq":5090578,"r_ele":[{"reb":"リーサルウェポン"}],"sense":[{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"Lethal Weapon (series) (film)"}]}]}
 {"ent_seq":5090579,"r_ele":[{"reb":"リーサルパンサー"}],"sense":[{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"Hard To Die (film)"}]}]}
-{"ent_seq":5090670,"r_ele":[{"reb":"リーバイズ"}],"sense":[{"pos":["&n;"],"misc":["&product;"],"gloss":[{"value":"Levi's"}]}]}
 {"ent_seq":5090737,"r_ele":[{"reb":"リーマン・ブラザーズ"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Lehman Brothers"}]}]}
 {"ent_seq":5090739,"r_ele":[{"reb":"リーマンブラザーズ"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Lehman Brothers"}]}]}
 {"ent_seq":5090990,"r_ele":[{"reb":"リゴレット"}],"sense":[{"pos":["&n;"],"misc":["&place;"],"gloss":[{"value":"Rigolet"}]},{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"Rigoletto (opera by Verdi)"}]}]}
