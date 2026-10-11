@@ -5257,7 +5257,7 @@
 {"ent_seq":2866348,"k_ele":[{"keb":"ヘキサン酸"}],"r_ele":[{"reb":"ヘキサンさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"hexanoic acid"}]}]}
 {"ent_seq":2866349,"k_ele":[{"keb":"ヘキソン酸"}],"r_ele":[{"reb":"ヘキソンさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"hexonic acid"}]}]}
 {"ent_seq":2866350,"k_ele":[{"keb":"ヘミメリト酸"}],"r_ele":[{"reb":"ヘミメリトさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"hemimellitic acid"}]}]}
-{"ent_seq":2866351,"r_ele":[{"reb":"パクツイ"},{"reb":"ぱくツイ"}],"sense":[{"pos":["&n;"],"xref":["パクリ・3"],"misc":["&net-sl;","&abbr;"],"gloss":[{"value":"stealing a tweet"}]}]}
+{"ent_seq":2866351,"r_ele":[{"reb":"パクツイ"},{"reb":"ぱくツイ"}],"sense":[{"pos":["&n;"],"misc":["&net-sl;","&abbr;"],"gloss":[{"value":"stealing a tweet"}]}]}
 {"ent_seq":2866352,"k_ele":[{"keb":"摘示"}],"r_ele":[{"reb":"てきし"}],"sense":[{"pos":["&n;","&vs;","&vt;"],"gloss":[{"value":"explaining"},{"value":"summarizing"},{"value":"indicating"},{"value":"outlining"}]}]}
 {"ent_seq":2866353,"k_ele":[{"keb":"導尿"}],"r_ele":[{"reb":"どうにょう"}],"sense":[{"pos":["&n;","&vs;","&vi;"],"field":["&med;"],"gloss":[{"value":"urethral catheterization (catheterisation)"},{"value":"urine extraction"}]}]}
 {"ent_seq":2866354,"k_ele":[{"keb":"優占"}],"r_ele":[{"reb":"ゆうせん"}],"sense":[{"pos":["&n;","&vs;","&vi;"],"field":["&ecol;"],"gloss":[{"value":"dominance (of a species)"}]}]}
@@ -11502,6 +11502,7 @@
 {"ent_seq":2873032,"k_ele":[{"keb":"逆プロポーズ"}],"r_ele":[{"reb":"ぎゃくプロポーズ"}],"sense":[{"pos":["&n;"],"misc":["&col;"],"gloss":[{"value":"marriage proposal from a woman to her male partner"}]}]}
 {"ent_seq":2873033,"k_ele":[{"keb":"饅"}],"r_ele":[{"reb":"まん"}],"sense":[{"pos":["&n-suf;"],"xref":["まんじゅう"],"misc":["&uk;","&abbr;"],"gloss":[{"value":"manjū"}]}]}
 {"ent_seq":2873034,"r_ele":[{"reb":"ゲームメイク"},{"reb":"ゲームメーク"},{"reb":"ゲーム・メイク"},{"reb":"ゲーム・メーク"}],"sense":[{"pos":["&n;","&vs;","&vi;"],"field":["&sports;"],"lsource":[{"value":"game make","ls_wasei":"y"}],"gloss":[{"value":"game management"},{"value":"playmaking"},{"value":"controlling the game"}]}]}
+{"ent_seq":2873035,"r_ele":[{"reb":"ラッキーホール"},{"reb":"ラッキー・ホール"}],"sense":[{"pos":["&n;"],"lsource":[{"value":"lucky hole","ls_wasei":"y"}],"gloss":[{"value":"hole in a wall or partition for sexual activity"},{"value":"glory hole"}]}]}
 {"ent_seq":2873036,"k_ele":[{"keb":"政府当局"}],"r_ele":[{"reb":"せいふとうきょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"government authorities"}]}]}
 {"ent_seq":2873038,"k_ele":[{"keb":"既セク"}],"r_ele":[{"reb":"きセク"},{"reb":"キセク","re_nokanji":true}],"sense":[{"pos":["&n;"],"xref":["未セク"],"misc":["&abbr;","&net-sl;"],"s_inf":["from 既 + セックス"],"gloss":[{"value":"already having had sex (with)"},{"value":"previous sexual partner"}]}]}
 {"ent_seq":2873039,"k_ele":[{"keb":"未セク"}],"r_ele":[{"reb":"みセク"},{"reb":"ミセク","re_nokanji":true}],"sense":[{"pos":["&n;"],"xref":["既セク"],"misc":["&abbr;","&net-sl;"],"s_inf":["from 未 + セックス"],"gloss":[{"value":"not yet having had sex (with)"},{"value":"person one hasn't yet slept with"}]}]}
@@ -11534,9 +11535,12 @@
 {"ent_seq":2873071,"r_ele":[{"reb":"ヤード","re_pri":{"spec":2}}],"sense":[{"pos":["&n;"],"gloss":[{"value":"yard (area)"},{"value":"working area"}]},{"pos":["&n;"],"gloss":[{"value":"vehicle dismantling yard"},{"value":"vehicle dismantling facility"}]},{"pos":["&n;"],"xref":["操車場"],"field":["&rail;"],"gloss":[{"value":"classification yard"},{"value":"marshalling yard"},{"value":"switchyard"}]}]}
 {"ent_seq":2873072,"k_ele":[{"keb":"ＬＮＧタンカー"}],"r_ele":[{"reb":"エルエヌジータンカー"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"LNG tanker"},{"value":"LNG carrier"},{"value":"liquefied natural gas carrier"}]}]}
 {"ent_seq":2873073,"k_ele":[{"keb":"混成軌道"}],"r_ele":[{"reb":"こんせいきどう"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"hybrid orbital"},{"value":"hybridized orbital"}]}]}
+{"ent_seq":2873074,"k_ele":[{"keb":"死文化"}],"r_ele":[{"reb":"しぶんか"}],"sense":[{"pos":["&n;","&vs;","&vi;"],"xref":["死文・1"],"gloss":[{"value":"becoming a dead letter"},{"value":"becoming meaningless (of a statute, law, etc.)"}]}]}
+{"ent_seq":2873075,"k_ele":[{"keb":"天文科学館"}],"r_ele":[{"reb":"てんもんかがくかん"}],"sense":[{"pos":["&n;"],"s_inf":["usu. in names"],"gloss":[{"value":"astronomical science museum"},{"value":"planetarium"}]}]}
 {"ent_seq":2873076,"k_ele":[{"keb":"引っ括めて","ke_inf":["&rK;"]},{"keb":"引っくるめて","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ひっくるめて"}],"sense":[{"pos":["&exp;","&adv;"],"xref":["ひっくるめる"],"misc":["&uk;"],"gloss":[{"value":"all in all"},{"value":"all together"},{"value":"altogether"}]}]}
 {"ent_seq":2873077,"k_ele":[{"keb":"足で稼ぐ"},{"keb":"脚で稼ぐ","ke_inf":["&sK;"]}],"r_ele":[{"reb":"あしでかせぐ"}],"sense":[{"pos":["&exp;","&v5g;"],"gloss":[{"value":"to obtain results through legwork"},{"value":"to walk around to gather information"},{"value":"to rely on active effort"}]}]}
 {"ent_seq":2873078,"r_ele":[{"reb":"ニコニコペース"},{"reb":"にこにこペース"}],"sense":[{"pos":["&n;"],"xref":["ニコニコ"],"gloss":[{"value":"slow, comfortable jogging speed (that allows a runner to easily smile, etc.)"}]}]}
+{"ent_seq":2873079,"r_ele":[{"reb":"タピオカパール"},{"reb":"タピオカ・パール"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"pearl tapioca"},{"value":"tapioca pearls"}]}]}
 {"ent_seq":2873080,"k_ele":[{"keb":"市場町"}],"r_ele":[{"reb":"いちばまち"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"town that developed around a market"},{"value":"market town"}]}]}
 {"ent_seq":2873081,"k_ele":[{"keb":"遺存"}],"r_ele":[{"reb":"いそん"}],"sense":[{"pos":["&n;","&vs;","&vi;"],"gloss":[{"value":"surviving"},{"value":"remaining"},{"value":"persisting (to the present)"}]}]}
 {"ent_seq":2873082,"r_ele":[{"reb":"ダブルダブル"},{"reb":"ダブル・ダブル"}],"sense":[{"pos":["&n;"],"field":["&sports;"],"gloss":[{"value":"double-double (in basketball)"}]}]}
@@ -11551,7 +11555,34 @@
 {"ent_seq":2873092,"k_ele":[{"keb":"閉経周辺期"}],"r_ele":[{"reb":"へいけいしゅうへんき"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"perimenopause"}]}]}
 {"ent_seq":2873093,"k_ele":[{"keb":"秋田美人"}],"r_ele":[{"reb":"あきたびじん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Akita beauty (stereotype of fair-skinned, attractive women from Akita)"}]}]}
 {"ent_seq":2873094,"r_ele":[{"reb":"フーデリ"}],"sense":[{"pos":["&n;"],"xref":["フードデリバリー"],"misc":["&abbr;","&col;"],"gloss":[{"value":"food delivery"}]}]}
-{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-04"}]}]}
+{"ent_seq":2873095,"k_ele":[{"keb":"頭師"}],"r_ele":[{"reb":"かしらし"}],"sense":[{"pos":["&n;"],"s_inf":["esp. traditional Japanese dolls"],"gloss":[{"value":"doll head maker"},{"value":"doll head artisan"}]}]}
+{"ent_seq":2873096,"k_ele":[{"keb":"家捜し"},{"keb":"家探し"},{"keb":"家さがし","ke_inf":["&sK;"]}],"r_ele":[{"reb":"やさがし"}],"sense":[{"pos":["&n;","&vs;","&vi;"],"gloss":[{"value":"searching an entire house"},{"value":"searching a house thoroughly"}]},{"pos":["&n;","&vs;","&vi;"],"misc":["&rare;"],"gloss":[{"value":"house hunting"}]}]}
+{"ent_seq":2873097,"k_ele":[{"keb":"掌部"}],"r_ele":[{"reb":"しょうぶ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"palm (of the hand)"},{"value":"palmar area"}]},{"pos":["&n;"],"xref":["中手・2"],"field":["&anat;"],"gloss":[{"value":"metacarpal (bone)"},{"value":"metacarpus"}]}]}
+{"ent_seq":2873098,"r_ele":[{"reb":"パクリ","re_pri":{"spec":1}},{"reb":"パクり"},{"reb":"ぱくり","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"xref":["パクる・1"],"misc":["&col;"],"gloss":[{"value":"snatching"},{"value":"stealing"},{"value":"pilfering"},{"value":"shoplifting"}]},{"pos":["&n;"],"xref":["パクる・2"],"misc":["&col;"],"gloss":[{"value":"plagiarism"},{"value":"rip-off"},{"value":"lifting"},{"value":"cribbing"}]}]}
+{"ent_seq":2873099,"r_ele":[{"reb":"カワイイメタル"}],"sense":[{"pos":["&n;"],"field":["&music;"],"gloss":[{"value":"kawaii metal"},{"value":"idol metal"},{"value":"genre that blends heavy metal instrumentation with bubbly J-pop melodies and Japanese idol aesthetics","g_type":"expl"}]}]}
+{"ent_seq":2873100,"k_ele":[{"keb":"正宮"}],"r_ele":[{"reb":"しょうぐう"}],"sense":[{"pos":["&n;"],"xref":["本宮"],"field":["&Shinto;"],"gloss":[{"value":"main shrine"}]}]}
+{"ent_seq":2873101,"k_ele":[{"keb":"省印"}],"r_ele":[{"reb":"しょういん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"(government) ministry seal"}]}]}
+{"ent_seq":2873103,"k_ele":[{"keb":"超知能"}],"r_ele":[{"reb":"ちょうちのう"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"superintelligence"}]}]}
+{"ent_seq":2873104,"k_ele":[{"keb":"塵雲"}],"r_ele":[{"reb":"じんうん"}],"sense":[{"pos":["&n;"],"field":["&astron;"],"gloss":[{"value":"dust cloud"}]}]}
+{"ent_seq":2873107,"k_ele":[{"keb":"天弓"}],"r_ele":[{"reb":"てんきゅう"}],"sense":[{"pos":["&n;"],"xref":["虹・にじ"],"misc":["&poet;"],"gloss":[{"value":"rainbow"}]}]}
+{"ent_seq":2873109,"r_ele":[{"reb":"アンフェ"}],"sense":[{"pos":["&n;"],"xref":["アンチフェミニスト"],"misc":["&abbr;","&col;"],"gloss":[{"value":"anti-feminist"}]}]}
+{"ent_seq":2873112,"k_ele":[{"keb":"三七草"},{"keb":"山漆草"}],"r_ele":[{"reb":"さんしちそう"},{"reb":"サンシチソウ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Japanese Gynura (Gynura Japonica)"}]}]}
+{"ent_seq":2873113,"k_ele":[{"keb":"燦点"}],"r_ele":[{"reb":"さんてん"}],"sense":[{"pos":["&n;"],"field":["&ornith;"],"gloss":[{"value":"speculum"}]}]}
+{"ent_seq":2873115,"k_ele":[{"keb":"小行李"}],"r_ele":[{"reb":"しょうこうり"}],"sense":[{"pos":["&n;"],"field":["&mil;"],"misc":["&hist;"],"gloss":[{"value":"light supply unit (IJA)"}]}]}
+{"ent_seq":2873116,"r_ele":[{"reb":"パワーチャージ"},{"reb":"パワー・チャージ"}],"sense":[{"pos":["&n;"],"lsource":[{"value":"power charge","ls_wasei":"y"}],"gloss":[{"value":"recharging one's batteries (with a trip, etc.)","g_type":"fig"}]}]}
+{"ent_seq":2873117,"k_ele":[{"keb":"プロピオル酸"}],"r_ele":[{"reb":"プロピオルさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"propiolic acid"}]}]}
+{"ent_seq":2873118,"r_ele":[{"reb":"シャントリ"}],"sense":[{"pos":["&n;"],"s_inf":["from シャンプー and トリートメント"],"gloss":[{"value":"shampoo and treatment set (e.g. in a hotel)"}]}]}
+{"ent_seq":2873122,"k_ele":[{"keb":"星座早見盤"}],"r_ele":[{"reb":"せいざはやみばん"}],"sense":[{"pos":["&n;"],"field":["&astron;"],"gloss":[{"value":"planisphere"}]}]}
+{"ent_seq":2873123,"k_ele":[{"keb":"挟み紙"},{"keb":"挟紙","ke_inf":["&sK;"]}],"r_ele":[{"reb":"はさみがみ"}],"sense":[{"pos":["&n;"],"xref":["しおり・1"],"misc":["&rare;"],"gloss":[{"value":"paper bookmark"}]},{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"protective paper between items"}]}]}
+{"ent_seq":2873124,"r_ele":[{"reb":"ループエンジニアリング"},{"reb":"ループ・エンジニアリング"}],"sense":[{"pos":["&n;"],"xref":["プロンプトエンジニアリング"],"field":["&comp;"],"gloss":[{"value":"loop engineering (of AI agents)"}]}]}
+{"ent_seq":2873125,"k_ele":[{"keb":"肺ペスト"}],"r_ele":[{"reb":"はいペスト"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"pneumonic plague"}]}]}
+{"ent_seq":2873126,"r_ele":[{"reb":"ヌードストッキング"},{"reb":"ヌード・ストッキング"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"skin-colored stockings"}]}]}
+{"ent_seq":2873128,"k_ele":[{"keb":"火浣布"}],"r_ele":[{"reb":"かかんぷ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"fireproof cloth"}]}]}
+{"ent_seq":2873129,"k_ele":[{"keb":"蝦夷梟"},{"keb":"えぞ梟","ke_inf":["&sK;"]},{"keb":"蝦夷ふくろう","ke_inf":["&sK;"]}],"r_ele":[{"reb":"エゾフクロウ","re_nokanji":true},{"reb":"えぞふくろう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Yezo Ural owl (Strix uralensis japonica)"}]}]}
+{"ent_seq":2873130,"k_ele":[{"keb":"華北山椒"}],"r_ele":[{"reb":"カホクザンショウ","re_nokanji":true},{"reb":"かほくざんしょう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Sichuan pepper (Zanthoxylum bungeanum)"}]}]}
+{"ent_seq":2873131,"k_ele":[{"keb":"見守りカメラ"}],"r_ele":[{"reb":"みまもりカメラ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"monitoring camera (e.g., nanny cam, pet camera)"}]}]}
+{"ent_seq":2873132,"k_ele":[{"keb":"貝虫"}],"r_ele":[{"reb":"かいむし"},{"reb":"カイムシ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"mussel shrimp"},{"value":"ostracod"}]}]}
+{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-11"}]}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる"}],"r_ele":[{"reb":"にちゃんねる"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"2channel (online forum)"}]}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ"}],"r_ele":[{"reb":"スリーエム"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"3M"}]}]}
 {"ent_seq":5000016,"k_ele":[{"keb":"Ｅテレ"}],"r_ele":[{"reb":"イーテレ"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"NHK Educational TV"}]}]}

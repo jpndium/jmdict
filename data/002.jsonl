@@ -1752,7 +1752,7 @@
 {"ent_seq":2113130,"k_ele":[{"keb":"十死一生"}],"r_ele":[{"reb":"じっしいっしょう"}],"sense":[{"pos":["&n;"],"misc":["&yoji;"],"gloss":[{"value":"narrow escape from the jaws of death"},{"value":"cheating death"}]},{"pos":["&n;"],"misc":["&yoji;"],"gloss":[{"value":"there being barely a chance of escaping death"},{"value":"life-threatening danger"}]}]}
 {"ent_seq":2113140,"k_ele":[{"keb":"字引学問"}],"r_ele":[{"reb":"じびきがくもん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"superficial learning"},{"value":"book learning"},{"value":"merely knowing the meanings of a large number of individual words"}]}]}
 {"ent_seq":2113150,"k_ele":[{"keb":"杓子果報"}],"r_ele":[{"reb":"しゃくしかほう"}],"sense":[{"pos":["&n;","&adj-na;"],"misc":["&yoji;"],"gloss":[{"value":"coming by ample servings of delicious food"},{"value":"being blessed with good fortune"}]}]}
-{"ent_seq":2113160,"k_ele":[{"keb":"精霊飛蝗"},{"keb":"精霊バッタ","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ショウリョウバッタ","re_nokanji":true},{"reb":"しょうりょうばった"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Oriental longheaded locust (Acrida cinerea)"}]}]}
+{"ent_seq":2113160,"k_ele":[{"keb":"精霊飛蝗","ke_inf":["&rK;"]},{"keb":"精霊バッタ","ke_inf":["&sK;"]},{"keb":"精霊蝗虫","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ショウリョウバッタ","re_nokanji":true},{"reb":"しょうりょうばった"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Oriental longheaded locust (Acrida cinerea)"}]}]}
 {"ent_seq":2113170,"r_ele":[{"reb":"リハ"}],"sense":[{"pos":["&n;"],"xref":["リハーサル"],"misc":["&abbr;"],"gloss":[{"value":"rehearsal"}]},{"pos":["&n;"],"xref":["リハビリテーション"],"misc":["&abbr;"],"gloss":[{"value":"rehabilitation"}]}]}
 {"ent_seq":2113180,"r_ele":[{"reb":"マルカート"}],"sense":[{"pos":["&n;"],"field":["&music;"],"lsource":[{"lang":"ita"}],"gloss":[{"value":"marcato"}]}]}
 {"ent_seq":2113190,"k_ele":[{"keb":"蛇心仏口"}],"r_ele":[{"reb":"じゃしんぶっこう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"being cunning and spiteful, yet honey-tongued with feigned kindness"}]}]}
@@ -3327,7 +3327,7 @@
 {"ent_seq":2129740,"k_ele":[{"keb":"スリップ事故"}],"r_ele":[{"reb":"スリップじこ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"(vehicle) skidding accident"}]}]}
 {"ent_seq":2129750,"k_ele":[{"keb":"博多祇園山笠"}],"r_ele":[{"reb":"はかたぎおんやまかさ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"festival held in July in Fukuoka City"},{"value":"Hakata Gion Yamakasa Festival (often just called Yamakasa Festival)"}]}]}
 {"ent_seq":2129760,"k_ele":[{"keb":"と或る","ke_inf":["&sK;"]}],"r_ele":[{"reb":"とある"}],"sense":[{"pos":["&adj-pn;"],"gloss":[{"value":"a certain ..."}]}]}
-{"ent_seq":2129770,"k_ele":[{"keb":"目を皿にする"},{"keb":"目をさらにする","ke_inf":["&sK;"]},{"keb":"眼を皿にする","ke_inf":["&sK;"]}],"r_ele":[{"reb":"めをさらにする"}],"sense":[{"pos":["&exp;","&vs-i;"],"misc":["&id;"],"gloss":[{"value":"to open one's eyes wide"}]}]}
+{"ent_seq":2129770,"k_ele":[{"keb":"目を皿にする"},{"keb":"目をさらにする","ke_inf":["&sK;"]},{"keb":"眼を皿にする","ke_inf":["&sK;"]}],"r_ele":[{"reb":"めをさらにする"}],"sense":[{"pos":["&exp;","&vs-i;"],"xref":["目を皿のようにする"],"misc":["&id;"],"gloss":[{"value":"to open one's eyes wide"}]}]}
 {"ent_seq":2129780,"k_ele":[{"keb":"目から鼻へ抜ける"}],"r_ele":[{"reb":"めからはなへぬける"}],"sense":[{"pos":["&exp;","&v1;"],"misc":["&id;"],"gloss":[{"value":"to be very shrewd"},{"value":"to be highly intelligent"},{"value":"to be very smart"}]}]}
 {"ent_seq":2129790,"k_ele":[{"keb":"滅相もない"},{"keb":"滅相も無い"}],"r_ele":[{"reb":"めっそうもない"}],"sense":[{"pos":["&exp;"],"gloss":[{"value":"don't be absurd"},{"value":"that's out of the question"},{"value":"nonsense"},{"value":"don't mention it"}]}]}
 {"ent_seq":2129800,"k_ele":[{"keb":"残機"}],"r_ele":[{"reb":"ざんき"}],"sense":[{"pos":["&n;"],"field":["&vidg;"],"gloss":[{"value":"remaining lives"}]}]}
@@ -12993,7 +12993,7 @@
 {"ent_seq":2230560,"k_ele":[{"keb":"白羊宮"}],"r_ele":[{"reb":"はくようきゅう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Aries (1st zodiacal sign)"},{"value":"the Ram"}]}]}
 {"ent_seq":2230570,"k_ele":[{"keb":"双児宮"}],"r_ele":[{"reb":"そうじきゅう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Gemini (3rd zodiacal sign)"},{"value":"the Twins"}]}]}
 {"ent_seq":2230580,"k_ele":[{"keb":"巨蟹宮"}],"r_ele":[{"reb":"きょかいきゅう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Cancer (4th zodiacal sign)"},{"value":"the Crab"}]}]}
-{"ent_seq":2230590,"k_ele":[{"keb":"処女宮"}],"r_ele":[{"reb":"しょじょきゅう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Virgo (6th zodiacal sign)"},{"value":"the Virgin"}]}]}
+{"ent_seq":2230590,"k_ele":[{"keb":"処女宮"}],"r_ele":[{"reb":"しょじょきゅう"}],"sense":[{"pos":["&n;"],"field":["&astron;"],"gloss":[{"value":"Virgo (6th zodiacal sign)"},{"value":"the Virgin"}]}]}
 {"ent_seq":2230600,"k_ele":[{"keb":"天秤宮"}],"r_ele":[{"reb":"てんびんきゅう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Libra (7th zodiacal sign)"},{"value":"the Scales"}]}]}
 {"ent_seq":2230610,"k_ele":[{"keb":"天蠍宮"},{"keb":"天蝎宮"}],"r_ele":[{"reb":"てんかつきゅう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Scorpio (8th zodiacal sign)"},{"value":"the Scorpion"}]}]}
 {"ent_seq":2230620,"k_ele":[{"keb":"人馬宮"}],"r_ele":[{"reb":"じんばきゅう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Sagittarius (9th zodiacal sign)"},{"value":"the Archer"}]}]}
@@ -19790,7 +19790,7 @@
 {"ent_seq":2309650,"r_ele":[{"reb":"データコンバータ"},{"reb":"データ・コンバータ"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"data converter"}]}]}
 {"ent_seq":2309660,"r_ele":[{"reb":"データステーション"},{"reb":"データ・ステーション"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"data station"}]}]}
 {"ent_seq":2309670,"r_ele":[{"reb":"データストレージ"},{"reb":"データ・ストレージ"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"data storage"}]}]}
-{"ent_seq":2309690,"r_ele":[{"reb":"データセンター"},{"reb":"データセンタ"},{"reb":"データ・センター"},{"reb":"データ・センタ"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"data center"},{"value":"data centre"}]}]}
+{"ent_seq":2309690,"r_ele":[{"reb":"データセンター"},{"reb":"データセンタ"},{"reb":"データ・センター"},{"reb":"データ・センタ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"data center"},{"value":"data centre"}]}]}
 {"ent_seq":2309700,"r_ele":[{"reb":"データタグ"},{"reb":"データ・タグ"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"data tag"}]}]}
 {"ent_seq":2309710,"k_ele":[{"keb":"データタグ群"}],"r_ele":[{"reb":"データタグぐん"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"data tag group"}]}]}
 {"ent_seq":2309720,"k_ele":[{"keb":"データタグ形式"}],"r_ele":[{"reb":"データタグけいしき"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"data tag pattern"}]}]}
@@ -33695,7 +33695,7 @@
 {"ent_seq":2464580,"k_ele":[{"keb":"疣鯛"}],"r_ele":[{"reb":"いぼだい"},{"reb":"イボダイ","re_nokanji":true},{"reb":"エボダイ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese butterfish (Psenopsis anomala)"},{"value":"melon seed"}]}]}
 {"ent_seq":2464590,"k_ele":[{"keb":"雀の稗"}],"r_ele":[{"reb":"すずめのひえ"},{"reb":"スズメノヒエ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese paspalum (Paspalum thunbergii)"}]}]}
 {"ent_seq":2464600,"k_ele":[{"keb":"西洋箱柳"}],"r_ele":[{"reb":"せいようはこやなぎ"},{"reb":"セイヨウハコヤナギ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Lombardy poplar (Populus nigra var. italica)"}]}]}
-{"ent_seq":2464610,"k_ele":[{"keb":"猩猩草"}],"r_ele":[{"reb":"しょうじょうそう"},{"reb":"ショウジョウソウ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Mexican fireplant (species of poinsettia, Euphorbia heterophylla)"}]}]}
+{"ent_seq":2464610,"k_ele":[{"keb":"猩々草"},{"keb":"猩猩草","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ショウジョウソウ","re_nokanji":true},{"reb":"しょうじょうそう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Mexican fireplant (Euphorbia heterophylla)"},{"value":"painted euphorbia"},{"value":"Japanese poinsettia"}]}]}
 {"ent_seq":2464620,"k_ele":[{"keb":"一等鯛"}],"r_ele":[{"reb":"いっとうだい"},{"reb":"イットウダイ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"North Pacific squirrelfish (Sargocentron spinosissimum)"}]}]}
 {"ent_seq":2464630,"k_ele":[{"keb":"パラゴムの木"}],"r_ele":[{"reb":"パラゴムのき"},{"reb":"パラゴムノキ","re_nokanji":true}],"sense":[{"pos":["&exp;","&n;"],"misc":["&uk;"],"gloss":[{"value":"Para rubber tree (Hevea brasiliensis)"}]}]}
 {"ent_seq":2464640,"k_ele":[{"keb":"三井寺歩行虫"},{"keb":"三井寺芥虫"}],"r_ele":[{"reb":"みいでらごみむし"},{"reb":"ミイデラゴミムシ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Pheropsophus jessoensis (species of bombardier beetle)"}]}]}
@@ -41711,7 +41711,7 @@
 {"ent_seq":2551750,"k_ele":[{"keb":"いとこ婚"}],"r_ele":[{"reb":"いとここん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"cousin marriage"},{"value":"marriage between cousins"}]}]}
 {"ent_seq":2551760,"k_ele":[{"keb":"革製"},{"keb":"皮製"}],"r_ele":[{"reb":"かわせい"}],"sense":[{"pos":["&adj-no;","&n;"],"gloss":[{"value":"(made of) leather"},{"value":"leather-bound"}]}]}
 {"ent_seq":2551770,"k_ele":[{"keb":"移記"}],"r_ele":[{"reb":"いき"}],"sense":[{"pos":["&n;","&vs;"],"gloss":[{"value":"transfer to the records"},{"value":"transcription to a special document"}]}]}
-{"ent_seq":2551780,"r_ele":[{"reb":"サンタ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Santa"},{"value":"Santa Claus"}]}]}
+{"ent_seq":2551780,"r_ele":[{"reb":"サンタ"}],"sense":[{"pos":["&n;"],"xref":["サンタクロース"],"misc":["&abbr;"],"gloss":[{"value":"Santa"},{"value":"Santa Claus"}]}]}
 {"ent_seq":2551790,"k_ele":[{"keb":"予防的ケア"}],"r_ele":[{"reb":"よぼうてきケア"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"preventive care"}]}]}
 {"ent_seq":2551800,"k_ele":[{"keb":"骨と皮"}],"r_ele":[{"reb":"ほねとかわ"}],"sense":[{"pos":["&exp;","&adj-no;"],"gloss":[{"value":"skin and bones"}]}]}
 {"ent_seq":2551810,"k_ele":[{"keb":"紐ネクタイ"}],"r_ele":[{"reb":"ひもネクタイ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"bolo tie"},{"value":"string tie"}]}]}
@@ -48634,7 +48634,7 @@
 {"ent_seq":2626810,"k_ele":[{"keb":"麻酔科医"}],"r_ele":[{"reb":"ますいかい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"anesthesiologist"},{"value":"anaesthesiologist"},{"value":"anesthetist"},{"value":"anaesthetist"}]}]}
 {"ent_seq":2626820,"k_ele":[{"keb":"麻薬性鎮痛薬"}],"r_ele":[{"reb":"まやくせいちんつうやく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"narcotic analgesic"}]}]}
 {"ent_seq":2626830,"k_ele":[{"keb":"麻痺性痴呆"}],"r_ele":[{"reb":"まひせいちほう"}],"sense":[{"pos":["&n;"],"xref":["進行麻痺"],"gloss":[{"value":"paralytic dementia"}]}]}
-{"ent_seq":2626840,"k_ele":[{"keb":"進行麻痺"}],"r_ele":[{"reb":"しんこうまひ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"progressive paralysis (due to neurosyphilis)"},{"value":"general paresis"}]}]}
+{"ent_seq":2626840,"k_ele":[{"keb":"進行麻痺"}],"r_ele":[{"reb":"しんこうまひ"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"progressive paralysis (due to neurosyphilis)"},{"value":"general paresis"}]}]}
 {"ent_seq":2626850,"k_ele":[{"keb":"鶏姦"}],"r_ele":[{"reb":"けいかん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"homosexual sex between males"},{"value":"buggery"},{"value":"sodomy"}]}]}
 {"ent_seq":2626860,"k_ele":[{"keb":"鶏冠石"}],"r_ele":[{"reb":"けいかんせき"}],"sense":[{"pos":["&n;"],"field":["&min;"],"gloss":[{"value":"realgar"}]}]}
 {"ent_seq":2626870,"k_ele":[{"keb":"鳥瞰的"}],"r_ele":[{"reb":"ちょうかんてき"}],"sense":[{"pos":["&adj-na;"],"gloss":[{"value":"bird's-eye"}]}]}
@@ -48648,8 +48648,8 @@
 {"ent_seq":2626960,"k_ele":[{"keb":"核燃料プール"}],"r_ele":[{"reb":"かくねんりょうプール"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"(spent) nuclear fuel storage pool"}]}]}
 {"ent_seq":2626970,"k_ele":[{"keb":"うっ血除去薬"},{"keb":"鬱血除去薬"}],"r_ele":[{"reb":"うっけつじょきょやく"}],"sense":[{"pos":["&n;"],"field":["&pharm;"],"gloss":[{"value":"decongestant"}]}]}
 {"ent_seq":2626980,"k_ele":[{"keb":"高速車線"}],"r_ele":[{"reb":"こうそくしゃせん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"high-speed lane"},{"value":"fast lane"}]}]}
-{"ent_seq":2626990,"k_ele":[{"keb":"高カロリー輸液"}],"r_ele":[{"reb":"こうカロリーゆえき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"high-calorie infusion"},{"value":"total parenteral nutrition"}]}]}
-{"ent_seq":2627000,"k_ele":[{"keb":"高血糖"}],"r_ele":[{"reb":"こうけっとう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"hyperglycemia"},{"value":"hyperglycaemia"}]}]}
+{"ent_seq":2626990,"k_ele":[{"keb":"高カロリー輸液"}],"r_ele":[{"reb":"こうカロリーゆえき"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"high-calorie infusion"},{"value":"total parenteral nutrition"},{"value":"TPN"}]}]}
+{"ent_seq":2627000,"k_ele":[{"keb":"高血糖"}],"r_ele":[{"reb":"こうけっとう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"hyperglycemia"},{"value":"hyperglycaemia"},{"value":"high blood sugar"}]}]}
 {"ent_seq":2627010,"k_ele":[{"keb":"高カリウム血症"}],"r_ele":[{"reb":"こうカリウムけっしょう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"hyperkalemia"},{"value":"hyperpotassemia"}]}]}
 {"ent_seq":2627020,"k_ele":[{"keb":"高ナトリウム血症"}],"r_ele":[{"reb":"こうナトリウムけつしょう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"hypernatremia"}]}]}
 {"ent_seq":2627030,"k_ele":[{"keb":"高ビリルビン血症"}],"r_ele":[{"reb":"こうビリルビンけつしょう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"hyperbilirubinemia"}]}]}
@@ -56193,8 +56193,8 @@
 {"ent_seq":2707780,"k_ele":[{"keb":"精が出る"}],"r_ele":[{"reb":"せいがでる"}],"sense":[{"pos":["&exp;","&v1;"],"xref":["精を出す"],"gloss":[{"value":"to be working hard"},{"value":"to be doing one's best"}]}]}
 {"ent_seq":2707790,"k_ele":[{"keb":"大聖"}],"r_ele":[{"reb":"だいしょう"}],"sense":[{"pos":["&n;"],"field":["&Buddh;"],"misc":["&hon;"],"gloss":[{"value":"Buddha"}]},{"pos":["&n;"],"field":["&Buddh;"],"gloss":[{"value":"high-ranked bodhisattva"}]}]}
 {"ent_seq":2707800,"k_ele":[{"keb":"口淫"}],"r_ele":[{"reb":"こういん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"oral sex"},{"value":"fellatio"},{"value":"cunnilingus"}]}]}
-{"ent_seq":2707810,"k_ele":[{"keb":"阿形"}],"r_ele":[{"reb":"あぎょう"}],"sense":[{"pos":["&n;"],"field":["&Buddh;"],"gloss":[{"value":"open-mouthed form (statue with open mouth, symbolizing the \"a\" half of \"aum\")"}]}]}
-{"ent_seq":2707820,"k_ele":[{"keb":"吽形"}],"r_ele":[{"reb":"うんぎょう"}],"sense":[{"pos":["&n;"],"field":["&Buddh;"],"gloss":[{"value":"closed-mouthed form (statue with closed mouth, symbolizing the \"um\" half of \"aum\")"}]}]}
+{"ent_seq":2707810,"k_ele":[{"keb":"阿形"}],"r_ele":[{"reb":"あぎょう"}],"sense":[{"pos":["&n;"],"xref":["吽形"],"field":["&Buddh;"],"gloss":[{"value":"open-mouthed form (statue with open mouth, symbolizing the \"a\" half of \"aum\")"}]}]}
+{"ent_seq":2707820,"k_ele":[{"keb":"吽形"}],"r_ele":[{"reb":"うんぎょう"}],"sense":[{"pos":["&n;"],"xref":["阿形"],"field":["&Buddh;"],"gloss":[{"value":"closed-mouthed form (statue with closed mouth, symbolizing the \"um\" half of \"aum\")"}]}]}
 {"ent_seq":2707830,"k_ele":[{"keb":"脚病"}],"r_ele":[{"reb":"かくびょう"}],"sense":[{"pos":["&n;"],"xref":["脚気"],"misc":["&arch;"],"gloss":[{"value":"beriberi"}]}]}
 {"ent_seq":2707840,"r_ele":[{"reb":"テッポウ"}],"sense":[{"pos":["&n;"],"field":["&food;"],"gloss":[{"value":"(pork or beef) rectum"}]}]}
 {"ent_seq":2707850,"r_ele":[{"reb":"テッチャン"}],"sense":[{"pos":["&n;"],"field":["&food;"],"lsource":[{"value":"daechang","lang":"kor"}],"gloss":[{"value":"large intestine (of a cow)"}]}]}
@@ -58867,7 +58867,7 @@
 {"ent_seq":2736040,"k_ele":[{"keb":"懺法"}],"r_ele":[{"reb":"せんぼう"}],"sense":[{"pos":["&n;"],"field":["&Buddh;"],"gloss":[{"value":"penitence by chanting sutras"},{"value":"confession (of sins)"},{"value":"Tendai ritual of chanting Lotus Sutra or to Kanzeon, Amida, or Kichijoten for forgiveness of sins performed unknowingly","g_type":"expl"}]},{"pos":["&n;","&n-suf;"],"field":["&Buddh;"],"gloss":[{"value":"penitence sutra"}]},{"pos":["&n;"],"field":["&Buddh;"],"gloss":[{"value":"guidebook to penitence"}]}]}
 {"ent_seq":2736050,"k_ele":[{"keb":"光琳派"}],"r_ele":[{"reb":"こうりんは"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Korin school"},{"value":"Rimpa school (of painting, 17th-early 20th century)"}]}]}
 {"ent_seq":2736060,"k_ele":[{"keb":"琳派"}],"r_ele":[{"reb":"りんぱ"}],"sense":[{"pos":["&n;"],"xref":["光琳派"],"misc":["&abbr;"],"gloss":[{"value":"Rimpa school (of painting, 17th-early 20th century)"}]}]}
-{"ent_seq":2736070,"k_ele":[{"keb":"九州男児"}],"r_ele":[{"reb":"きゅうしゅうだんじ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"strapping Kyushu lad"},{"value":"virile son of Kyushu"}]}]}
+{"ent_seq":2736070,"k_ele":[{"keb":"九州男児"}],"r_ele":[{"reb":"きゅうしゅうだんじ"}],"sense":[{"pos":["&n;"],"s_inf":["oft. associated with stereotypes of traditional masculinity; i.e. toughness, stubbornness, etc."],"gloss":[{"value":"man born and raised in Kyushu"},{"value":"Kyushu man"}]}]}
 {"ent_seq":2736080,"r_ele":[{"reb":"オーバースペック"}],"sense":[{"pos":["&adj-no;","&adj-na;","&n;"],"gloss":[{"value":"overspec"},{"value":"over-engineered"}]},{"pos":["&adj-no;","&adj-na;","&n;"],"gloss":[{"value":"overqualified (job candidate)"}]}]}
 {"ent_seq":2736090,"k_ele":[{"keb":"翠黛"}],"r_ele":[{"reb":"すいたい"}],"sense":[{"pos":["&n;"],"misc":["&obs;"],"gloss":[{"value":"green eyebrow makeup"},{"value":"green-shaded eyebrows"}]},{"pos":["&n;","&adj-no;"],"gloss":[{"value":"hazy green (distant mountains)"}]}]}
 {"ent_seq":2736100,"k_ele":[{"keb":"大原女"}],"r_ele":[{"reb":"おはらめ"},{"reb":"おおはらめ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"woman peddler in Kyoto from Ohara (typically with a bundle of sticks, etc. on her head)"}]}]}
@@ -64045,7 +64045,7 @@
 {"ent_seq":2791400,"k_ele":[{"keb":"雪を欺く"}],"r_ele":[{"reb":"ゆきをあざむく"}],"sense":[{"pos":["&exp;","&v5k;"],"xref":["欺く・あざむく・2"],"gloss":[{"value":"to be as white as snow"}]}]}
 {"ent_seq":2791410,"k_ele":[{"keb":"島外"}],"r_ele":[{"reb":"とうがい"}],"sense":[{"pos":["&n;","&adj-no;"],"xref":["島内・とうない"],"gloss":[{"value":"off an island"},{"value":"away from an island"},{"value":"off-island"}]}]}
 {"ent_seq":2791420,"k_ele":[{"keb":"内紫"}],"r_ele":[{"reb":"うちむらさき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"purple Washington clam (Saxidomus purpurata)"}]},{"pos":["&n;"],"gloss":[{"value":"type of pomelo with red-purple flesh"}]}]}
-{"ent_seq":2791430,"k_ele":[{"keb":"藪虱"}],"r_ele":[{"reb":"やぶじらみ"},{"reb":"ヤブジラミ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"erect hedge parsley (Torilis japonica)"},{"value":"Japanese hedge parsley"},{"value":"upright hedge parsley"}]}]}
+{"ent_seq":2791430,"k_ele":[{"keb":"藪虱"},{"keb":"藪蝨","ke_inf":["&rK;"]}],"r_ele":[{"reb":"ヤブジラミ","re_nokanji":true},{"reb":"やぶじらみ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"erect hedge parsley (Torilis japonica)"},{"value":"Japanese hedge parsley"},{"value":"upright hedge parsley"}]}]}
 {"ent_seq":2791440,"k_ele":[{"keb":"九輪草"}],"r_ele":[{"reb":"くりんそう"},{"reb":"クリンソウ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Japanese primrose (Primula japonica)"}]}]}
 {"ent_seq":2791450,"k_ele":[{"keb":"形質人類学"}],"r_ele":[{"reb":"けいしつじんるいがく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"physical anthropology"}]}]}
 {"ent_seq":2791460,"k_ele":[{"keb":"胡同"}],"r_ele":[{"reb":"フートン"},{"reb":"こどう"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"chi"}],"gloss":[{"value":"hutong (narrow street or alley in a traditional residential area of a Chinese city, esp. Beijing)"}]}]}
@@ -75695,7 +75695,7 @@
 {"ent_seq":2834808,"k_ele":[{"keb":"夢を追う"}],"r_ele":[{"reb":"ゆめをおう"}],"sense":[{"pos":["&exp;","&v5u;"],"gloss":[{"value":"to go after one's dreams"},{"value":"to follow one's dreams"},{"value":"to pursue one's dreams"}]}]}
 {"ent_seq":2834810,"k_ele":[{"keb":"縦中横"}],"r_ele":[{"reb":"たてちゅうよこ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"using horizontal characters in vertical writing"}]}]}
 {"ent_seq":2834811,"r_ele":[{"reb":"メンヘラ"},{"reb":"メンヘラー"}],"sense":[{"pos":["&n;"],"misc":["&sl;","&derog;"],"gloss":[{"value":"nutjob"},{"value":"mental job"},{"value":"lunatic"},{"value":"mentally troubled person"}]}]}
-{"ent_seq":2834812,"r_ele":[{"reb":"ぜ","re_pri":{"spec":1}}],"sense":[{"pos":["&prt;"],"misc":["&male;","&fam;"],"s_inf":["used at sentence end; adds light force or emphasis to a sentence"],"gloss":[{"value":"I can tell you"}]},{"pos":["&prt;"],"misc":["&male;"],"s_inf":["at sentence end; used to make a sentence threatening or ironic"],"gloss":[{"value":"heh"}]}]}
+{"ent_seq":2834812,"r_ele":[{"reb":"ぜ","re_pri":{"spec":1}}],"sense":[{"pos":["&prt;"],"misc":["&male;","&fam;"],"s_inf":["at sentence end"],"gloss":[{"value":"adds light emphasis or insistence to a statement"}]},{"pos":["&prt;"],"misc":["&male;"],"s_inf":["at sentence end"],"gloss":[{"value":"gives a statement a threatening or condescending tone"}]}]}
 {"ent_seq":2834813,"k_ele":[{"keb":"南蛮宗"}],"r_ele":[{"reb":"なんばんしゅう"}],"sense":[{"pos":["&n;"],"xref":["南蛮・3"],"misc":["&arch;"],"gloss":[{"value":"Christianity"}]}]}
 {"ent_seq":2834814,"k_ele":[{"keb":"南蛮寺"}],"r_ele":[{"reb":"なんばんじ"}],"sense":[{"pos":["&n;"],"xref":["南蛮・3"],"misc":["&hist;"],"gloss":[{"value":"Christian churches built in Japan in the second half of the 16th century"}]}]}
 {"ent_seq":2834815,"k_ele":[{"keb":"キリシタン寺"}],"r_ele":[{"reb":"キリシタンでら"}],"sense":[{"pos":["&n;"],"xref":["南蛮寺"],"gloss":[{"value":"Christian churches built in Japan in the second half of the 16th century"}]}]}
@@ -93485,7 +93485,7 @@
 {"ent_seq":2853702,"r_ele":[{"reb":"ネオンカラー"},{"reb":"ネオン・カラー"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"neon color"},{"value":"neon colour"}]}]}
 {"ent_seq":2853703,"k_ele":[{"keb":"チャリ通"},{"keb":"ちゃり通"}],"r_ele":[{"reb":"ちゃりつう"}],"sense":[{"pos":["&n;"],"xref":["チャリ","通学"],"misc":["&col;"],"gloss":[{"value":"commuting to school or work by bicycle"}]}]}
 {"ent_seq":2853704,"k_ele":[{"keb":"炙り子"},{"keb":"焙籠"}],"r_ele":[{"reb":"あぶりこ"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"basket made of bamboo or wire mesh (for drying clothes, cooking rice cakes, etc.)"}]}]}
-{"ent_seq":2853705,"r_ele":[{"reb":"トレパク"}],"sense":[{"pos":["&n;"],"xref":["パクリ・3"],"misc":["&sl;"],"s_inf":["from トレース + パクリ"],"gloss":[{"value":"plagiarizing (an artwork or photo) by tracing"}]}]}
+{"ent_seq":2853705,"r_ele":[{"reb":"トレパク"}],"sense":[{"pos":["&n;"],"misc":["&sl;"],"s_inf":["from トレース + パクリ"],"gloss":[{"value":"plagiarizing (an artwork or photo) by tracing"}]}]}
 {"ent_seq":2853707,"k_ele":[{"keb":"通常通り"},{"keb":"通常どおり"}],"r_ele":[{"reb":"つうじょうどおり"}],"sense":[{"pos":["&adv;","&adj-no;"],"gloss":[{"value":"as usual"}]}]}
 {"ent_seq":2853708,"k_ele":[{"keb":"ワクチン接種者"}],"r_ele":[{"reb":"ワクチンせっしゅしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"vaccinated person"}]}]}
 {"ent_seq":2853709,"r_ele":[{"reb":"ロングコビッド"},{"reb":"ロング・コビッド"},{"reb":"ロングコビット","re_inf":["&sk;"]},{"reb":"ロング・コビット","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"long COVID"},{"value":"long-term effects of COVID-19"}]}]}
@@ -94148,7 +94148,7 @@
 {"ent_seq":2854425,"k_ele":[{"keb":"法人向け"}],"r_ele":[{"reb":"ほうじんむけ"}],"sense":[{"pos":["&adj-no;"],"xref":["個人向け"],"gloss":[{"value":"targeted at companies"},{"value":"for corporations"}]}]}
 {"ent_seq":2854426,"k_ele":[{"keb":"石階"}],"r_ele":[{"reb":"いしばし"},{"reb":"せっかい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"stone steps"}]}]}
 {"ent_seq":2854427,"k_ele":[{"keb":"電子ジャーナル"}],"r_ele":[{"reb":"でんしジャーナル"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"electronic journal"},{"value":"online journal"}]}]}
-{"ent_seq":2854428,"k_ele":[{"keb":"触腕"}],"r_ele":[{"reb":"しょくわん"}],"sense":[{"pos":["&n;"],"field":["&biol;"],"gloss":[{"value":"tentacle"},{"value":"feeler"}]}]}
+{"ent_seq":2854428,"k_ele":[{"keb":"触腕"}],"r_ele":[{"reb":"しょくわん"}],"sense":[{"pos":["&n;"],"field":["&zool;"],"gloss":[{"value":"tentacle"},{"value":"feeler"}]}]}
 {"ent_seq":2854430,"k_ele":[{"keb":"光出力"}],"r_ele":[{"reb":"ひかりしゅつりょく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"optical output"}]}]}
 {"ent_seq":2854431,"r_ele":[{"reb":"タイヤロック"},{"reb":"タイヤ・ロック"}],"sense":[{"pos":["&n;"],"lsource":[{"value":"tire lock","ls_wasei":"y"}],"gloss":[{"value":"wheel clamp"},{"value":"parking boot"},{"value":"Denver boot"}]}]}
 {"ent_seq":2854432,"k_ele":[{"keb":"多聞"}],"r_ele":[{"reb":"たぶん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"knowing about many things"},{"value":"having wide knowledge"}]}]}
@@ -98759,7 +98759,7 @@
 {"ent_seq":2859399,"k_ele":[{"keb":"見向き"}],"r_ele":[{"reb":"みむき"}],"sense":[{"pos":["&n;"],"xref":["見向きもしない"],"s_inf":["usu. with neg. sentence"],"gloss":[{"value":"looking towards"},{"value":"taking notice (of)"},{"value":"showing interest (in)"}]}]}
 {"ent_seq":2859400,"r_ele":[{"reb":"スーパークラス"}],"sense":[{"pos":["&n;"],"xref":["サブクラス"],"field":["&comp;"],"gloss":[{"value":"superclass"}]}]}
 {"ent_seq":2859401,"k_ele":[{"keb":"完成物"}],"r_ele":[{"reb":"かんせいぶつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"finished product"},{"value":"final product"}]}]}
-{"ent_seq":2859402,"k_ele":[{"keb":"目を皿のようにする"},{"keb":"目を皿の様にする","ke_inf":["&sK;"]},{"keb":"眼を皿のようにする","ke_inf":["&sK;"]},{"keb":"目をさらのようにする","ke_inf":["&sK;"]}],"r_ele":[{"reb":"めをさらのようにする"}],"sense":[{"pos":["&exp;","&vs-i;"],"gloss":[{"value":"to open one's eyes wide"}]}]}
+{"ent_seq":2859402,"k_ele":[{"keb":"目を皿のようにする"},{"keb":"目を皿の様にする","ke_inf":["&sK;"]},{"keb":"眼を皿のようにする","ke_inf":["&sK;"]},{"keb":"目をさらのようにする","ke_inf":["&sK;"]}],"r_ele":[{"reb":"めをさらのようにする"}],"sense":[{"pos":["&exp;","&vs-i;"],"xref":["目を皿にする"],"misc":["&id;"],"gloss":[{"value":"to open one's eyes wide"}]}]}
 {"ent_seq":2859403,"k_ele":[{"keb":"漬物器"}],"r_ele":[{"reb":"つけものき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"pickling bowl"},{"value":"pickle press"}]}]}
 {"ent_seq":2859404,"k_ele":[{"keb":"ふん捕まえる"},{"keb":"フン捕まえる","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ふんづかまえる"}],"sense":[{"pos":["&v1;","&vt;"],"xref":["捕まえる・1"],"misc":["&col;"],"gloss":[{"value":"to grab hold of"},{"value":"to catch"}]}]}
 {"ent_seq":2859405,"k_ele":[{"keb":"全車"}],"r_ele":[{"reb":"ぜんしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"all vehicles"}]},{"pos":["&n;"],"gloss":[{"value":"the entire vehicle"}]}]}
