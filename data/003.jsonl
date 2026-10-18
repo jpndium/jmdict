@@ -2993,7 +2993,7 @@
 {"ent_seq":2863944,"k_ele":[{"keb":"混濁液"}],"r_ele":[{"reb":"こんだくえき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"emulsion"},{"value":"turbid solution"},{"value":"slurry"}]}]}
 {"ent_seq":2863945,"k_ele":[{"keb":"大気組成"}],"r_ele":[{"reb":"たいきそせい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"atmospheric composition"}]}]}
 {"ent_seq":2863946,"k_ele":[{"keb":"周回軌道"}],"r_ele":[{"reb":"しゅうかいきどう"}],"sense":[{"pos":["&n;"],"field":["&astron;"],"gloss":[{"value":"orbit"}]}]}
-{"ent_seq":2863949,"k_ele":[{"keb":"被甲"}],"r_ele":[{"reb":"ひこう"}],"sense":[{"pos":["&n;"],"misc":["&dated;"],"gloss":[{"value":"putting on armor and helmet"},{"value":"wearing armor"}]},{"pos":["&n;"],"field":["&mil;"],"misc":["&dated;"],"gloss":[{"value":"gas mask"}]},{"pos":["&n;"],"xref":["白銅"],"field":["&mil;"],"misc":["&dated;"],"gloss":[{"value":"bullet-protective cover or jacket made of cupronickel"}]}]}
+{"ent_seq":2863949,"k_ele":[{"keb":"被甲"}],"r_ele":[{"reb":"ひこう"}],"sense":[{"pos":["&n;"],"misc":["&dated;"],"gloss":[{"value":"putting on armor and helmet"},{"value":"wearing armor"}]},{"pos":["&n;"],"field":["&mil;"],"misc":["&dated;"],"gloss":[{"value":"gas mask"}]},{"pos":["&n;"],"xref":["白銅・1"],"field":["&mil;"],"misc":["&dated;"],"gloss":[{"value":"bullet-protective cover or jacket made of cupronickel"}]}]}
 {"ent_seq":2863950,"k_ele":[{"keb":"単口"}],"r_ele":[{"reb":"たんこう"}],"sense":[{"pos":["&adj-no;"],"field":["&biol;"],"gloss":[{"value":"monostome"}]}]}
 {"ent_seq":2863951,"k_ele":[{"keb":"衣装戸棚"}],"r_ele":[{"reb":"いしょうとだな"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"wardrobe"},{"value":"closet"}]}]}
 {"ent_seq":2863954,"k_ele":[{"keb":"靴下人形"}],"r_ele":[{"reb":"くつしたにんぎょう"}],"sense":[{"pos":["&n;"],"xref":["ソックパペット・1"],"gloss":[{"value":"sock puppet (hand puppet made from a stocking or sock)"}]},{"pos":["&n;"],"misc":["&net-sl;"],"gloss":[{"value":"sock puppet (online pseudonym account used for deception)"}]}]}
@@ -11492,6 +11492,7 @@
 {"ent_seq":2873021,"k_ele":[{"keb":"旬菜"},{"keb":"旬彩"}],"r_ele":[{"reb":"しゅんさい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"seasonal food"},{"value":"seasonal ingredients"},{"value":"dishes made with seasonal ingredients"}]}]}
 {"ent_seq":2873022,"k_ele":[{"keb":"貸し自転車"},{"keb":"貸自転車"}],"r_ele":[{"reb":"かしじてんしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"rental bicycle"}]}]}
 {"ent_seq":2873023,"k_ele":[{"keb":"想定線"}],"r_ele":[{"reb":"そうていせん"}],"sense":[{"pos":["&n;"],"xref":["イマジナリーライン"],"field":["&film;"],"gloss":[{"value":"imaginary line"}]}]}
+{"ent_seq":2873024,"k_ele":[{"keb":"発表日"}],"r_ele":[{"reb":"はっぴょうび"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"announcement date"}]},{"pos":["&n;"],"gloss":[{"value":"date of publication"}]}]}
 {"ent_seq":2873025,"k_ele":[{"keb":"指紋センサー"}],"r_ele":[{"reb":"しもんセンサー"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"fingerprint sensor"}]}]}
 {"ent_seq":2873026,"k_ele":[{"keb":"越境者"}],"r_ele":[{"reb":"えっきょうしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"border crosser"},{"value":"illegal immigrant"},{"value":"border trespasser"}]},{"pos":["&n;"],"gloss":[{"value":"boundary crosser"},{"value":"crossover figure"}]}]}
 {"ent_seq":2873027,"k_ele":[{"keb":"平野部"}],"r_ele":[{"reb":"へいやぶ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"plains area"},{"value":"flatland"},{"value":"plain"}]}]}
@@ -11562,27 +11563,65 @@
 {"ent_seq":2873099,"r_ele":[{"reb":"カワイイメタル"}],"sense":[{"pos":["&n;"],"field":["&music;"],"gloss":[{"value":"kawaii metal"},{"value":"idol metal"},{"value":"genre that blends heavy metal instrumentation with bubbly J-pop melodies and Japanese idol aesthetics","g_type":"expl"}]}]}
 {"ent_seq":2873100,"k_ele":[{"keb":"正宮"}],"r_ele":[{"reb":"しょうぐう"}],"sense":[{"pos":["&n;"],"xref":["本宮"],"field":["&Shinto;"],"gloss":[{"value":"main shrine"}]}]}
 {"ent_seq":2873101,"k_ele":[{"keb":"省印"}],"r_ele":[{"reb":"しょういん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"(government) ministry seal"}]}]}
+{"ent_seq":2873102,"k_ele":[{"keb":"森づくり"},{"keb":"森作り"},{"keb":"森造り","ke_inf":["&sK;"]},{"keb":"森造","ke_inf":["&sK;"]},{"keb":"森作","ke_inf":["&sK;"]}],"r_ele":[{"reb":"もりづくり"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"forest planting"},{"value":"forestation"},{"value":"reforestation"}]}]}
 {"ent_seq":2873103,"k_ele":[{"keb":"超知能"}],"r_ele":[{"reb":"ちょうちのう"}],"sense":[{"pos":["&n;"],"field":["&comp;"],"gloss":[{"value":"superintelligence"}]}]}
 {"ent_seq":2873104,"k_ele":[{"keb":"塵雲"}],"r_ele":[{"reb":"じんうん"}],"sense":[{"pos":["&n;"],"field":["&astron;"],"gloss":[{"value":"dust cloud"}]}]}
+{"ent_seq":2873105,"k_ele":[{"keb":"後付け設定"},{"keb":"後づけ設定","ke_inf":["&sK;"]},{"keb":"あとづけ設定","ke_inf":["&sK;"]}],"r_ele":[{"reb":"あとづけせってい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"retroactive continuity (literary device)"},{"value":"retcon"}]}]}
+{"ent_seq":2873106,"k_ele":[{"keb":"先を見る"},{"keb":"先が見る","ke_inf":["&sK;"]}],"r_ele":[{"reb":"さきをみる"}],"sense":[{"pos":["&exp;","&v1;"],"gloss":[{"value":"to look ahead"},{"value":"to foresee"},{"value":"to anticipate"}]}]}
 {"ent_seq":2873107,"k_ele":[{"keb":"天弓"}],"r_ele":[{"reb":"てんきゅう"}],"sense":[{"pos":["&n;"],"xref":["虹・にじ"],"misc":["&poet;"],"gloss":[{"value":"rainbow"}]}]}
+{"ent_seq":2873108,"k_ele":[{"keb":"非童貞"}],"r_ele":[{"reb":"ひどうてい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"non-virgin man"},{"value":"non-virgin male"},{"value":"man with sexual experience"}]}]}
 {"ent_seq":2873109,"r_ele":[{"reb":"アンフェ"}],"sense":[{"pos":["&n;"],"xref":["アンチフェミニスト"],"misc":["&abbr;","&col;"],"gloss":[{"value":"anti-feminist"}]}]}
+{"ent_seq":2873110,"k_ele":[{"keb":"底を割る"},{"keb":"そこを割る","ke_inf":["&sK;"]}],"r_ele":[{"reb":"そこをわる"}],"sense":[{"pos":["&exp;","&v5r;"],"gloss":[{"value":"to be frank"},{"value":"to open one's heart"},{"value":"to do truthfully"}]},{"pos":["&exp;","&v5r;"],"xref":["底・そこ・4"],"field":["&finc;"],"gloss":[{"value":"to break the bottom (e.g. of share price)"},{"value":"to go below the bottom line"}]}]}
+{"ent_seq":2873111,"k_ele":[{"keb":"精霊迎え"},{"keb":"精霊むかえ","ke_inf":["&sK;"]}],"r_ele":[{"reb":"しょうりょうむかえ"}],"sense":[{"pos":["&n;"],"xref":["お盆・1","精霊送り"],"gloss":[{"value":"welcoming the spirits of one's ancestors on the first day of the Bon Festival (by lighting small fires)"}]}]}
 {"ent_seq":2873112,"k_ele":[{"keb":"三七草"},{"keb":"山漆草"}],"r_ele":[{"reb":"さんしちそう"},{"reb":"サンシチソウ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Japanese Gynura (Gynura Japonica)"}]}]}
 {"ent_seq":2873113,"k_ele":[{"keb":"燦点"}],"r_ele":[{"reb":"さんてん"}],"sense":[{"pos":["&n;"],"field":["&ornith;"],"gloss":[{"value":"speculum"}]}]}
 {"ent_seq":2873115,"k_ele":[{"keb":"小行李"}],"r_ele":[{"reb":"しょうこうり"}],"sense":[{"pos":["&n;"],"field":["&mil;"],"misc":["&hist;"],"gloss":[{"value":"light supply unit (IJA)"}]}]}
-{"ent_seq":2873116,"r_ele":[{"reb":"パワーチャージ"},{"reb":"パワー・チャージ"}],"sense":[{"pos":["&n;"],"lsource":[{"value":"power charge","ls_wasei":"y"}],"gloss":[{"value":"recharging one's batteries (with a trip, etc.)","g_type":"fig"}]}]}
+{"ent_seq":2873116,"r_ele":[{"reb":"パワーチャージ"},{"reb":"パワー・チャージ"}],"sense":[{"pos":["&n;","&vs;","&vt;"],"lsource":[{"value":"power charge","ls_wasei":"y"}],"gloss":[{"value":"recharging one's batteries (e.g. with a trip)","g_type":"fig"},{"value":"replenishing (one's energy)"}]}]}
 {"ent_seq":2873117,"k_ele":[{"keb":"プロピオル酸"}],"r_ele":[{"reb":"プロピオルさん"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"propiolic acid"}]}]}
 {"ent_seq":2873118,"r_ele":[{"reb":"シャントリ"}],"sense":[{"pos":["&n;"],"s_inf":["from シャンプー and トリートメント"],"gloss":[{"value":"shampoo and treatment set (e.g. in a hotel)"}]}]}
+{"ent_seq":2873119,"k_ele":[{"keb":"駐輪機"}],"r_ele":[{"reb":"ちゅうりんき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"lockable bicycle rack"}]}]}
+{"ent_seq":2873120,"k_ele":[{"keb":"笛声"}],"r_ele":[{"reb":"てきせい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"sound of a flute"}]}]}
+{"ent_seq":2873121,"r_ele":[{"reb":"サンタ"}],"sense":[{"pos":["&n;"],"s_inf":["usu. in place names"],"lsource":[{"lang":"spa"}],"gloss":[{"value":"saint"}]}]}
 {"ent_seq":2873122,"k_ele":[{"keb":"星座早見盤"}],"r_ele":[{"reb":"せいざはやみばん"}],"sense":[{"pos":["&n;"],"field":["&astron;"],"gloss":[{"value":"planisphere"}]}]}
 {"ent_seq":2873123,"k_ele":[{"keb":"挟み紙"},{"keb":"挟紙","ke_inf":["&sK;"]}],"r_ele":[{"reb":"はさみがみ"}],"sense":[{"pos":["&n;"],"xref":["しおり・1"],"misc":["&rare;"],"gloss":[{"value":"paper bookmark"}]},{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"protective paper between items"}]}]}
 {"ent_seq":2873124,"r_ele":[{"reb":"ループエンジニアリング"},{"reb":"ループ・エンジニアリング"}],"sense":[{"pos":["&n;"],"xref":["プロンプトエンジニアリング"],"field":["&comp;"],"gloss":[{"value":"loop engineering (of AI agents)"}]}]}
 {"ent_seq":2873125,"k_ele":[{"keb":"肺ペスト"}],"r_ele":[{"reb":"はいペスト"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"pneumonic plague"}]}]}
 {"ent_seq":2873126,"r_ele":[{"reb":"ヌードストッキング"},{"reb":"ヌード・ストッキング"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"skin-colored stockings"}]}]}
+{"ent_seq":2873127,"k_ele":[{"keb":"派生物"}],"r_ele":[{"reb":"はせいぶつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"derivative"},{"value":"outgrowth"},{"value":"offshoot"}]}]}
 {"ent_seq":2873128,"k_ele":[{"keb":"火浣布"}],"r_ele":[{"reb":"かかんぷ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"fireproof cloth"}]}]}
 {"ent_seq":2873129,"k_ele":[{"keb":"蝦夷梟"},{"keb":"えぞ梟","ke_inf":["&sK;"]},{"keb":"蝦夷ふくろう","ke_inf":["&sK;"]}],"r_ele":[{"reb":"エゾフクロウ","re_nokanji":true},{"reb":"えぞふくろう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Yezo Ural owl (Strix uralensis japonica)"}]}]}
 {"ent_seq":2873130,"k_ele":[{"keb":"華北山椒"}],"r_ele":[{"reb":"カホクザンショウ","re_nokanji":true},{"reb":"かほくざんしょう"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Sichuan pepper (Zanthoxylum bungeanum)"}]}]}
 {"ent_seq":2873131,"k_ele":[{"keb":"見守りカメラ"}],"r_ele":[{"reb":"みまもりカメラ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"monitoring camera (e.g., nanny cam, pet camera)"}]}]}
 {"ent_seq":2873132,"k_ele":[{"keb":"貝虫"}],"r_ele":[{"reb":"かいむし"},{"reb":"カイムシ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"mussel shrimp"},{"value":"ostracod"}]}]}
-{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-11"}]}]}
+{"ent_seq":2873133,"r_ele":[{"reb":"ホモビデオ"},{"reb":"ホモ・ビデオ"}],"sense":[{"pos":["&n;"],"misc":["&sens;"],"lsource":[{"value":"homo video","ls_wasei":"y"}],"gloss":[{"value":"gay porn video"},{"value":"gay pornographic video"}]}]}
+{"ent_seq":2873134,"r_ele":[{"reb":"ホモビ"}],"sense":[{"pos":["&n;"],"xref":["ホモビデオ"],"misc":["&sens;","&abbr;","&col;"],"gloss":[{"value":"gay porn video"},{"value":"gay pornographic video"}]}]}
+{"ent_seq":2873135,"k_ele":[{"keb":"後付け設定変更"}],"r_ele":[{"reb":"あとづけせっていへんこう"}],"sense":[{"pos":["&n;"],"xref":["後付け設定"],"gloss":[{"value":"retroactive continuity (literary device)"},{"value":"retcon"}]}]}
+{"ent_seq":2873136,"k_ele":[{"keb":"相反性神経支配"}],"r_ele":[{"reb":"そうはんせいしんけいしはい"}],"sense":[{"pos":["&n;"],"field":["&physiol;"],"gloss":[{"value":"reciprocal innervation"}]}]}
+{"ent_seq":2873137,"k_ele":[{"keb":"重力学"}],"r_ele":[{"reb":"じゅうりょくがく"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"barodynamics"}]}]}
+{"ent_seq":2873138,"r_ele":[{"reb":"メガイラ"}],"sense":[{"pos":["&n;"],"field":["&grmyth;"],"gloss":[{"value":"Megaera"}]}]}
+{"ent_seq":2873139,"k_ele":[{"keb":"チン騎士"}],"r_ele":[{"reb":"チンきし"}],"sense":[{"pos":["&n;"],"misc":["&net-sl;","&derog;"],"gloss":[{"value":"man who defends women online in hopes of sexual rewards"},{"value":"white knight"}]}]}
+{"ent_seq":2873140,"r_ele":[{"reb":"アスカリ"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"askari (local soldiers serving in colonial African armies)"}]}]}
+{"ent_seq":2873141,"r_ele":[{"reb":"レンドリース"},{"reb":"レンド・リース"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"Lend-Lease (US aid program for the Allies during WWII)"}]}]}
+{"ent_seq":2873142,"k_ele":[{"keb":"泛藍連盟"}],"r_ele":[{"reb":"はんらんれんめい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Pan-Blue Coalition (Taiwan political bloc)"}]}]}
+{"ent_seq":2873143,"k_ele":[{"keb":"泛緑連盟"}],"r_ele":[{"reb":"はんりょくれんめい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Pan-Green Coalition (Taiwan political bloc)"}]}]}
+{"ent_seq":2873144,"k_ele":[{"keb":"笛声音"}],"r_ele":[{"reb":"てきせいおん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"whistling rale"},{"value":"piping rale"},{"value":"whistling chest sound"}]}]}
+{"ent_seq":2873145,"k_ele":[{"keb":"満族"}],"r_ele":[{"reb":"まんぞく"}],"sense":[{"pos":["&n;"],"xref":["満州族・まんしゅうぞく"],"gloss":[{"value":"Manchu (people)"}]}]}
+{"ent_seq":2873148,"k_ele":[{"keb":"副査"}],"r_ele":[{"reb":"ふくさ"}],"sense":[{"pos":["&n;"],"xref":["主査"],"gloss":[{"value":"assistant examiner"},{"value":"second reader"}]}]}
+{"ent_seq":2873149,"r_ele":[{"reb":"デキサメタゾン"}],"sense":[{"pos":["&n;"],"field":["&chem;","&pharm;"],"gloss":[{"value":"dexamethasone"}]}]}
+{"ent_seq":2873150,"r_ele":[{"reb":"マスタースケジュール"},{"reb":"マスター・スケジュール"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"master schedule"}]}]}
+{"ent_seq":2873151,"r_ele":[{"reb":"マスケ"}],"sense":[{"pos":["&n;"],"xref":["マスタースケジュール"],"misc":["&abbr;"],"gloss":[{"value":"master schedule"}]}]}
+{"ent_seq":2873152,"k_ele":[{"keb":"主位"}],"r_ele":[{"reb":"しゅい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"central position (e.g. in an organization)"},{"value":"position of leadership"}]},{"pos":["&n;"],"gloss":[{"value":"important location"},{"value":"central spot"}]}]}
+{"ent_seq":2873153,"r_ele":[{"reb":"ホビーショップ"},{"reb":"ホビー・ショップ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"hobby shop"}]}]}
+{"ent_seq":2873154,"r_ele":[{"reb":"ウジョウジョ"},{"reb":"うじょうじょ"}],"sense":[{"pos":["&adv;","&adv-to;","&vs;"],"xref":["うじゃうじゃ・1"],"misc":["&on-mim;","&rare;"],"gloss":[{"value":"in swarms"},{"value":"in clusters"}]}]}
+{"ent_seq":2873158,"r_ele":[{"reb":"カリユガ"},{"reb":"カリ・ユガ"}],"sense":[{"pos":["&n;"],"misc":["&relig;"],"lsource":[{"value":"kali-yuga","lang":"san"}],"gloss":[{"value":"Kali Yuga (fourth and final age in Hindu cosmology)"}]}]}
+{"ent_seq":2873159,"r_ele":[{"reb":"キチン"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"chitin"}]}]}
+{"ent_seq":2873160,"k_ele":[{"keb":"規定語"}],"r_ele":[{"reb":"きていご"}],"sense":[{"pos":["&n;"],"xref":["連体修飾語"],"field":["&gramm;"],"gloss":[{"value":"modifier of a non-inflectable word"},{"value":"adnominal modifier"}]}]}
+{"ent_seq":2873161,"k_ele":[{"keb":"線維軟骨"},{"keb":"繊維軟骨"}],"r_ele":[{"reb":"せんいなんこつ"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"fibrocartilage"}]}]}
+{"ent_seq":2873164,"k_ele":[{"keb":"卓布"}],"r_ele":[{"reb":"たくふ"}],"sense":[{"pos":["&n;"],"xref":["テーブルクロス"],"misc":["&rare;"],"gloss":[{"value":"tablecloth"}]}]}
+{"ent_seq":2873165,"r_ele":[{"reb":"しぇからしか"}],"sense":[{"pos":["&exp;"],"xref":["煩い・2"],"s_inf":["mainly Hakata and Kumamoto dialect"],"dial":["&kyu;"],"gloss":[{"value":"noisy"},{"value":"annoying"},{"value":"troublesome"},{"value":"persistent"},{"value":"nagging"}]}]}
+{"ent_seq":2873166,"k_ele":[{"keb":"忘備録"}],"r_ele":[{"reb":"ぼうびろく"}],"sense":[{"pos":["&n;"],"xref":["備忘録"],"gloss":[{"value":"notebook"},{"value":"memorandum"},{"value":"commonplace book"}]}]}
+{"ent_seq":2873168,"k_ele":[{"keb":"ＭＩＡ"}],"r_ele":[{"reb":"エム・アイ・エー"},{"reb":"エムアイエー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"gloss":[{"value":"missing in action"},{"value":"MIA"}]}]}
+{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-18"}]}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる"}],"r_ele":[{"reb":"にちゃんねる"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"2channel (online forum)"}]}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ"}],"r_ele":[{"reb":"スリーエム"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"3M"}]}]}
 {"ent_seq":5000016,"k_ele":[{"keb":"Ｅテレ"}],"r_ele":[{"reb":"イーテレ"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"NHK Educational TV"}]}]}
