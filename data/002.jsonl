@@ -1942,8 +1942,8 @@
 {"ent_seq":2115130,"k_ele":[{"keb":"ＤＶＤビデオ"}],"r_ele":[{"reb":"ディーブイディービデオ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Digital Versatile Disc video"},{"value":"DVD video"}]}]}
 {"ent_seq":2115140,"k_ele":[{"keb":"小便器"}],"r_ele":[{"reb":"しょうべんき"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"urinal"}]}]}
 {"ent_seq":2115150,"k_ele":[{"keb":"夜型"}],"r_ele":[{"reb":"よるがた"}],"sense":[{"pos":["&adj-no;","&n;"],"ant":["朝型"],"gloss":[{"value":"nocturnal (person)"}]}]}
-{"ent_seq":2115160,"k_ele":[{"keb":"割り勘勝ち"},{"keb":"割勘勝ち"}],"r_ele":[{"reb":"わりかんがち"}],"sense":[{"pos":["&n;"],"xref":["割り勘負け"],"misc":["&sl;"],"gloss":[{"value":"\"winner\" of a meal paid for by dutch treat (i.e. the person who eats the most)"}]}]}
-{"ent_seq":2115170,"k_ele":[{"keb":"割り勘負け"},{"keb":"割勘負け"}],"r_ele":[{"reb":"わりかんまけ"}],"sense":[{"pos":["&n;"],"xref":["割り勘勝ち"],"misc":["&sl;"],"gloss":[{"value":"\"loser\" of a meal paid for by dutch treat (i.e. the person who eats the least)"}]}]}
+{"ent_seq":2115160,"k_ele":[{"keb":"割り勘勝ち"},{"keb":"割勘勝ち"}],"r_ele":[{"reb":"わりかんがち"}],"sense":[{"pos":["&n;"],"xref":["割り勘負け"],"misc":["&sl;"],"gloss":[{"value":"\"winner\" of a meal paid for by splitting the bill (i.e. the person who ate the most)"}]}]}
+{"ent_seq":2115170,"k_ele":[{"keb":"割り勘負け"},{"keb":"割勘負け"}],"r_ele":[{"reb":"わりかんまけ"}],"sense":[{"pos":["&n;"],"xref":["割り勘勝ち"],"misc":["&sl;"],"gloss":[{"value":"\"loser\" of a meal paid by splitting the bill (i.e. the person who ate the least)"}]}]}
 {"ent_seq":2115180,"k_ele":[{"keb":"股上"},{"keb":"また上"}],"r_ele":[{"reb":"またがみ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"waist (the part of the pants located above the crotch)"},{"value":"pant rise"}]}]}
 {"ent_seq":2115190,"r_ele":[{"reb":"ローライズパンツ"},{"reb":"ローライズ・パンツ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"low-rise pants"},{"value":"hipster jeans"},{"value":"low-cut jeans"}]}]}
 {"ent_seq":2115200,"k_ele":[{"keb":"甘ロリ"}],"r_ele":[{"reb":"あまロリ"}],"sense":[{"pos":["&n;"],"xref":["ゴスロリ"],"gloss":[{"value":"sweet Lolita (fashion style) (as opposed to Gothic Lolita)"}]}]}
@@ -8636,7 +8636,6 @@
 {"ent_seq":2185410,"k_ele":[{"keb":"吠舎","ke_inf":["&ateji;","&rK;"]}],"r_ele":[{"reb":"バイシャ"},{"reb":"ヴァイシャ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Vaishya (member of India's merchant-and-farmer caste)"},{"value":"Vaisya"}]}]}
 {"ent_seq":2185420,"k_ele":[{"keb":"帝釈天"}],"r_ele":[{"reb":"たいしゃくてん"}],"sense":[{"pos":["&n;"],"field":["&Buddh;"],"gloss":[{"value":"Śakra (Deva)"},{"value":"Shakra"},{"value":"Indra"},{"value":"Shakra Devanam Indra"},{"value":"the king of heaven in Hindu mythology","g_type":"expl"}]}]}
 {"ent_seq":2185430,"r_ele":[{"reb":"ラクシュミ"}],"sense":[{"pos":["&n;"],"xref":["吉祥天"],"gloss":[{"value":"Lakshmi (consort of Vishnu in Hinduism)"}]}]}
-{"ent_seq":2185440,"k_ele":[{"keb":"靴を磨く"}],"r_ele":[{"reb":"くつをみがく"}],"sense":[{"pos":["&exp;","&v5k;"],"gloss":[{"value":"to polish one's shoes"},{"value":"to clean your shoes"}]}]}
 {"ent_seq":2185450,"k_ele":[{"keb":"山獏"},{"keb":"山貘"}],"r_ele":[{"reb":"やまばく"},{"reb":"ヤマバク","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"mountain tapir (Tapirus pinchaque)"}]}]}
 {"ent_seq":2185460,"k_ele":[{"keb":"マレー獏"},{"keb":"マレー貘"}],"r_ele":[{"reb":"マレーばく"},{"reb":"マレーバク","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Malayan tapir (Tapirus indicus)"}]}]}
 {"ent_seq":2185470,"r_ele":[{"reb":"ハラール"},{"reb":"ハラル"}],"sense":[{"pos":["&n;","&adj-no;"],"lsource":[{"lang":"ara"}],"gloss":[{"value":"halal"}]}]}
@@ -9069,7 +9068,7 @@
 {"ent_seq":2189900,"k_ele":[{"keb":"鬼郭公"}],"r_ele":[{"reb":"おにかっこう"},{"reb":"オニカッコウ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Asian koel (Eudynamys scolopacea)"}]}]}
 {"ent_seq":2189910,"r_ele":[{"reb":"てっぺんかけたか"}],"sense":[{"pos":["&adv;"],"xref":["ホトトギス"],"misc":["&rare;"],"gloss":[{"value":"calling sound of the lesser cuckoo"}]},{"pos":["&n;"],"gloss":[{"value":"lesser cuckoo (Cuculus poliocephalus)"}]}]}
 {"ent_seq":2189920,"r_ele":[{"reb":"ほぞんかけたか"}],"sense":[{"pos":["&n;"],"xref":["てっぺんかけたか"],"gloss":[{"value":"calling sound of the lesser cuckoo"}]}]}
-{"ent_seq":2189930,"k_ele":[{"keb":"托卵"},{"keb":"託卵","ke_inf":["&iK;"]}],"r_ele":[{"reb":"たくらん"}],"sense":[{"pos":["&n;","&vs;"],"gloss":[{"value":"brood parasitism (planting one's eggs in another bird's nest, as demonstrated by the cuckoo, etc.)"}]}]}
+{"ent_seq":2189930,"k_ele":[{"keb":"托卵"},{"keb":"託卵","ke_inf":["&iK;"]},{"keb":"たく卵","ke_inf":["&sK;"]}],"r_ele":[{"reb":"たくらん"}],"sense":[{"pos":["&n;","&vs;","&vt;"],"field":["&zool;"],"gloss":[{"value":"brood parasitism (laying eggs in another's nest, e.g. by a cuckoo)"}]},{"pos":["&n;","&vs;","&vt;"],"misc":["&sl;"],"gloss":[{"value":"paternity fraud (passing off a child fathered by another man as one's husband's)"}]}]}
 {"ent_seq":2189940,"k_ele":[{"keb":"大瑠璃"}],"r_ele":[{"reb":"おおるり"},{"reb":"オオルリ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"blue-and-white flycatcher (Cyanoptila cyanomelana)"}]}]}
 {"ent_seq":2189950,"k_ele":[{"keb":"小瑠璃"}],"r_ele":[{"reb":"こるり"},{"reb":"コルリ","re_nokanji":true}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"Siberian blue robin (Luscinia cyane)"}]}]}
 {"ent_seq":2189960,"k_ele":[{"keb":"吠瑠璃"}],"r_ele":[{"reb":"べいるり"}],"sense":[{"pos":["&n;"],"xref":["緑柱石"],"misc":["&rare;"],"lsource":[{"value":"vaidurya","lang":"san"}],"gloss":[{"value":"beryl"}]}]}
@@ -15737,7 +15736,7 @@
 {"ent_seq":2259030,"r_ele":[{"reb":"チョソングル"},{"reb":"チョソンクル"}],"sense":[{"pos":["&n;"],"xref":["ハングル"],"lsource":[{"value":"choson'gul","lang":"kor"}],"gloss":[{"value":"hangul script (North Korean name)"}]}]}
 {"ent_seq":2259040,"k_ele":[{"keb":"真名"},{"keb":"真字"}],"r_ele":[{"reb":"まな"},{"reb":"まんな"},{"reb":"しんじ","re_restr":["真字"]}],"sense":[{"pos":["&n;"],"xref":["仮名・かな"],"gloss":[{"value":"kanji (as opposed to kana)"}]},{"pos":["&n;"],"xref":["楷書"],"gloss":[{"value":"printed style (of writing Chinese characters)"},{"value":"square style"},{"value":"block style"},{"value":"standard style"}]},{"stagk":["真名"],"pos":["&n;"],"gloss":[{"value":"real name"}]}]}
 {"ent_seq":2259050,"k_ele":[{"keb":"真名本"},{"keb":"真字本"}],"r_ele":[{"reb":"まなぼん"}],"sense":[{"pos":["&n;"],"xref":["仮名本"],"gloss":[{"value":"book written entirely in kanji"}]}]}
-{"ent_seq":2259060,"k_ele":[{"keb":"パラパラ漫画"}],"r_ele":[{"reb":"パラパラまんが"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"flip book"},{"value":"flick book"}]}]}
+{"ent_seq":2259060,"k_ele":[{"keb":"パラパラ漫画"}],"r_ele":[{"reb":"パラパラまんが"},{"reb":"パラパラマンガ","re_nokanji":true}],"sense":[{"pos":["&n;"],"gloss":[{"value":"flip book"},{"value":"flick book"}]}]}
 {"ent_seq":2259070,"k_ele":[{"keb":"馬賊"}],"r_ele":[{"reb":"ばぞく"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"mounted bandit (esp. in north-east China from the end of the Qing dynasty)"}]}]}
 {"ent_seq":2259080,"k_ele":[{"keb":"見れる"}],"r_ele":[{"reb":"みれる"}],"sense":[{"pos":["&v1;"],"xref":["ら抜き","見られる・みられる・2"],"misc":["&col;"],"s_inf":["'ranuki' equivalent of 見られる"],"gloss":[{"value":"to be able to see"}]}]}
 {"ent_seq":2259090,"k_ele":[{"keb":"Ｈビデオ"}],"r_ele":[{"reb":"エッチビデオ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"pornographic video"},{"value":"salacious video"}]}]}
@@ -37878,7 +37877,7 @@
 {"ent_seq":2510760,"k_ele":[{"keb":"キリスト教社会主義"}],"r_ele":[{"reb":"キリストきょうしゃかいしゅぎ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Christian socialism"}]}]}
 {"ent_seq":2510770,"r_ele":[{"reb":"イスラエルロビー"},{"reb":"イスラエル・ロビー"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Israel lobby"}]}]}
 {"ent_seq":2510780,"k_ele":[{"keb":"耶蘇教"},{"keb":"ヤソ教"}],"r_ele":[{"reb":"やそきょう","re_restr":["耶蘇教"]},{"reb":"ヤソきょう","re_restr":["ヤソ教"]}],"sense":[{"pos":["&n;"],"xref":["キリスト教"],"gloss":[{"value":"Christianity"}]}]}
-{"ent_seq":2510790,"k_ele":[{"keb":"新約全書"}],"r_ele":[{"reb":"しんやくぜんしょ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"New Testament"}]}]}
+{"ent_seq":2510790,"k_ele":[{"keb":"新約全書"}],"r_ele":[{"reb":"しんやくぜんしょ"}],"sense":[{"pos":["&n;"],"xref":["新約聖書"],"field":["&Christn;"],"misc":["&rare;"],"gloss":[{"value":"New Testament"}]}]}
 {"ent_seq":2510800,"k_ele":[{"keb":"シュメール語"}],"r_ele":[{"reb":"シュメールご"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"Sumerian (language)"}]}]}
 {"ent_seq":2510810,"k_ele":[{"keb":"シュメール人"}],"r_ele":[{"reb":"シュメールじん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Sumerian (person)"}]}]}
 {"ent_seq":2510820,"k_ele":[{"keb":"エジプト文字"}],"r_ele":[{"reb":"エジプトもじ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Egyptian script (i.e. hieroglyphs, hieratic, and demotic)"}]}]}
@@ -40035,7 +40034,7 @@
 {"ent_seq":2533320,"k_ele":[{"keb":"照り渡る"}],"r_ele":[{"reb":"てりわたる"}],"sense":[{"pos":["&v5r;"],"gloss":[{"value":"to shine over"}]}]}
 {"ent_seq":2533330,"k_ele":[{"keb":"白足袋"}],"r_ele":[{"reb":"しろたび"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"white tabi"}]}]}
 {"ent_seq":2533340,"k_ele":[{"keb":"慣れっこになる"},{"keb":"馴れっこになる"}],"r_ele":[{"reb":"なれっこになる"}],"sense":[{"pos":["&exp;","&v5r;"],"gloss":[{"value":"to become used to"},{"value":"to become familiar with"},{"value":"to grow accustomed to"}]}]}
-{"ent_seq":2533350,"k_ele":[{"keb":"埒もない"},{"keb":"埒も無い"},{"keb":"埓もない"},{"keb":"埓も無い"}],"r_ele":[{"reb":"らちもない"},{"reb":"らっちもない","re_inf":["&ok;"]}],"sense":[{"pos":["&exp;","&adj-i;"],"gloss":[{"value":"incoherent"},{"value":"vague"},{"value":"silly"},{"value":"foolish"}]}]}
+{"ent_seq":2533350,"k_ele":[{"keb":"埒もない"},{"keb":"埓もない","ke_inf":["&rK;"]},{"keb":"埒も無い","ke_inf":["&sK;"]},{"keb":"埓も無い","ke_inf":["&sK;"]}],"r_ele":[{"reb":"らちもない"},{"reb":"らっちもない","re_inf":["&ok;"]}],"sense":[{"pos":["&exp;","&adj-i;"],"gloss":[{"value":"incoherent"},{"value":"vague"},{"value":"silly"},{"value":"foolish"}]}]}
 {"ent_seq":2533360,"k_ele":[{"keb":"新体詩"}],"r_ele":[{"reb":"しんたいし"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"new style poetry"},{"value":"new style poem"}]}]}
 {"ent_seq":2533370,"k_ele":[{"keb":"車外"}],"r_ele":[{"reb":"しゃがい"}],"sense":[{"pos":["&n;","&adj-no;"],"gloss":[{"value":"outside a car (train, bus, etc.)"}]}]}
 {"ent_seq":2533380,"r_ele":[{"reb":"ケロモンガラ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"pinktail durgon (type of triggerfish) (Melichthys vidua)"}]}]}
@@ -40386,7 +40385,7 @@
 {"ent_seq":2537070,"k_ele":[{"keb":"鹿せんべい"},{"keb":"鹿煎餅"}],"r_ele":[{"reb":"しかせんべい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"rice crackers for feeding the deer (in Nara)"}]}]}
 {"ent_seq":2537080,"k_ele":[{"keb":"需要者"}],"r_ele":[{"reb":"じゅようしゃ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"consumer"}]}]}
 {"ent_seq":2537090,"k_ele":[{"keb":"荒者"}],"r_ele":[{"reb":"あらもの"}],"sense":[{"pos":["&n;"],"misc":["&rare;"],"gloss":[{"value":"rough man"},{"value":"rude man"}]}]}
-{"ent_seq":2537110,"r_ele":[{"reb":"ダッチアカウント"},{"reb":"ダッチ・アカウント"}],"sense":[{"pos":["&n;"],"xref":["割り勘"],"lsource":[{"value":"Dutch account","ls_wasei":"y"}],"gloss":[{"value":"splitting the bill"}]}]}
+{"ent_seq":2537110,"r_ele":[{"reb":"ダッチアカウント"},{"reb":"ダッチ・アカウント"}],"sense":[{"pos":["&n;"],"xref":["割り勘・1"],"misc":["&rare;"],"lsource":[{"value":"Dutch account","ls_wasei":"y"}],"gloss":[{"value":"splitting the bill (usu. evenly)"},{"value":"splitting the check"}]}]}
 {"ent_seq":2537120,"k_ele":[{"keb":"身体障害"}],"r_ele":[{"reb":"しんたいしょうがい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"physical disability"},{"value":"handicap"}]}]}
 {"ent_seq":2537130,"k_ele":[{"keb":"眇"}],"r_ele":[{"reb":"すがめ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"squint eye"},{"value":"cross-eye"},{"value":"strabismus"}]}]}
 {"ent_seq":2537140,"k_ele":[{"keb":"火山涙"}],"r_ele":[{"reb":"かざんるい"}],"sense":[{"pos":["&n;"],"xref":["ペレーの涙"],"gloss":[{"value":"Pele's tears (tearlike drops of volcanic glass)"}]}]}
@@ -43789,7 +43788,7 @@
 {"ent_seq":2574720,"k_ele":[{"keb":"床板珊瑚類"}],"r_ele":[{"reb":"しょうばんさんごるい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"tabulate corals (extinct corals of the order Tabulata)"}]}]}
 {"ent_seq":2574730,"k_ele":[{"keb":"居処"}],"r_ele":[{"reb":"いど"}],"sense":[{"pos":["&n;"],"misc":["&arch;"],"gloss":[{"value":"one's seat"}]},{"pos":["&n;"],"misc":["&arch;"],"gloss":[{"value":"buttocks"}]}]}
 {"ent_seq":2574740,"k_ele":[{"keb":"居り所"}],"r_ele":[{"reb":"おりどころ"}],"sense":[{"pos":["&n;"],"misc":["&arch;"],"gloss":[{"value":"whereabouts"}]}]}
-{"ent_seq":2574750,"k_ele":[{"keb":"強情っ張り"},{"keb":"強情っぱり"},{"keb":"強情張"},{"keb":"剛情張"}],"r_ele":[{"reb":"ごうじょうっぱり"}],"sense":[{"pos":["&n;","&adj-na;"],"gloss":[{"value":"stubborn person"},{"value":"obstinate person"},{"value":"stubbornness"},{"value":"obstinacy"}]}]}
+{"ent_seq":2574750,"k_ele":[{"keb":"強情っぱり"},{"keb":"強情っ張り"},{"keb":"剛情張","ke_inf":["&rK;"]},{"keb":"強情張","ke_inf":["&sK;"]},{"keb":"剛情っ張り","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ごうじょうっぱり"}],"sense":[{"pos":["&n;","&adj-na;"],"gloss":[{"value":"stubbornness"},{"value":"obstinacy"}]},{"pos":["&n;"],"gloss":[{"value":"stubborn person"},{"value":"obstinate person"}]}]}
 {"ent_seq":2574760,"r_ele":[{"reb":"ハーベスト"},{"reb":"ハーヴェスト"}],"sense":[{"pos":["&n;","&vs;"],"gloss":[{"value":"harvest"}]}]}
 {"ent_seq":2574770,"k_ele":[{"keb":"南斉"}],"r_ele":[{"reb":"なんせい"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"Southern Qi dynasty (of China; 479-502 CE)"},{"value":"Southern Ch'i dynasty"}]}]}
 {"ent_seq":2574780,"k_ele":[{"keb":"北斉"}],"r_ele":[{"reb":"ほくせい"}],"sense":[{"pos":["&n;"],"misc":["&hist;"],"gloss":[{"value":"Northern Qi dynasty (of China; 550-577)"},{"value":"Northern Ch'i dynasty"}]}]}
@@ -47323,7 +47322,7 @@
 {"ent_seq":2613040,"k_ele":[{"keb":"小手術"}],"r_ele":[{"reb":"しょうしゅじゅつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"minor surgery"},{"value":"minor operation"}]}]}
 {"ent_seq":2613060,"k_ele":[{"keb":"放火犯人"}],"r_ele":[{"reb":"ほうかはんにん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"arsonist"}]}]}
 {"ent_seq":2613070,"k_ele":[{"keb":"する事なす事"}],"r_ele":[{"reb":"することなすこと"}],"sense":[{"pos":["&exp;"],"xref":["やることなすこと"],"misc":["&uk;"],"gloss":[{"value":"everything one does"},{"value":"whatever one does"}]}]}
-{"ent_seq":2613080,"k_ele":[{"keb":"いっその事"},{"keb":"一層の事","ke_inf":["&rK;"]},{"keb":"一層のこと","ke_inf":["&sK;"]}],"r_ele":[{"reb":"いっそのこと","re_pri":{"spec":2}}],"sense":[{"pos":["&adv;"],"xref":["いっそ・1"],"misc":["&uk;"],"gloss":[{"value":"rather"},{"value":"sooner"},{"value":"preferably"}]}]}
+{"ent_seq":2613080,"k_ele":[{"keb":"いっその事"},{"keb":"一層の事","ke_inf":["&rK;"]},{"keb":"一層のこと","ke_inf":["&sK;"]}],"r_ele":[{"reb":"いっそのこと","re_pri":{"spec":2}}],"sense":[{"pos":["&adv;"],"xref":["いっそ・1"],"misc":["&uk;"],"s_inf":["more emphatic than いっそ"],"gloss":[{"value":"rather"},{"value":"sooner"},{"value":"preferably"}]}]}
 {"ent_seq":2613100,"r_ele":[{"reb":"あたぼう"}],"sense":[{"pos":["&adj-na;"],"xref":["当り前・1","べらぼうめ"],"misc":["&sl;"],"s_inf":["from 当り前、べらぼうめ"],"gloss":[{"value":"natural"},{"value":"reasonable"},{"value":"obvious"}]}]}
 {"ent_seq":2613110,"k_ele":[{"keb":"高学歴化"}],"r_ele":[{"reb":"こうがくれきか"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"increase in the level of academic achievement"},{"value":"popularisation of higher education"}]}]}
 {"ent_seq":2613120,"k_ele":[{"keb":"実際にあった"},{"keb":"実際に有った"}],"r_ele":[{"reb":"じっさいにあった"}],"sense":[{"pos":["&exp;","&adj-f;"],"xref":["実際・1"],"gloss":[{"value":"real"},{"value":"actual"},{"value":"true"}]}]}
@@ -49826,7 +49825,7 @@
 {"ent_seq":2639120,"k_ele":[{"keb":"黄飯"}],"r_ele":[{"reb":"おうはん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"yellow rice meal (coloured with essence of gardenia fruit)"}]}]}
 {"ent_seq":2639130,"k_ele":[{"keb":"深川丼"}],"r_ele":[{"reb":"ふかがわどん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"rice bowl with clams and miso broth"}]}]}
 {"ent_seq":2639140,"k_ele":[{"keb":"鶏飯"}],"r_ele":[{"reb":"けいはん"},{"reb":"ケーファン","re_nokanji":true}],"sense":[{"pos":["&n;"],"field":["&food;"],"gloss":[{"value":"dish of seasoned chicken with rice, pickles, etc. (from Kagoshima and Okinawa)"}]}]}
-{"ent_seq":2639150,"r_ele":[{"reb":"タコライス"},{"reb":"タコ・ライス"}],"sense":[{"pos":["&n;"],"lsource":[{"ls_wasei":"y"}],"gloss":[{"value":"taco rice"},{"value":"Okinawan rice dish topped with taco filling (seasoned mince, salsa sauce, lettuce, etc.)","g_type":"expl"}]}]}
+{"ent_seq":2639150,"r_ele":[{"reb":"タコライス"},{"reb":"タコ・ライス"}],"sense":[{"pos":["&n;"],"field":["&food;"],"lsource":[{"ls_wasei":"y"}],"gloss":[{"value":"taco rice"},{"value":"Okinawan rice dish topped with taco filling (seasoned mince, salsa sauce, lettuce, etc.)","g_type":"expl"}]}]}
 {"ent_seq":2639160,"k_ele":[{"keb":"カツ飯"},{"keb":"かつ飯"}],"r_ele":[{"reb":"カツめし"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"cutlet and rice combo meal"}]}]}
 {"ent_seq":2639170,"r_ele":[{"reb":"マイボトル"},{"reb":"マイ・ボトル"}],"sense":[{"pos":["&n;"],"lsource":[{"value":"my bottle","ls_wasei":"y"}],"gloss":[{"value":"(reusable) drinks bottle"},{"value":"water bottle"},{"value":"thermos bottle"},{"value":"vacuum flask"}]}]}
 {"ent_seq":2639190,"k_ele":[{"keb":"強飯"}],"r_ele":[{"reb":"ごうはん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"event in which someone is forced to eat a large quantity of rice (e.g. the April 2 Shugendō ceremony at Nikko's Rinnōji temple)"}]}]}
@@ -58277,7 +58276,7 @@
 {"ent_seq":2729720,"k_ele":[{"keb":"水月"}],"r_ele":[{"reb":"すいげつ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"water and the Moon"}]},{"pos":["&n;"],"gloss":[{"value":"the Moon reflected on the water"}]},{"pos":["&n;"],"gloss":[{"value":"solar plexus (as a pressure point in martial arts)"}]}]}
 {"ent_seq":2729730,"k_ele":[{"keb":"女男"}],"r_ele":[{"reb":"おんなおとこ"}],"sense":[{"pos":["&n;"],"xref":["男女・おとこおんな・2"],"gloss":[{"value":"feminine man"},{"value":"effeminate man"}]},{"pos":["&n;"],"xref":["男女・おとこおんな・1"],"gloss":[{"value":"masculine woman"},{"value":"mannish woman"}]}]}
 {"ent_seq":2729740,"r_ele":[{"reb":"バリュート"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"ballute"},{"value":"parachute braking device","g_type":"expl"}]}]}
-{"ent_seq":2729750,"k_ele":[{"keb":"淫夢"}],"r_ele":[{"reb":"いんむ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"lewd dream"},{"value":"salacious fantasy"}]}]}
+{"ent_seq":2729750,"k_ele":[{"keb":"淫夢"}],"r_ele":[{"reb":"いんむ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"lewd dream"},{"value":"salacious fantasy"}]},{"pos":["&n;"],"misc":["&sl;","&abbr;"],"s_inf":["abbr. of 真夏の夜の淫夢"],"gloss":[{"value":"Inmu (Japanese gay adult film that became a meme)"}]}]}
 {"ent_seq":2729760,"k_ele":[{"keb":"異空間"}],"r_ele":[{"reb":"いくうかん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"unusual space"},{"value":"other dimension"}]}]}
 {"ent_seq":2729770,"k_ele":[{"keb":"鼻の頭"}],"r_ele":[{"reb":"はなのあたま"}],"sense":[{"pos":["&exp;","&n;"],"gloss":[{"value":"tip of one's nose"}]}]}
 {"ent_seq":2729780,"k_ele":[{"keb":"狭し"}],"r_ele":[{"reb":"せばし"},{"reb":"せまし"},{"reb":"せし"},{"reb":"さし"}],"sense":[{"pos":["&adj-ku;"],"misc":["&arch;"],"gloss":[{"value":"narrow"},{"value":"confined"},{"value":"small"}]},{"stagr":["せばし"],"pos":["&adj-shiku;"],"misc":["&arch;"],"gloss":[{"value":"narrow"},{"value":"confined"},{"value":"small"}]}]}
@@ -72939,7 +72938,7 @@
 {"ent_seq":2831916,"r_ele":[{"reb":"ジェマイユ"}],"sense":[{"pos":["&n;"],"lsource":[{"lang":"fre"}],"gloss":[{"value":"gemmail"},{"value":"type of stained glass art","g_type":"expl"}]}]}
 {"ent_seq":2831917,"r_ele":[{"reb":"カフェインレス"}],"sense":[{"pos":["&adj-f;"],"lsource":[{"value":"caffeine-less","ls_wasei":"y"}],"gloss":[{"value":"decaffeinated"},{"value":"caffeine-free"},{"value":"uncaffeinated"},{"value":"non-caffeinated"}]}]}
 {"ent_seq":2831918,"k_ele":[{"keb":"耐力壁"}],"r_ele":[{"reb":"たいりょくへき"},{"reb":"たいりょくかべ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"load-bearing wall"},{"value":"bearing wall"}]}]}
-{"ent_seq":2831919,"r_ele":[{"reb":"チャイニーズタイペイ"},{"reb":"チャイニーズ・タイペイ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Chinese Taipei"},{"value":"name used by the Republic of China (Taiwan) when participating in international competitions","g_type":"expl"}]}]}
+{"ent_seq":2831919,"r_ele":[{"reb":"チャイニーズタイペイ"},{"reb":"チャイニーズ・タイペイ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Chinese Taipei (designation for Taiwan in international sports and certain international organizations)"}]}]}
 {"ent_seq":2831920,"r_ele":[{"reb":"ダブステップ"}],"sense":[{"pos":["&n;"],"field":["&music;"],"gloss":[{"value":"dubstep"}]}]}
 {"ent_seq":2831921,"r_ele":[{"reb":"デカフェ"},{"reb":"ディカフェ"},{"reb":"ディカフ"},{"reb":"ディキャフ"}],"sense":[{"pos":["&n;","&adj-f;"],"gloss":[{"value":"decaf"},{"value":"decaffeinated coffee"},{"value":"decaffeinated"}]}]}
 {"ent_seq":2831922,"k_ele":[{"keb":"建軍"}],"r_ele":[{"reb":"けんぐん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"founding of an army (navy, air force)"}]}]}
@@ -99688,7 +99687,7 @@
 {"ent_seq":2860407,"k_ele":[{"keb":"機械化歩兵"}],"r_ele":[{"reb":"きかいかほへい"}],"sense":[{"pos":["&n;"],"field":["&mil;"],"gloss":[{"value":"mechanized infantry"}]}]}
 {"ent_seq":2860408,"k_ele":[{"keb":"万策尽きる"},{"keb":"万策つきる","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ばんさくつきる"}],"sense":[{"pos":["&exp;","&v1;"],"gloss":[{"value":"to exhaust all possible means"},{"value":"to come to the end of one's resources"},{"value":"to reach the end of one's tether"},{"value":"to be at one's wits' end"},{"value":"to play one's last card"}]}]}
 {"ent_seq":2860409,"k_ele":[{"keb":"主"}],"r_ele":[{"reb":"しゅう"}],"sense":[{"pos":["&n;"],"xref":["主・しゅ・1"],"gloss":[{"value":"(one's) master"},{"value":"(one's) employer"},{"value":"(one's) lord"}]}]}
-{"ent_seq":2860410,"k_ele":[{"keb":"後がつかえる"},{"keb":"後が支える"}],"r_ele":[{"reb":"あとがつかえる"}],"sense":[{"pos":["&exp;","&v1;"],"xref":["閊える・つかえる・2"],"misc":["&id;"],"gloss":[{"value":"to make (someone) wait"},{"value":"to take more time (than anticipated)"}]}]}
+{"ent_seq":2860410,"k_ele":[{"keb":"後がつかえる"},{"keb":"後が支える"}],"r_ele":[{"reb":"あとがつかえる"}],"sense":[{"pos":["&exp;","&v1;"],"xref":["閊える・つかえる・1"],"misc":["&id;"],"gloss":[{"value":"to make (the next person) wait"},{"value":"to hold up a place"}]}]}
 {"ent_seq":2860411,"k_ele":[{"keb":"専門卒"}],"r_ele":[{"reb":"せんもんそつ"}],"sense":[{"pos":["&n;","&adj-no;"],"misc":["&col;","&abbr;"],"s_inf":["abbr. of 専門学校卒業（者）"],"gloss":[{"value":"vocational school graduate"}]}]}
 {"ent_seq":2860412,"k_ele":[{"keb":"専卒"}],"r_ele":[{"reb":"せんそつ"}],"sense":[{"pos":["&n;","&adj-no;"],"xref":["専門卒"],"misc":["&col;","&abbr;"],"gloss":[{"value":"vocational school graduate"}]}]}
 {"ent_seq":2860413,"k_ele":[{"keb":"柔道畳"}],"r_ele":[{"reb":"じゅうどうたたみ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"judo mat"}]}]}
@@ -99998,3 +99997,4 @@
 {"ent_seq":2860732,"r_ele":[{"reb":"ファクトブック"},{"reb":"ファクト・ブック"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"factbook"}]}]}
 {"ent_seq":2860733,"k_ele":[{"keb":"家トレ"}],"r_ele":[{"reb":"いえトレ"}],"sense":[{"pos":["&n;"],"xref":["宅トレ"],"misc":["&sl;"],"gloss":[{"value":"working out at home"}]}]}
 {"ent_seq":2860734,"k_ele":[{"keb":"健康増進"}],"r_ele":[{"reb":"けんこうぞうしん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"promotion of good health"},{"value":"improvement of health"}]}]}
+{"ent_seq":2860735,"k_ele":[{"keb":"首切り役人"},{"keb":"首切役人","ke_inf":["&sK;"]}],"r_ele":[{"reb":"くびきりやくにん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"executioner"},{"value":"headsman"}]}]}

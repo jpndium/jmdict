@@ -1,4 +1,3 @@
-{"ent_seq":2860735,"k_ele":[{"keb":"首切り役人"},{"keb":"首切役人","ke_inf":["&sK;"]}],"r_ele":[{"reb":"くびきりやくにん"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"executioner"},{"value":"headsman"}]}]}
 {"ent_seq":2860736,"k_ele":[{"keb":"拗れ"}],"r_ele":[{"reb":"こじれ"}],"sense":[{"pos":["&n;"],"misc":["&uk;"],"gloss":[{"value":"complications"},{"value":"tangle"}]}]}
 {"ent_seq":2860737,"k_ele":[{"keb":"ご了承ください","ke_pri":{"spec":1}},{"keb":"ご了承下さい","ke_pri":{"spec":1}},{"keb":"御了承下さい","ke_inf":["&sK;"]},{"keb":"御了承ください","ke_inf":["&sK;"]}],"r_ele":[{"reb":"ごりょうしょうください","re_pri":{"spec":1}}],"sense":[{"pos":["&exp;"],"misc":["&pol;"],"gloss":[{"value":"please be aware (that ...)"},{"value":"please note (that ...)"},{"value":"please understand (that ...)"}]}]}
 {"ent_seq":2860738,"k_ele":[{"keb":"愛及屋烏"}],"r_ele":[{"reb":"あいきゅうおくう"}],"sense":[{"pos":["&n;"],"misc":["&yoji;"],"gloss":[{"value":"infatuation"},{"value":"doting"}]}]}
@@ -11606,6 +11605,8 @@
 {"ent_seq":2873143,"k_ele":[{"keb":"泛緑連盟"}],"r_ele":[{"reb":"はんりょくれんめい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Pan-Green Coalition (Taiwan political bloc)"}]}]}
 {"ent_seq":2873144,"k_ele":[{"keb":"笛声音"}],"r_ele":[{"reb":"てきせいおん"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"whistling rale"},{"value":"piping rale"},{"value":"whistling chest sound"}]}]}
 {"ent_seq":2873145,"k_ele":[{"keb":"満族"}],"r_ele":[{"reb":"まんぞく"}],"sense":[{"pos":["&n;"],"xref":["満州族・まんしゅうぞく"],"gloss":[{"value":"Manchu (people)"}]}]}
+{"ent_seq":2873146,"k_ele":[{"keb":"棚出し"},{"keb":"棚だし"}],"r_ele":[{"reb":"たなだし"}],"sense":[{"pos":["&n;"],"xref":["品出し・1"],"gloss":[{"value":"shelf-stocking"},{"value":"putting merchandise out on shelves"},{"value":"restocking shelves"}]}]}
+{"ent_seq":2873147,"k_ele":[{"keb":"号線"}],"r_ele":[{"reb":"ごうせん"}],"sense":[{"pos":["&n-suf;"],"xref":["号・1","線・4"],"gloss":[{"value":"(numbered) route"},{"value":"line (e.g. train line)"}]}]}
 {"ent_seq":2873148,"k_ele":[{"keb":"副査"}],"r_ele":[{"reb":"ふくさ"}],"sense":[{"pos":["&n;"],"xref":["主査"],"gloss":[{"value":"assistant examiner"},{"value":"second reader"}]}]}
 {"ent_seq":2873149,"r_ele":[{"reb":"デキサメタゾン"}],"sense":[{"pos":["&n;"],"field":["&chem;","&pharm;"],"gloss":[{"value":"dexamethasone"}]}]}
 {"ent_seq":2873150,"r_ele":[{"reb":"マスタースケジュール"},{"reb":"マスター・スケジュール"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"master schedule"}]}]}
@@ -11617,11 +11618,38 @@
 {"ent_seq":2873159,"r_ele":[{"reb":"キチン"}],"sense":[{"pos":["&n;"],"field":["&chem;"],"gloss":[{"value":"chitin"}]}]}
 {"ent_seq":2873160,"k_ele":[{"keb":"規定語"}],"r_ele":[{"reb":"きていご"}],"sense":[{"pos":["&n;"],"xref":["連体修飾語"],"field":["&gramm;"],"gloss":[{"value":"modifier of a non-inflectable word"},{"value":"adnominal modifier"}]}]}
 {"ent_seq":2873161,"k_ele":[{"keb":"線維軟骨"},{"keb":"繊維軟骨"}],"r_ele":[{"reb":"せんいなんこつ"}],"sense":[{"pos":["&n;"],"field":["&anat;"],"gloss":[{"value":"fibrocartilage"}]}]}
+{"ent_seq":2873163,"k_ele":[{"keb":"ネット中毒"}],"r_ele":[{"reb":"ネットちゅうどく"}],"sense":[{"pos":["&n;"],"xref":["中毒・2"],"gloss":[{"value":"Internet addiction"}]}]}
 {"ent_seq":2873164,"k_ele":[{"keb":"卓布"}],"r_ele":[{"reb":"たくふ"}],"sense":[{"pos":["&n;"],"xref":["テーブルクロス"],"misc":["&rare;"],"gloss":[{"value":"tablecloth"}]}]}
 {"ent_seq":2873165,"r_ele":[{"reb":"しぇからしか"}],"sense":[{"pos":["&exp;"],"xref":["煩い・2"],"s_inf":["mainly Hakata and Kumamoto dialect"],"dial":["&kyu;"],"gloss":[{"value":"noisy"},{"value":"annoying"},{"value":"troublesome"},{"value":"persistent"},{"value":"nagging"}]}]}
 {"ent_seq":2873166,"k_ele":[{"keb":"忘備録"}],"r_ele":[{"reb":"ぼうびろく"}],"sense":[{"pos":["&n;"],"xref":["備忘録"],"gloss":[{"value":"notebook"},{"value":"memorandum"},{"value":"commonplace book"}]}]}
+{"ent_seq":2873167,"k_ele":[{"keb":"急からしい","ke_inf":["&rK;"]}],"r_ele":[{"reb":"せからしい"}],"sense":[{"pos":["&adj-i;"],"xref":["うるさい・1"],"misc":["&uk;"],"dial":["&kyu;","&osb;"],"gloss":[{"value":"noisy"},{"value":"annoying"},{"value":"troublesome"},{"value":"persistent"},{"value":"nagging"}]},{"pos":["&adj-i;"],"misc":["&uk;"],"dial":["&kyu;","&ksb;"],"gloss":[{"value":"restless"},{"value":"fidgety"},{"value":"hurried"},{"value":"busy"},{"value":"fussy"}]}]}
 {"ent_seq":2873168,"k_ele":[{"keb":"ＭＩＡ"}],"r_ele":[{"reb":"エム・アイ・エー"},{"reb":"エムアイエー","re_inf":["&sk;"]}],"sense":[{"pos":["&n;"],"gloss":[{"value":"missing in action"},{"value":"MIA"}]}]}
-{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-18"}]}]}
+{"ent_seq":2873169,"k_ele":[{"keb":"樽生ビール"}],"r_ele":[{"reb":"たるなまビール"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"draft beer"},{"value":"draught beer"}]}]}
+{"ent_seq":2873170,"k_ele":[{"keb":"世界の警察官"}],"r_ele":[{"reb":"せかいのけいさつかん"}],"sense":[{"pos":["&exp;","&n;"],"misc":["&id;"],"gloss":[{"value":"global policeman (e.g. the USA)"},{"value":"world police"}]}]}
+{"ent_seq":2873172,"r_ele":[{"reb":"メガネウラ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"Meganeura (extinct dragonfly genus)"}]}]}
+{"ent_seq":2873174,"k_ele":[{"keb":"肺癆"}],"r_ele":[{"reb":"はいろう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"pulmonary phthisis"}]}]}
+{"ent_seq":2873175,"r_ele":[{"reb":"カーサービス"},{"reb":"カー・サービス"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"car service"}]}]}
+{"ent_seq":2873176,"k_ele":[{"keb":"足治療"}],"r_ele":[{"reb":"あしちりょう"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"podiatry"},{"value":"chiropody"}]}]}
+{"ent_seq":2873177,"k_ele":[{"keb":"刀削麺"}],"r_ele":[{"reb":"とうしょうめん"},{"reb":"とうさくめん"}],"sense":[{"pos":["&n;"],"field":["&food;"],"gloss":[{"value":"knife-cut noodles (specialty of Shanxi Province, China)"},{"value":"knife-sliced noodles"},{"value":"knife-shaved noodles"}]}]}
+{"ent_seq":2873178,"k_ele":[{"keb":"造園家"}],"r_ele":[{"reb":"ぞうえんか"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"landscape architect"},{"value":"landscape gardener"},{"value":"garden designer"},{"value":"horticulturist"}]}]}
+{"ent_seq":2873179,"k_ele":[{"keb":"植木師"}],"r_ele":[{"reb":"うえきし"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"gardener"},{"value":"nurseryman"}]}]}
+{"ent_seq":2873180,"k_ele":[{"keb":"網膜光凝固術"}],"r_ele":[{"reb":"もうまくひかりぎょうこじゅつ"}],"sense":[{"pos":["&n;"],"xref":["網膜光凝固"],"field":["&surg;"],"gloss":[{"value":"retinal (laser) photocoagulation"}]}]}
+{"ent_seq":2873181,"k_ele":[{"keb":"光凝固術"}],"r_ele":[{"reb":"ひかりぎょうこじゅつ"}],"sense":[{"pos":["&n;"],"field":["&surg;"],"gloss":[{"value":"photocoagulation"}]}]}
+{"ent_seq":2873182,"k_ele":[{"keb":"網膜光凝固"}],"r_ele":[{"reb":"もうまくひかりぎょうこ"}],"sense":[{"pos":["&n;"],"field":["&surg;"],"gloss":[{"value":"retinal (laser) photocoagulation"}]}]}
+{"ent_seq":2873183,"k_ele":[{"keb":"刀削麺"}],"r_ele":[{"reb":"ダオシャオミェン"},{"reb":"ダオシャオミエン"},{"reb":"ダオシャオメン"}],"sense":[{"pos":["&n;"],"xref":["刀削麺・とうしょうめん"],"field":["&food;"],"lsource":[{"value":"dāoxiāomiàn","lang":"chi"}],"gloss":[{"value":"knife-cut noodles (specialty of Shanxi Province, China)"},{"value":"knife-sliced noodles"},{"value":"knife-shaved noodles"}]}]}
+{"ent_seq":2873184,"k_ele":[{"keb":"陣構え"}],"r_ele":[{"reb":"じんがまえ"}],"sense":[{"pos":["&n;"],"field":["&mil;"],"gloss":[{"value":"battle formation"}]}]}
+{"ent_seq":2873185,"k_ele":[{"keb":"可観測性"}],"r_ele":[{"reb":"かかんそくせい"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"observability"}]}]}
+{"ent_seq":2873188,"k_ele":[{"keb":"族"}],"r_ele":[{"reb":"やから"}],"sense":[{"pos":["&n;"],"misc":["&poet;"],"gloss":[{"value":"clan"},{"value":"family"},{"value":"one's kin"}]}]}
+{"ent_seq":2873189,"k_ele":[{"keb":"嫌気性消化"}],"r_ele":[{"reb":"けんきせいしょうか"}],"sense":[{"pos":["&n;"],"field":["&biochem;"],"gloss":[{"value":"anaerobic digestion"}]}]}
+{"ent_seq":2873190,"k_ele":[{"keb":"糖尿病性昏睡"}],"r_ele":[{"reb":"とうにょうびょうせいこんすい"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"diabetic coma"}]}]}
+{"ent_seq":2873191,"k_ele":[{"keb":"維摩"}],"r_ele":[{"reb":"ゆいま"}],"sense":[{"pos":["&n;"],"field":["&Buddh;"],"gloss":[{"value":"Vimalakirti"}]}]}
+{"ent_seq":2873192,"k_ele":[{"keb":"中華台北"}],"r_ele":[{"reb":"ちゅうかタイペイ"}],"sense":[{"pos":["&n;"],"xref":["チャイニーズタイペイ"],"gloss":[{"value":"Chinese Taipei (designation for Taiwan in international sports and certain international organizations)"}]}]}
+{"ent_seq":2873194,"k_ele":[{"keb":"視野検査"}],"r_ele":[{"reb":"しやけんさ"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"visual field test"},{"value":"perimetry"}]}]}
+{"ent_seq":2873196,"k_ele":[{"keb":"賑わしい"}],"r_ele":[{"reb":"にぎわしい"}],"sense":[{"pos":["&adj-i;"],"xref":["賑やか・2"],"gloss":[{"value":"lively"},{"value":"prosperous"},{"value":"thriving"}]}]}
+{"ent_seq":2873197,"k_ele":[{"keb":"小児恐怖症"}],"r_ele":[{"reb":"しょうにきょうふしょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"pediophobia"}]}]}
+{"ent_seq":2873198,"k_ele":[{"keb":"人形恐怖症"}],"r_ele":[{"reb":"にんぎょうきょうふしょう"}],"sense":[{"pos":["&n;"],"field":["&med;"],"gloss":[{"value":"pediophobia"}]}]}
+{"ent_seq":2873199,"k_ele":[{"keb":"備中鍬"}],"r_ele":[{"reb":"びっちゅうぐわ"}],"sense":[{"pos":["&n;"],"gloss":[{"value":"fork hoe"}]}]}
+{"ent_seq":9999999,"k_ele":[{"keb":"ＪＭｄｉｃｔ"}],"r_ele":[{"reb":"ジェイエムディクト"}],"sense":[{"pos":["&unc;"],"gloss":[{"value":"Japanese-Multilingual Dictionary Project - Creation Date: 2026-10-25"}]}]}
 {"ent_seq":5000011,"k_ele":[{"keb":"２ちゃんねる"}],"r_ele":[{"reb":"にちゃんねる"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"2channel (online forum)"}]}]}
 {"ent_seq":5000012,"k_ele":[{"keb":"３Ｍ"}],"r_ele":[{"reb":"スリーエム"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"3M"}]}]}
 {"ent_seq":5000016,"k_ele":[{"keb":"Ｅテレ"}],"r_ele":[{"reb":"イーテレ"}],"sense":[{"pos":["&n;"],"misc":["&serv;"],"gloss":[{"value":"NHK Educational TV"}]}]}
@@ -12186,6 +12214,7 @@
 {"ent_seq":5042108,"k_ele":[{"keb":"ジュンク堂"}],"r_ele":[{"reb":"ジュンクどう"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Junkudo (bookstore chain)"}]}]}
 {"ent_seq":5042229,"r_ele":[{"reb":"ジョーブラックをよろしく"}],"sense":[{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"Meet Joe Black (film)"}]}]}
 {"ent_seq":5042356,"r_ele":[{"reb":"ジョナサン"}],"sense":[{"pos":["&n;"],"misc":["&male;","&surname;"],"gloss":[{"value":"Jonathan"}]},{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Jonathan's (family restaurant)"}]}]}
+{"ent_seq":5042700,"k_ele":[{"keb":"ジンギス汗"}],"r_ele":[{"reb":"ジンギスかん"}],"sense":[{"pos":["&n;"],"misc":["&person;"],"gloss":[{"value":"Genghis Khan (1162-1227)"}]}]}
 {"ent_seq":5042810,"r_ele":[{"reb":"スーパーファミコン"},{"reb":"スーパー・ファミコン"}],"sense":[{"pos":["&n;"],"misc":["&product;"],"gloss":[{"value":"(Nintendo) Super Famicom (equiv: Super Nintendo or SNES)"},{"value":"Super Nintendo Entertainment System"}]}]}
 {"ent_seq":5042811,"k_ele":[{"keb":"スーパーフォース２"}],"r_ele":[{"reb":"スーパーフォースツー"}],"sense":[{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"Super Force 2 (film)"}]}]}
 {"ent_seq":5042812,"r_ele":[{"reb":"スーパーマリオ"}],"sense":[{"pos":["&n;"],"misc":["&product;"],"gloss":[{"value":"Super Mario (video game series)"}]}]}
@@ -12306,6 +12335,7 @@
 {"ent_seq":5050989,"r_ele":[{"reb":"チョコラ"}],"sense":[{"pos":["&n;"],"misc":["&company;"],"gloss":[{"value":"Chocola"}]}]}
 {"ent_seq":5051090,"r_ele":[{"reb":"チリーン"}],"sense":[{"pos":["&n;"],"misc":["&char;"],"gloss":[{"value":"Chimecho (Pokémon)"}]}]}
 {"ent_seq":5051127,"r_ele":[{"reb":"チルット"}],"sense":[{"pos":["&n;"],"misc":["&char;"],"gloss":[{"value":"Swablu (Pokémon)"}]}]}
+{"ent_seq":5051185,"k_ele":[{"keb":"成吉思汗"}],"r_ele":[{"reb":"ジンギスカン"},{"reb":"ジンギス・カン"},{"reb":"チンギスハーン"},{"reb":"チンギス・ハーン"},{"reb":"チンギスハン"},{"reb":"チンギス・ハン"},{"reb":"チンギスカン"},{"reb":"チンギス・カン"},{"reb":"ジンギスハン"},{"reb":"ジンギス・ハン"}],"sense":[{"pos":["&n;"],"misc":["&person;"],"gloss":[{"value":"Genghis Khan (c. 1162-1227)"}]}]}
 {"ent_seq":5051253,"r_ele":[{"reb":"ツーカー"}],"sense":[{"pos":["&n;"],"misc":["&product;"],"gloss":[{"value":"Tu-ka (Japanese mobile phone service)"}]}]}
 {"ent_seq":5051384,"r_ele":[{"reb":"ツィゴイネルワイゼン"}],"sense":[{"pos":["&n;"],"misc":["&work;"],"gloss":[{"value":"Zigeunerweisen (violin work by Sarasate)"}]}]}
 {"ent_seq":5051858,"r_ele":[{"reb":"ヅカ"}],"sense":[{"pos":["&n;"],"misc":["&organization;"],"gloss":[{"value":"Takarazuka Revue (abbr)"}]}]}
